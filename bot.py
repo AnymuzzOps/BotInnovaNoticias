@@ -17,8 +17,10 @@ log = logging.getLogger(__name__)
 GROQ_API_KEY      = os.environ["GROQ_API_KEY"]
 TELEGRAM_TOKEN    = os.environ["TELEGRAM_TOKEN"]
 TELEGRAM_CHAT_IDS = [
-    os.environ["TELEGRAM_CHAT_ID"],
-    os.environ["TELEGRAM_CHAT_ID_2"],
+    chat_id for chat_id in [
+        os.environ.get("TELEGRAM_CHAT_ID"),
+        os.environ.get("TELEGRAM_CHAT_ID_2"),
+    ] if chat_id
 ]
 
 MAX_NOTICIAS_POR_CICLO = 5
