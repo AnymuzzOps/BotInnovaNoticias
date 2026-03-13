@@ -193,26 +193,28 @@ def es_avance_positivo(titulo: str) -> bool:
         "- Noticias de despidos o crisis en empresas tech\n"
         "- Noticias negativas, neutras o alarmistas\n\n"
         f'Noticia: "{titulo}"\n\n'
-        "Responde SOLO con SÍ o NO."'''
+        "Responde SOLO con SÍ o NO.'''
     resultado = _llamar_groq(prompt)
     return resultado.upper().startswith("SÍ")
 
 
 def generar_post(noticia: dict) -> str:
-    prompt = f''Eres el editor de un canal de tecnología e innovación global.\n"
+    prompt = (
+        "Eres el editor de un canal de tecnología e innovación global.\n"
         "Tono: directo, informativo, sin exceso de emojis.\n\n"
-        f"Noticia: {noticia[\'titulo\']}\n"
-        f"Link: {noticia[\'link\']}\n\n"
+        f"Noticia: {noticia['titulo']}\n"
+        f"Link: {noticia['link']}\n\n"
         "Escribe un post para Twitter/X de máximo 280 caracteres:\n"
-      '- Emoji tech relevante al inicio\n"
-       '- El hecho concreto: qué se lanzó, descubrió o logró\n"
-        '- Por qué importa para el mundo tech\n"
-        '- Incluye el link\n"
-        '- Fuente: [nombre del medio] al final\n"
-        '- Sin hashtags\n\n"
-        'Responde SOLO con el post.'''
+        "- Emoji tech relevante al inicio\n"
+        "- El hecho concreto: qué se lanzó, descubrió o logró\n"
+        "- Por qué importa para el mundo tech\n"
+        "- Incluye el link\n"
+        "- Fuente: [nombre del medio] al final\n"
+        "- Sin hashtags\n\n"
+        "Responde SOLO con el post."
+    )
     return _llamar_groq(prompt)
-
+    
 # ── Persistencia ──────────────────────────────────────────────────────────────
 def cargar_procesadas() -> set[str]:
     try:
