@@ -30,92 +30,87 @@ PROCESADAS_FILE        = "procesadas.txt"
 
 # ── Fuentes RSS ───────────────────────────────────────────────────────────────
 FUENTES = [
-    # Chile — noticias generales
-    "https://feeds.emol.com/emol/nacional",
-    "https://feeds.emol.com/emol/economia",
-    "https://www.cooperativa.cl/noticias/rss/",
-    "https://www.latercera.com/arc/outboundfeeds/rss/?outputType=xml",
-    "https://www.elmostrador.cl/feed/",
-    "https://www.df.cl/feed",
-    "https://www.pulso.cl/feed/",
-    "https://www.ex-ante.cl/feed/",
-    "https://www.biobiochile.cl/lista/categoria/nacional/feed/",
-    "https://www.cnnchile.com/feed/",
-    "https://radio.uchile.cl/feed/",
-    "https://www.24horas.cl/rss/ultimas-noticias",
-    # Economía y negocios global
-    "https://feeds.bloomberg.com/markets/news.rss",
-    "https://feeds.bloomberg.com/technology/news.rss",
-    "https://feeds.reuters.com/reuters/businessNews",
-    "https://feeds.reuters.com/reuters/technologyNews",
-    "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
-    "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
-    "https://www.economist.com/finance-and-economics/rss.xml",
-    "https://www.economist.com/business/rss.xml",
-    "https://www.wsj.com/xml/rss/3_7014.xml",
-    # Tecnología e innovación
+    # Tecnología e IA — tier 1
     "https://techcrunch.com/feed/",
+    "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "https://techcrunch.com/category/startups/feed/",
+    "https://www.theverge.com/rss/index.xml",
     "https://www.wired.com/feed/rss",
     "https://feeds.arstechnica.com/arstechnica/index",
     "https://www.technologyreview.com/feed/",
     "https://venturebeat.com/feed/",
-    "https://www.theverge.com/rss/index.xml",
-    # Ciencia y medio ambiente
-    "https://www.sciencedaily.com/rss/top/science.xml",
-    "https://www.nature.com/nature.rss",
-    "https://phys.org/rss-feed/",
-    # Energía y minería
-    "https://www.mining.com/feed/",
-    "https://oilprice.com/rss/main",
-    "https://www.mineria.cl/feed/",
-    "https://www.mch.cl/feed/",
-    # Latinoamérica e internacional
-    "https://en.mercopress.com/rss/chile",
-    "https://en.mercopress.com/rss/economy",
-    "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america/portada",
-    "https://www.americaeconomia.com/rss.xml",
-    "https://feeds.reuters.com/reuters/latinamerica",
-    "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-    "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-    # Startups e inversión
+    "https://venturebeat.com/category/ai/feed/",
+    # IA especializada
+    "https://openai.com/blog/rss/",
+    "https://huggingface.co/blog/feed.xml",
+    "https://www.marktechpost.com/feed/",
+    "https://syncedreview.com/feed/",
+    # Automatización y robótica
+    "https://spectrum.ieee.org/feeds/feed.rss",
+    "https://www.roboticsandautomationnews.com/feed",
+    # Startups e inversión tech
     "https://news.crunchbase.com/feed/",
-    "https://techcrunch.com/category/startups/feed/",
+    "https://sifted.eu/feed/",
+    # Tecnología — medios grandes
+    "https://feeds.bloomberg.com/technology/news.rss",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+    "https://feeds.bbci.co.uk/news/technology/rss.xml",
+    "https://www.zdnet.com/news/rss.xml",
+    "https://www.cnet.com/rss/news/",
+    # Ciencia aplicada y futurismo
+    "https://phys.org/rss-feed/",
+    "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+    "https://singularityhub.com/feed/",
+    "https://futurism.com/feed",
 ]
 
 # ── Filtros de palabras ───────────────────────────────────────────────────────
 PALABRAS_NEGATIVAS = {
+    # Violencia y crimen
     "muerto", "muertos", "herido", "heridos", "asesinado", "asesinato",
-    "crimen", "criminal", "homicidio", "femicidio", "violación",
-    "ataque", "atentado", "terrorismo", "terrorista", "bomba",
-    "masacre", "genocidio", "guerra", "conflicto armado",
-    "detenido", "imputado", "arrestado", "condenado", "preso",
-    "robo", "asalto", "narcotráfico", "cartel",
-    "accidente", "tragedia", "catástrofe", "desastre",
-    "incendio", "terremoto", "inundación", "tsunami",
-    "escándalo", "corrupción", "fraude", "estafa", "colusión",
-    "crisis", "colapso", "quiebra", "bancarrota",
-    "caída", "baja", "retroceso", "fracaso", "rechazo",
-    "protesta", "huelga", "manifestación", "disturbios",
+    "crimen", "criminal", "homicidio", "ataque", "atentado",
+    "terrorismo", "terrorista", "bomba", "masacre", "guerra",
+    "detenido", "arrestado", "condenado", "preso", "robo", "asalto",
+    # Desastres
+    "accidente", "tragedia", "catástrofe", "desastre", "incendio",
+    # Escándalos y negativos
+    "escándalo", "corrupción", "fraude", "estafa",
+    "colapso", "quiebra", "bancarrota", "fracaso",
+    "protesta", "huelga", "disturbios",
+    # Ruido tecnológico negativo
+    "hackeo", "hack", "vulnerabilidad", "malware", "ransomware",
+    "data breach", "ciberataque", "despidos", "layoffs",
+    "demanda", "sued", "lawsuit",
 }
 
 PALABRAS_POSITIVAS = {
-    "inversión", "inversiones", "millones", "billones", "acuerdo",
-    "contrato", "exportación", "crecimiento", "récord", "expansión",
-    "apertura", "lanzamiento", "alianza", "fusión", "adquisición",
-    "financiamiento", "fondo", "startup", "unicornio",
-    "innovación", "inteligencia artificial", "ia", "robótica",
-    "automatización", "digitalización", "blockchain", "satélite",
-    "cohete", "misión espacial", "descubrimiento", "patente",
-    "energía renovable", "solar", "eólica", "hidrógeno verde",
-    "litio", "cobre", "planta solar", "descarbonización",
-    "sostenible", "sustentable", "electromovilidad",
-    "inauguró", "inauguración", "proyecto", "infraestructura",
-    "conectividad", "puerto", "aeropuerto", "histórico", "hito",
-    "vacuna", "tratamiento", "avance médico", "ensayo clínico",
-    "hallazgo", "exploración",
-    "acuerdo comercial", "exportaciones", "g20", "ocde", "cumbre",
+    # Inteligencia Artificial
+    "inteligencia artificial", "artificial intelligence",
+    "ia", " ai ", "gpt", "llm", "large language model",
+    "machine learning", "deep learning", "neural network",
+    "generative ai", "ia generativa", "modelo de lenguaje",
+    "chatbot", "copilot", "gemini", "claude", "mistral", "llama",
+    "openai", "anthropic", "deepmind", "hugging face",
+    # Automatización y robótica
+    "automatización", "automation", "robótica", "robotics",
+    "robot", "autonomous", "autónomo", "automate",
+    # Innovación tecnológica
+    "innovación", "innovation", "breakthrough", "avance",
+    "lanzamiento", "launch", "released", "unveiled", "presenta",
+    "nuevo modelo", "new model", "open source", "código abierto",
+    # Startups e inversión tech
+    "startup", "unicornio", "unicorn", "funding", "financiamiento",
+    "serie a", "serie b", "seed round", "ipo", "raises", "recauda",
+    # Computación y hardware
+    "chip", "semiconductor", "quantum", "computación cuántica",
+    "gpu", "procesador", "nvidia", "supercomputadora", "supercomputer",
+    # Software y plataformas
+    "api", "plataforma", "platform", "saas", "herramienta",
+    # Espacio
+    "cohete", "rocket", "satélite", "satellite", "spacex", "nasa",
+    # Biotecnología
+    "biotech", "biotecnología", "crispr", "genoma", "genome",
 }
-
 # ── Telegram ──────────────────────────────────────────────────────────────────
 def enviar_telegram(mensaje: str) -> None:
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
@@ -183,44 +178,39 @@ def _llamar_groq(prompt: str, reintentos: int = 3) -> str:
 
 
 def es_avance_positivo(titulo: str) -> bool:
-    prompt = f'''Eres un filtro editorial estricto para un canal de noticias de avances y progreso global.
-Evalúa si la siguiente noticia representa un avance concreto y positivo.
-
-Criterios SÍ:
-- Inversiones, acuerdos comerciales, nuevos proyectos
-- Innovación, tecnología, energía, infraestructura
-- Logros científicos, récords económicos, descubrimientos
-- Acuerdos internacionales con impacto real
-
-Criterios NO:
-- Política sin impacto concreto
-- Declaraciones, opiniones, discursos
-- Conflictos, violencia, escándalos
-- Noticias negativas, neutras o alarmistas
-
-Noticia: "{titulo}"
-
-Responde SOLO con SÍ o NO.'''
+    prompt = f'''Eres un filtro editorial estricto para un canal de tecnología e innovación.\n"
+        "Evalúa si la noticia es un avance concreto en tecnología, IA, automatización o innovación.\n\n"
+        "Criterios SÍ:\n"
+        "- Lanzamiento de nuevos modelos de IA, herramientas o plataformas\n"
+        "- Avances en automatización, robótica o computación\n"
+        "- Inversiones o financiamientos en startups tech\n"
+        "- Descubrimientos científicos aplicados a tecnología\n"
+        "- Nuevas capacidades de software, hardware o chips\n\n"
+        "Criterios NO:\n"
+        "- Política, regulación o debates sin producto concreto\n"
+        "- Opiniones, análisis o predicciones\n"
+        "- Escándalos, hackeos, vulnerabilidades o demandas\n"
+        "- Noticias de despidos o crisis en empresas tech\n"
+        "- Noticias negativas, neutras o alarmistas\n\n"
+        f'Noticia: "{titulo}"\n\n'
+        "Responde SOLO con SÍ o NO."'''
     resultado = _llamar_groq(prompt)
     return resultado.upper().startswith("SÍ")
 
 
 def generar_post(noticia: dict) -> str:
-    prompt = f"""Eres el editor de un canal de noticias de avances globales.
-Tono: formal, informativo, sin exceso de emojis.
-
-Noticia: {noticia['titulo']}
-Link: {noticia['link']}
-
-Escribe un post para Twitter/X de máximo 280 caracteres:
-- Emoji relevante al inicio
-- El hecho concreto en una línea
-- Por qué importa a nivel global o para Chile
-- Incluye el link
-- Fuente: [nombre del medio] al final
-- Sin hashtags
-
-Responde SOLO con el post."""
+    prompt = f''Eres el editor de un canal de tecnología e innovación global.\n"
+        "Tono: directo, informativo, sin exceso de emojis.\n\n"
+        f"Noticia: {noticia[\'titulo\']}\n"
+        f"Link: {noticia[\'link\']}\n\n"
+        "Escribe un post para Twitter/X de máximo 280 caracteres:\n"
+      '- Emoji tech relevante al inicio\n"
+       '- El hecho concreto: qué se lanzó, descubrió o logró\n"
+        '- Por qué importa para el mundo tech\n"
+        '- Incluye el link\n"
+        '- Fuente: [nombre del medio] al final\n"
+        '- Sin hashtags\n\n"
+        'Responde SOLO con el post.'''
     return _llamar_groq(prompt)
 
 # ── Persistencia ──────────────────────────────────────────────────────────────
