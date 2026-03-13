@@ -242,8 +242,8 @@ def guardar_procesadas(procesadas: set[str]) -> None:
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 def main() -> None:
-    log.info("ElChilometro iniciado.")
-    enviar_telegram("📡 ElChilometro iniciado.")
+    log.info("Noticias de tecnologia analizando.")
+    enviar_telegram("📡 Noticias de tecnologia analizando.")
 
     try:
         noticias = obtener_noticias()
