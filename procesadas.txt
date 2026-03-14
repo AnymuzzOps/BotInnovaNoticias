@@ -34,9 +34,14 @@ https://www.latercera.com/nacional/noticia/antecedentes-en-fiscalia-y-cde-contra
 https://www.latercera.com/nacional/noticia/os-7-allana-domicilios-del-centro-de-santiago-tras-investigacion-de-dos-anos-e-incauta-cerca-de-100-kilos-de-droga/
 https://www.latercera.com/publirreportajes/noticia/el-misterio-detras-del-gesto-de-andrea-collarini-en-el-challenger-de-santiago/
 https://www.latercera.com/pulso/noticia/justicia-de-eeuu-rechaza-citar-a-presidente-de-la-fed-y-dice-que-causa-en-su-contra-es-infundada/
+https://www.marktechpost.com/2026/03/11/how-to-design-a-streaming-decision-agent-with-partial-reasoning-online-replanning-and-reactive-mid-execution-adaptation-in-dynamic-environments/
+https://www.marktechpost.com/2026/03/11/nvidia-releases-nemotron-3-super-a-120b-parameter-open-source-hybrid-mamba-attention-moe-model-delivering-5x-higher-throughput-for-agentic-ai/
+https://www.marktechpost.com/2026/03/12/how-to-build-an-autonomous-machine-learning-research-loop-in-google-colab-using-andrej-karpathys-autoresearch-framework-for-hyperparameter-discovery-and-experiment-tracking/
+https://www.marktechpost.com/2026/03/12/stanford-researchers-release-openjarvis-a-local-first-framework-for-building-on-device-personal-ai-agents-with-tools-memory-and-learning/
 https://www.marktechpost.com/2026/03/13/google-ai-introduces-groundsource-a-new-methodology-that-uses-gemini-model-to-transform-unstructured-global-news-into-actionable-historical-data/
 https://www.marktechpost.com/2026/03/13/google-deepmind-introduces-aletheia-the-ai-agent-moving-from-math-competitions-to-fully-autonomous-professional-research-discoveries/
 https://www.marktechpost.com/2026/03/13/model-context-protocol-mcp-vs-ai-agent-skills-a-deep-dive-into-structured-tools-and-behavioral-guidance-for-llms/
+https://www.marktechpost.com/2026/03/14/garry-tan-releases-gstack-an-open-source-claude-code-system-for-planning-code-review-qa-and-shipping/
 https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/
 https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/
 https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/
