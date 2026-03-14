@@ -1,9 +1,11 @@
-import os
-import time
 import logging
+import os
+import subprocess
+import time
+from urllib.parse import parse_qsl, urlencode, urlparse, urlunparse
+
 import feedparser
 import requests
-import subprocess
 from groq import Groq
 
 # ── Logging ──────────────────────────────────────────────────────────────────
@@ -14,8 +16,15 @@ logging.basicConfig(
 log = logging.getLogger(__name__)
 
 # ── Configuración ─────────────────────────────────────────────────────────────
-GROQ_API_KEY      = os.environ["GROQ_API_KEY"]
-TELEGRAM_TOKEN    = os.environ["TELEGRAM_TOKEN"]
+def _require_env(nombre: str) -> str:
+    valor = os.environ.get(nombre)
+    if not valor:
+        raise RuntimeError(f"Falta variable de entorno requerida: {nombre}")
+    return valor
+
+
+GROQ_API_KEY = _require_env("GROQ_API_KEY")
+TELEGRAM_TOKEN = _require_env("TELEGRAM_TOKEN")
 TELEGRAM_CHAT_IDS = [
     chat_id for chat_id in [
         os.environ.get("TELEGRAM_CHAT_ID"),
@@ -23,10 +32,17 @@ TELEGRAM_CHAT_IDS = [
     ] if chat_id
 ]
 
+if not TELEGRAM_CHAT_IDS:
+    raise RuntimeError("Debes definir al menos TELEGRAM_CHAT_ID para enviar mensajes")
+
 MAX_NOTICIAS_POR_CICLO = 5
-MAX_ENTRIES_POR_FEED   = 10
-GROQ_MODEL             = "llama-3.3-70b-versatile"
-PROCESADAS_FILE        = "procesadas.txt"
+MAX_ENTRIES_POR_FEED = 10
+GROQ_MODEL = "llama-3.3-70b-versatile"
+PROCESADAS_FILE = "procesadas.txt"
+TRACKING_QUERY_PARAMS = {
+    "utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content", "utm_id",
+    "fbclid", "gclid", "mc_cid", "mc_eid", "igshid",
+}
 
 # ── Fuentes RSS ───────────────────────────────────────────────────────────────
 FUENTES = [
@@ -111,12 +127,31 @@ PALABRAS_POSITIVAS = {
     # Biotecnología
     "biotech", "biotecnología", "crispr", "genoma", "genome",
 }
+
+# ── Clientes compartidos ──────────────────────────────────────────────────────
+HTTP_SESSION = requests.Session()
+HTTP_SESSION.headers.update({"User-Agent": "Mozilla/5.0 (compatible; ElChilometroBot/1.1)"})
+GROQ_CLIENT = Groq(api_key=GROQ_API_KEY)
+
+
+# ── Utilidades ────────────────────────────────────────────────────────────────
+def normalizar_link(link: str) -> str:
+    """Elimina parámetros de tracking para mejorar deduplicación."""
+    parsed = urlparse(link)
+    clean_query = [
+        (k, v) for k, v in parse_qsl(parsed.query, keep_blank_values=True)
+        if k.lower() not in TRACKING_QUERY_PARAMS
+    ]
+    clean = parsed._replace(query=urlencode(clean_query), fragment="")
+    return urlunparse(clean).strip()
+
+
 # ── Telegram ──────────────────────────────────────────────────────────────────
 def enviar_telegram(mensaje: str) -> None:
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
     for chat_id in TELEGRAM_CHAT_IDS:
         try:
-            r = requests.post(
+            r = HTTP_SESSION.post(
                 url,
                 data={"chat_id": chat_id, "text": mensaje},
                 timeout=15
@@ -125,15 +160,15 @@ def enviar_telegram(mensaje: str) -> None:
         except requests.RequestException as e:
             log.error("Error enviando Telegram a %s: %s", chat_id, e)
 
+
 # ── RSS ───────────────────────────────────────────────────────────────────────
 def obtener_noticias() -> list[dict]:
     noticias: list[dict] = []
     vistas: set[str] = set()
-    headers = {"User-Agent": "Mozilla/5.0 (compatible; ElChilometroBot/1.0)"}
 
     for url in FUENTES:
         try:
-            response = requests.get(url, headers=headers, timeout=10)
+            response = HTTP_SESSION.get(url, timeout=10)
             response.raise_for_status()
             feed = feedparser.parse(response.content)
         except Exception as e:
@@ -142,15 +177,14 @@ def obtener_noticias() -> list[dict]:
 
         for entry in feed.entries[:MAX_ENTRIES_POR_FEED]:
             titulo = getattr(entry, "title", "").strip()
-            link   = getattr(entry, "link", "").strip()
+            link = normalizar_link(getattr(entry, "link", "").strip())
 
-            if not titulo or not link:
+            if not titulo or not link or link in vistas:
                 continue
-            if link in vistas:
-                continue
+
             vistas.add(link)
-
             titulo_lower = titulo.lower()
+
             if any(neg in titulo_lower for neg in PALABRAS_NEGATIVAS):
                 continue
             if any(pos in titulo_lower for pos in PALABRAS_POSITIVAS):
@@ -159,12 +193,12 @@ def obtener_noticias() -> list[dict]:
     log.info("Noticias candidatas: %d", len(noticias))
     return noticias
 
+
 # ── Groq ──────────────────────────────────────────────────────────────────────
 def _llamar_groq(prompt: str, reintentos: int = 3) -> str:
-    cliente = Groq(api_key=GROQ_API_KEY)
     for intento in range(1, reintentos + 1):
         try:
-            respuesta = cliente.chat.completions.create(
+            respuesta = GROQ_CLIENT.chat.completions.create(
                 model=GROQ_MODEL,
                 messages=[{"role": "user", "content": prompt}],
                 temperature=0.3,
@@ -178,22 +212,26 @@ def _llamar_groq(prompt: str, reintentos: int = 3) -> str:
 
 
 def es_avance_positivo(titulo: str) -> bool:
-    prompt = f'''Eres un filtro editorial estricto para un canal de tecnología e innovación.\n"
-        "Evalúa si la noticia es un avance concreto en tecnología, IA, automatización o innovación.\n\n"
-        "Criterios SÍ:\n"
-        "- Lanzamiento de nuevos modelos de IA, herramientas o plataformas\n"
-        "- Avances en automatización, robótica o computación\n"
-        "- Inversiones o financiamientos en startups tech\n"
-        "- Descubrimientos científicos aplicados a tecnología\n"
-        "- Nuevas capacidades de software, hardware o chips\n\n"
-        "Criterios NO:\n"
-        "- Política, regulación o debates sin producto concreto\n"
-        "- Opiniones, análisis o predicciones\n"
-        "- Escándalos, hackeos, vulnerabilidades o demandas\n"
-        "- Noticias de despidos o crisis en empresas tech\n"
-        "- Noticias negativas, neutras o alarmistas\n\n"
-        f'Noticia: "{titulo}"\n\n'
-        "Responde SOLO con SÍ o NO.'''
+    prompt = f"""Eres un filtro editorial estricto para un canal de tecnología e innovación.
+Evalúa si la noticia es un avance concreto en tecnología, IA, automatización o innovación.
+
+Criterios SÍ:
+- Lanzamiento de nuevos modelos de IA, herramientas o plataformas
+- Avances en automatización, robótica o computación
+- Inversiones o financiamientos en startups tech
+- Descubrimientos científicos aplicados a tecnología
+- Nuevas capacidades de software, hardware o chips
+
+Criterios NO:
+- Política, regulación o debates sin producto concreto
+- Opiniones, análisis o predicciones
+- Escándalos, hackeos, vulnerabilidades o demandas
+- Noticias de despidos o crisis en empresas tech
+- Noticias negativas, neutras o alarmistas
+
+Noticia: "{titulo}"
+
+Responde SOLO con SÍ o NO."""
     resultado = _llamar_groq(prompt)
     return resultado.upper().startswith("SÍ")
 
@@ -214,31 +252,43 @@ def generar_post(noticia: dict) -> str:
         "Responde SOLO con el post."
     )
     return _llamar_groq(prompt)
-    
+
+
 # ── Persistencia ──────────────────────────────────────────────────────────────
 def cargar_procesadas() -> set[str]:
     try:
-        with open(PROCESADAS_FILE, "r") as f:
+        with open(PROCESADAS_FILE, "r", encoding="utf-8") as f:
             return {line.strip() for line in f if line.strip()}
     except FileNotFoundError:
         return set()
 
 
 def guardar_procesadas(procesadas: set[str]) -> None:
-    with open(PROCESADAS_FILE, "w") as f:
+    with open(PROCESADAS_FILE, "w", encoding="utf-8") as f:
         f.write("\n".join(sorted(procesadas)))
 
     cmds = [
         ["git", "config", "user.email", "bot@elchilometro.cl"],
         ["git", "config", "user.name", "ElChilometro Bot"],
         ["git", "add", PROCESADAS_FILE],
-        ["git", "commit", "-m", "chore: update procesadas"],
-        ["git", "push"],
+        ["git", "diff", "--cached", "--quiet"],
     ]
     for cmd in cmds:
         result = subprocess.run(cmd, capture_output=True, text=True)
+        if result.returncode != 0 and cmd[:3] != ["git", "diff", "--cached"]:
+            log.warning("Git '%s' falló: %s", " ".join(cmd), result.stderr)
+            return
+        if cmd[:3] == ["git", "diff", "--cached"]:
+            if result.returncode == 0:
+                log.info("Sin cambios en %s; no se realiza commit.", PROCESADAS_FILE)
+                return
+            break
+
+    for cmd in (["git", "commit", "-m", "chore: update procesadas"], ["git", "push"]):
+        result = subprocess.run(cmd, capture_output=True, text=True)
         if result.returncode != 0:
             log.warning("Git '%s' falló: %s", " ".join(cmd), result.stderr)
+
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 def main() -> None:
@@ -256,7 +306,7 @@ def main() -> None:
         enviar_telegram("⚠️ Sin noticias relevantes en este ciclo.")
         return
 
-    procesadas    = cargar_procesadas()
+    procesadas = cargar_procesadas()
     noticias_nuevas = [n for n in noticias if n["link"] not in procesadas]
     log.info("Noticias nuevas: %d", len(noticias_nuevas))
 
