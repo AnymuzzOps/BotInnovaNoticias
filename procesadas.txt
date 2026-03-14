@@ -1,5 +1,6 @@
 https://arstechnica.com/gaming/2026/03/slay-the-spire-2-is-a-bit-too-familiar-for-its-own-good/
 https://arstechnica.com/health/2026/03/woman-sneezes-out-maggots-after-fly-larvae-get-trapped-in-her-deviated-septum/
+https://arstechnica.com/space/2026/03/flying-to-the-moon-for-the-first-time-in-54-years-is-risky-but-how-risky/
 https://techcrunch.com/2026/03/11/bci-startup-gestala-raises-21-million-for-non-invasive-ultrasound-brain-tech/
 https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/
 https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/
@@ -15,8 +16,12 @@ https://venturebeat.com/infrastructure/nanoclaw-and-docker-partner-to-make-sandb
 https://venturebeat.com/infrastructure/the-team-behind-continuous-batching-says-your-idle-gpus-should-be-running
 https://venturebeat.com/orchestration/anthropic-gives-claude-shared-context-across-microsoft-excel-and-powerpoint
 https://venturebeat.com/orchestration/y-combinator-backed-random-labs-launches-slate-v1-claiming-the-first-swarm
+https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no
 https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai
+https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in
 https://venturebeat.com/technology/nvidias-new-open-weights-nemotron-3-super-combines-three-different
+https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and
+https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are
 https://www.ex-ante.cl/balance-de-la-reforma-de-pensiones-mitos-y-realidades-por-christian-larrain/
 https://www.ex-ante.cl/cuales-son-los-principales-proyectos-de-inversion-que-el-gobierno-de-kast-buscara-agilizar/
 https://www.ex-ante.cl/el-viaje-que-kast-prepara-al-norte-para-supervisar-este-lunes-construccion-de-zanjas/
