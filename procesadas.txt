@@ -3,6 +3,11 @@ https://arstechnica.com/health/2026/03/woman-sneezes-out-maggots-after-fly-larva
 https://arstechnica.com/space/2026/03/flying-to-the-moon-for-the-first-time-in-54-years-is-risky-but-how-risky/
 https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval
 https://huggingface.co/blog/storage-buckets
+https://spectrum.ieee.org/ai-for-coding-intuition
+https://spectrum.ieee.org/ai-sycophancy
+https://spectrum.ieee.org/ieee-global-virtual-career-fairs
+https://spectrum.ieee.org/level-4-autonomous-trucks
+https://spectrum.ieee.org/robert-goddard-leadership
 https://syncedreview.com/2025/04/16/zhipu-ais-open-source-power-play-blazing-fast-glm-models-global-expansion-ahead-of-potential-ipo/
 https://syncedreview.com/2025/06/16/researchers-from-psu-and-duke-introduce-multi-agent-systems-automated-failure-attribution/
 https://syncedreview.com/2025/08/14/which-agent-causes-task-failures-and-whenresearchers-from-psu-and-duke-explores-automated-failure-attribution-of-llm-multi-agent-systems/
