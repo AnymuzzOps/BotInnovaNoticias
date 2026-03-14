@@ -3,6 +3,9 @@ https://arstechnica.com/health/2026/03/woman-sneezes-out-maggots-after-fly-larva
 https://arstechnica.com/space/2026/03/flying-to-the-moon-for-the-first-time-in-54-years-is-risky-but-how-risky/
 https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval
 https://huggingface.co/blog/storage-buckets
+https://syncedreview.com/2025/04/16/zhipu-ais-open-source-power-play-blazing-fast-glm-models-global-expansion-ahead-of-potential-ipo/
+https://syncedreview.com/2025/06/16/researchers-from-psu-and-duke-introduce-multi-agent-systems-automated-failure-attribution/
+https://syncedreview.com/2025/08/14/which-agent-causes-task-failures-and-whenresearchers-from-psu-and-duke-explores-automated-failure-attribution-of-llm-multi-agent-systems/
 https://techcrunch.com/2026/03/11/bci-startup-gestala-raises-21-million-for-non-invasive-ultrasound-brain-tech/
 https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/
 https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/
@@ -12,6 +15,7 @@ https://techcrunch.com/2026/03/12/when-startups-become-a-family-business/
 https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/
 https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/
 https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/
+https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/
 https://venturebeat.com/data/googles-gemini-embedding-2-arrives-with-native-multimodal-support-to-cut
 https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free
 https://venturebeat.com/infrastructure/nanoclaw-and-docker-partner-to-make-sandboxes-the-safest-way-for-enterprises
@@ -34,6 +38,7 @@ https://www.latercera.com/nacional/noticia/antecedentes-en-fiscalia-y-cde-contra
 https://www.latercera.com/nacional/noticia/os-7-allana-domicilios-del-centro-de-santiago-tras-investigacion-de-dos-anos-e-incauta-cerca-de-100-kilos-de-droga/
 https://www.latercera.com/publirreportajes/noticia/el-misterio-detras-del-gesto-de-andrea-collarini-en-el-challenger-de-santiago/
 https://www.latercera.com/pulso/noticia/justicia-de-eeuu-rechaza-citar-a-presidente-de-la-fed-y-dice-que-causa-en-su-contra-es-infundada/
+https://www.marktechpost.com/2026/03/11/google-ai-introduces-gemini-embedding-2-a-multimodal-embedding-model-that-lets-your-bring-text-images-video-audio-and-docs-into-the-embedding-space/
 https://www.marktechpost.com/2026/03/11/how-to-design-a-streaming-decision-agent-with-partial-reasoning-online-replanning-and-reactive-mid-execution-adaptation-in-dynamic-environments/
 https://www.marktechpost.com/2026/03/11/nvidia-releases-nemotron-3-super-a-120b-parameter-open-source-hybrid-mamba-attention-moe-model-delivering-5x-higher-throughput-for-agentic-ai/
 https://www.marktechpost.com/2026/03/12/how-to-build-an-autonomous-machine-learning-research-loop-in-google-colab-using-andrej-karpathys-autoresearch-framework-for-hyperparameter-discovery-and-experiment-tracking/
