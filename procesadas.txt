@@ -3,8 +3,13 @@ https://arstechnica.com/health/2026/03/woman-sneezes-out-maggots-after-fly-larva
 https://arstechnica.com/space/2026/03/flying-to-the-moon-for-the-first-time-in-54-years-is-risky-but-how-risky/
 https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval
 https://huggingface.co/blog/storage-buckets
+https://news.crunchbase.com/venture/world-model-ai-lab-ami-raises-europes-largest-seed-round/
+https://roboticsandautomationnews.com/2026/03/13/highres-and-opentrons-showcase-industrys-first-ai-agent-to-agent-lab-automation-workflow/99637/
+https://roboticsandautomationnews.com/2026/03/13/tahoe-therapeutics-builds-record-single-cell-atlas-using-automated-pipetting-technology/99658/
+https://roboticsandautomationnews.com/2026/03/13/why-your-saas-needs-email-automation-that-feels-human/99652/
 https://spectrum.ieee.org/ai-for-coding-intuition
 https://spectrum.ieee.org/ai-sycophancy
+https://spectrum.ieee.org/fhe-intel
 https://spectrum.ieee.org/ieee-global-virtual-career-fairs
 https://spectrum.ieee.org/level-4-autonomous-trucks
 https://spectrum.ieee.org/robert-goddard-leadership
