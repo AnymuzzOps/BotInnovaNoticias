@@ -6,6 +6,7 @@ https://huggingface.co/blog/storage-buckets
 https://news.crunchbase.com/enterprise/ai-forcing-saas-to-rethink-product-sagie/
 https://news.crunchbase.com/venture/unicorn-legal-tech-ai-startup-legora-triples-valuation/
 https://news.crunchbase.com/venture/world-model-ai-lab-ami-raises-europes-largest-seed-round/
+https://phys.org/news/2026-03-atca-probe-peculiar-pulsar-nebula.html
 https://roboticsandautomationnews.com/2026/03/13/highres-and-opentrons-showcase-industrys-first-ai-agent-to-agent-lab-automation-workflow/99637/
 https://roboticsandautomationnews.com/2026/03/13/tahoe-therapeutics-builds-record-single-cell-atlas-using-automated-pipetting-technology/99658/
 https://roboticsandautomationnews.com/2026/03/13/why-your-saas-needs-email-automation-that-feels-human/99652/
@@ -36,6 +37,7 @@ https://venturebeat.com/infrastructure/the-team-behind-continuous-batching-says-
 https://venturebeat.com/orchestration/anthropic-gives-claude-shared-context-across-microsoft-excel-and-powerpoint
 https://venturebeat.com/orchestration/y-combinator-backed-random-labs-launches-slate-v1-claiming-the-first-swarm
 https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no
+https://venturebeat.com/technology/fixing-ai-failure-three-changes-enterprises-should-make-now
 https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai
 https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in
 https://venturebeat.com/technology/nvidias-new-open-weights-nemotron-3-super-combines-three-different
@@ -82,9 +84,12 @@ https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-us
 https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/
 https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/
 https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/
+https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data
 https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles
 https://www.theverge.com/tech/894803/digg-beta-shutdown-layoffs-ai
 https://www.wired.com/story/china-is-going-all-in-on-openclaw/
 https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/
 https://www.zdnet.com/article/chatgpt-voice-mode-tricks/
 https://www.zdnet.com/article/medical-advice-ai-healthcare-microsoft-openai/
+https://www.zdnet.com/article/nanoclaw-docker-sandbox/
+https://www.zdnet.com/article/snowflake-it-executive-survey-ai-job-loss-and-gains/
