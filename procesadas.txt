@@ -9,6 +9,7 @@ https://news.crunchbase.com/venture/world-model-ai-lab-ami-raises-europes-larges
 https://roboticsandautomationnews.com/2026/03/13/highres-and-opentrons-showcase-industrys-first-ai-agent-to-agent-lab-automation-workflow/99637/
 https://roboticsandautomationnews.com/2026/03/13/tahoe-therapeutics-builds-record-single-cell-atlas-using-automated-pipetting-technology/99658/
 https://roboticsandautomationnews.com/2026/03/13/why-your-saas-needs-email-automation-that-feels-human/99652/
+https://roboticsandautomationnews.com/2026/03/15/nulogy-launches-manufacturing-operating-system/99684/
 https://spectrum.ieee.org/ai-for-coding-intuition
 https://spectrum.ieee.org/ai-sycophancy
 https://spectrum.ieee.org/fhe-intel
@@ -41,6 +42,7 @@ https://venturebeat.com/technology/nvidias-new-open-weights-nemotron-3-super-com
 https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and
 https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are
 https://www.bbc.com/news/articles/c4g7k7zdd0zo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c4gjyg0g78vo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/clyg4wx6nxgo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cn48n18pg1eo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cx28v08jpe7o?at_medium=RSS&at_campaign=rss
@@ -68,6 +70,7 @@ https://www.marktechpost.com/2026/03/13/google-deepmind-introduces-aletheia-the-
 https://www.marktechpost.com/2026/03/13/model-context-protocol-mcp-vs-ai-agent-skills-a-deep-dive-into-structured-tools-and-behavioral-guidance-for-llms/
 https://www.marktechpost.com/2026/03/14/garry-tan-releases-gstack-an-open-source-claude-code-system-for-planning-code-review-qa-and-shipping/
 https://www.marktechpost.com/2026/03/14/how-to-build-type-safe-schema-constrained-and-function-driven-llm-pipelines-using-outlines-and-pydantic/
+https://www.marktechpost.com/2026/03/15/langchain-releases-deep-agents-a-structured-runtime-for-planning-memory-and-context-isolation-in-multi-step-ai-agents/
 https://www.marktechpost.com/2026/03/15/zhipu-ai-introduces-glm-ocr-a-0-9b-multimodal-ocr-model-for-document-parsing-and-key-information-extraction-kie/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
@@ -83,3 +86,5 @@ https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles
 https://www.theverge.com/tech/894803/digg-beta-shutdown-layoffs-ai
 https://www.wired.com/story/china-is-going-all-in-on-openclaw/
 https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/
+https://www.zdnet.com/article/chatgpt-voice-mode-tricks/
+https://www.zdnet.com/article/medical-advice-ai-healthcare-microsoft-openai/
