@@ -1,3 +1,5 @@
+https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/
+https://arstechnica.com/ai/2026/03/staff-complain-that-xai-is-flailing-because-of-constant-upheaval/
 https://arstechnica.com/gaming/2026/03/slay-the-spire-2-is-a-bit-too-familiar-for-its-own-good/
 https://arstechnica.com/health/2026/03/woman-sneezes-out-maggots-after-fly-larvae-get-trapped-in-her-deviated-septum/
 https://arstechnica.com/space/2026/03/flying-to-the-moon-for-the-first-time-in-54-years-is-risky-but-how-risky/
@@ -101,9 +103,12 @@ https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-bui
 https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/
 https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data
 https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles
+https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran
 https://www.theverge.com/tech/894803/digg-beta-shutdown-layoffs-ai
+https://www.wired.com/story/a-new-study-details-how-cats-almost-always-land-on-their-feet/
 https://www.wired.com/story/china-is-going-all-in-on-openclaw/
 https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/
+https://www.wired.com/story/irestore-deals-amazon-spring-sale-2026/
 https://www.zdnet.com/article/chatgpt-voice-mode-tricks/
 https://www.zdnet.com/article/medical-advice-ai-healthcare-microsoft-openai/
 https://www.zdnet.com/article/nanoclaw-docker-sandbox/
