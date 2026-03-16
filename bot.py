@@ -1,5 +1,6 @@
 import logging
 import os
+import re
 import subprocess
 import time
 from urllib.parse import parse_qsl, urlencode, urlparse, urlunparse
@@ -95,6 +96,8 @@ PALABRAS_DESCARTE_TEC = {
     "tragedia", "accidente", "incendio", "terremoto", "inundación",
 }
 
+PALABRAS_CORTAS = {"ia", "ai", "gpu", "api", "ipo", "llm"}
+
 # ── Clientes compartidos ──────────────────────────────────────────────────────
 HTTP_SESSION = requests.Session()
 HTTP_SESSION.headers.update({"User-Agent": "Mozilla/5.0 (compatible; ElChilometroBot/1.2)"})
@@ -118,6 +121,22 @@ def _nombre_fuente(link: str) -> str:
     if host.startswith("www."):
         host = host[4:]
     return host or "fuente-desconocida"
+
+
+def _contiene_keyword(texto: str, keyword: str) -> bool:
+    kw = keyword.strip().lower()
+    if not kw:
+        return False
+
+    # Evita falsos positivos por subcadenas (ej. "ai" en "hair").
+    if kw in PALABRAS_CORTAS or len(kw) <= 3:
+        patron = rf"\b{re.escape(kw)}\b"
+        return re.search(patron, texto) is not None
+    return kw in texto
+
+
+def _coincide_alguna(texto: str, keywords: set[str]) -> bool:
+    return any(_contiene_keyword(texto, kw) for kw in keywords)
 
 
 # ── Telegram ──────────────────────────────────────────────────────────────────
@@ -159,9 +178,9 @@ def obtener_noticias() -> list[dict]:
             vistas.add(link)
             titulo_lower = titulo.lower()
 
-            if any(desc in titulo_lower for desc in PALABRAS_DESCARTE_TEC):
+            if _coincide_alguna(titulo_lower, PALABRAS_DESCARTE_TEC):
                 continue
-            if any(tec in titulo_lower for tec in PALABRAS_TECNOLOGIA):
+            if _coincide_alguna(titulo_lower, PALABRAS_TECNOLOGIA):
                 noticias.append({"titulo": titulo, "link": link, "fuente": _nombre_fuente(link)})
 
     log.info("Noticias candidatas tech: %d", len(noticias))
@@ -280,8 +299,11 @@ def main() -> None:
         return
 
     links_procesados: set[str] = set()
+    aprobadas = 0
 
-    for noticia in noticias_nuevas[:MAX_NOTICIAS_POR_CICLO]:
+    for noticia in noticias_nuevas:
+        if aprobadas >= MAX_NOTICIAS_POR_CICLO:
+            break
         try:
             if es_avance_positivo(noticia["titulo"]):
                 comentario = generar_post(noticia)
@@ -292,6 +314,7 @@ def main() -> None:
                     f"{noticia['link']}"
                 )
                 enviar_telegram(mensaje)
+                aprobadas += 1
                 log.info("Aprobado: %s", noticia["titulo"])
             else:
                 log.info("Descartado (sin notificar): %s", noticia["titulo"])
@@ -300,6 +323,11 @@ def main() -> None:
             enviar_telegram(f"❌ Error al procesar:\n{noticia['titulo']}\n{e}")
         finally:
             links_procesados.add(noticia["link"])
+
+    if aprobadas == 0:
+        enviar_telegram("⚠️ No se encontraron titulares tech suficientemente sólidos en este ciclo.")
+
+    log.info("Aprobadas enviadas: %d", aprobadas)
 
     guardar_procesadas(procesadas | links_procesados)
     log.info("Ciclo completado. %d procesadas.", len(links_procesados))
