@@ -37,7 +37,7 @@ TELEGRAM_CHAT_IDS = [
 if not TELEGRAM_CHAT_IDS:
     raise RuntimeError("Debes definir al menos TELEGRAM_CHAT_ID para enviar mensajes")
 
-MAX_NOTICIAS_POR_CICLO = 5
+MAX_NOTICIAS_POR_CICLO = 10
 MAX_ENTRIES_POR_FEED = 10
 GROQ_MODEL = "llama-3.3-70b-versatile"
 PROCESADAS_FILE = "procesadas.txt"
