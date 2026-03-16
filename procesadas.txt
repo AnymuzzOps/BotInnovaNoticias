@@ -3,6 +3,7 @@ https://arstechnica.com/ai/2026/03/staff-complain-that-xai-is-flailing-because-o
 https://arstechnica.com/gaming/2026/03/slay-the-spire-2-is-a-bit-too-familiar-for-its-own-good/
 https://arstechnica.com/health/2026/03/woman-sneezes-out-maggots-after-fly-larvae-get-trapped-in-her-deviated-septum/
 https://arstechnica.com/space/2026/03/flying-to-the-moon-for-the-first-time-in-54-years-is-risky-but-how-risky/
+https://events.bizzabo.com/823847
 https://futurism.com/artificial-intelligence/ai-grandmother-jail-mistake
 https://futurism.com/artificial-intelligence/ai-military-civil-liberty
 https://futurism.com/artificial-intelligence/atlassian-ai-layoffs
@@ -13,6 +14,7 @@ https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval
 https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms
 https://huggingface.co/blog/storage-buckets
 https://news.crunchbase.com/enterprise/ai-forcing-saas-to-rethink-product-sagie/
+https://news.crunchbase.com/ma/data-small-midsized-venture-backed-startup-acquisitions/
 https://news.crunchbase.com/real-estate-property-tech/ai-generated-hvac-quotes-rebar-seriesa/
 https://news.crunchbase.com/venture/biggest-funding-rounds-ai-robotics-ecommerce-quince/
 https://news.crunchbase.com/venture/founder-first-investing-ai-khosla-choi/
@@ -33,6 +35,7 @@ https://roboticsandautomationnews.com/2026/03/15/arduino-launches-new-edge-robot
 https://roboticsandautomationnews.com/2026/03/15/neura-robotics-and-qualcomm-enter-strategic-collaboration-to-advance-physical-ai-and-cognitive-robotics/99677/
 https://roboticsandautomationnews.com/2026/03/15/nulogy-launches-manufacturing-operating-system/99684/
 https://roboticsandautomationnews.com/2026/03/15/the-nioform-story-how-one-maker-and-two-robots-build-civic-monuments/99687/
+https://roboticsandautomationnews.com/2026/03/16/docomo-and-keio-university-demonstrate-worlds-first-stable-high-fidelity-robot-teleoperation-via-commercial-5g-using-low-latency-slicing/99696/
 https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/
 https://singularityhub.com/2026/03/09/hackers-are-automating-cyberattacks-with-ai-defenders-are-using-it-to-fight-back/
 https://spectrum.ieee.org/ai-for-coding-intuition
@@ -81,10 +84,12 @@ https://venturebeat.com/technology/fixing-ai-failure-three-changes-enterprises-s
 https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai
 https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in
 https://venturebeat.com/technology/nvidias-new-open-weights-nemotron-3-super-combines-three-different
+https://venturebeat.com/technology/rethinking-aeo-when-software-agents-navigate-the-web-on-behalf-of-users
 https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and
 https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are
 https://www.bbc.com/news/articles/c4g7k7zdd0zo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4gjyg0g78vo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cj0d6el50ppo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/clyg4wx6nxgo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cn48n18pg1eo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cx28v08jpe7o?at_medium=RSS&at_campaign=rss
@@ -92,10 +97,16 @@ https://www.bloomberg.com/news/articles/2026-03-13/elon-musk-s-ketamine-use-can-
 https://www.bloomberg.com/news/articles/2026-03-14/china-ai-startup-moonshot-snags-funds-at-18-billion-valuation
 https://www.bloomberg.com/news/articles/2026-03-14/us-withdraws-draft-rule-that-called-for-global-ai-chip-permits
 https://www.bloomberg.com/news/articles/2026-03-15/f-35-software-upgrades-stagnated-as-jets-fly-iran-missions
+https://www.bloomberg.com/news/articles/2026-03-16/ai-hyperscalers-shadow-borrowing-bolsters-private-credit-risks
 https://www.bloomberg.com/news/articles/2026-03-16/alibaba-creates-ai-tool-for-companies-to-ride-china-agent-craze
+https://www.bloomberg.com/news/articles/2026-03-16/alibaba-plans-major-revamp-to-heighten-focus-on-ai-profits
+https://www.bloomberg.com/news/articles/2026-03-16/asia-s-dayone-data-centers-is-said-to-near-confidential-filing-for-us-ipo
 https://www.bloomberg.com/news/articles/2026-03-16/baidu-backed-biomap-is-said-to-confidentially-file-for-hk-ipo
+https://www.bloomberg.com/news/articles/2026-03-16/fidelity-backed-ai-chip-cooling-company-frore-valued-at-1-64-billion-in-new-funding
 https://www.bloomberg.com/news/articles/2026-03-16/nvidia-partner-hon-hai-s-profit-miss-raises-ai-demand-fears
+https://www.bloomberg.com/news/newsletters/2026-03-16/zoox-test-with-uber-in-las-vegas-pushes-the-definition-of-robotaxi
 https://www.bloomberg.com/news/videos/2026-03-14/rattner-cooling-jobs-market-tariffs-and-ai-video
+https://www.cnet.com/tech/services-and-software/meta-ray-ban-smart-glasses-ai-privacy-policy/
 https://www.ex-ante.cl/balance-de-la-reforma-de-pensiones-mitos-y-realidades-por-christian-larrain/
 https://www.ex-ante.cl/cuales-son-los-principales-proyectos-de-inversion-que-el-gobierno-de-kast-buscara-agilizar/
 https://www.ex-ante.cl/el-viaje-que-kast-prepara-al-norte-para-supervisar-este-lunes-construccion-de-zanjas/
@@ -148,6 +159,7 @@ https://www.wired.com/story/a-new-study-details-how-cats-almost-always-land-on-t
 https://www.wired.com/story/china-is-going-all-in-on-openclaw/
 https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/
 https://www.wired.com/story/irestore-deals-amazon-spring-sale-2026/
+https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/
 https://www.zdnet.com/article/chatgpt-voice-mode-tricks/
 https://www.zdnet.com/article/medical-advice-ai-healthcare-microsoft-openai/
 https://www.zdnet.com/article/nanoclaw-docker-sandbox/
