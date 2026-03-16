@@ -15,6 +15,7 @@ logging.basicConfig(
 )
 log = logging.getLogger(__name__)
 
+
 # ── Configuración ─────────────────────────────────────────────────────────────
 def _require_env(nombre: str) -> str:
     valor = os.environ.get(nombre)
@@ -46,7 +47,6 @@ TRACKING_QUERY_PARAMS = {
 
 # ── Fuentes RSS ───────────────────────────────────────────────────────────────
 FUENTES = [
-    # Tecnología e IA — tier 1
     "https://techcrunch.com/feed/",
     "https://techcrunch.com/category/artificial-intelligence/feed/",
     "https://techcrunch.com/category/startups/feed/",
@@ -56,81 +56,48 @@ FUENTES = [
     "https://www.technologyreview.com/feed/",
     "https://venturebeat.com/feed/",
     "https://venturebeat.com/category/ai/feed/",
-    # IA especializada
     "https://openai.com/blog/rss/",
     "https://huggingface.co/blog/feed.xml",
     "https://www.marktechpost.com/feed/",
     "https://syncedreview.com/feed/",
-    # Automatización y robótica
     "https://spectrum.ieee.org/feeds/feed.rss",
     "https://www.roboticsandautomationnews.com/feed",
-    # Startups e inversión tech
     "https://news.crunchbase.com/feed/",
     "https://sifted.eu/feed/",
-    # Tecnología — medios grandes
     "https://feeds.bloomberg.com/technology/news.rss",
     "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
     "https://feeds.bbci.co.uk/news/technology/rss.xml",
     "https://www.zdnet.com/news/rss.xml",
     "https://www.cnet.com/rss/news/",
-    # Ciencia aplicada y futurismo
     "https://phys.org/rss-feed/",
     "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
     "https://singularityhub.com/feed/",
     "https://futurism.com/feed",
 ]
 
-# ── Filtros de palabras ───────────────────────────────────────────────────────
-PALABRAS_NEGATIVAS = {
-    # Violencia y crimen
-    "muerto", "muertos", "herido", "heridos", "asesinado", "asesinato",
-    "crimen", "criminal", "homicidio", "ataque", "atentado",
-    "terrorismo", "terrorista", "bomba", "masacre", "guerra",
-    "detenido", "arrestado", "condenado", "preso", "robo", "asalto",
-    # Desastres
-    "accidente", "tragedia", "catástrofe", "desastre", "incendio",
-    # Escándalos y negativos
-    "escándalo", "corrupción", "fraude", "estafa",
-    "colapso", "quiebra", "bancarrota", "fracaso",
-    "protesta", "huelga", "disturbios",
-    # Ruido tecnológico negativo
-    "hackeo", "hack", "vulnerabilidad", "malware", "ransomware",
-    "data breach", "ciberataque", "despidos", "layoffs",
-    "demanda", "sued", "lawsuit",
+# ── Filtros editoriales tech-only ────────────────────────────────────────────
+PALABRAS_TECNOLOGIA = {
+    "inteligencia artificial", "artificial intelligence", "ia", "ai", "gpt", "llm",
+    "machine learning", "deep learning", "neural", "modelo", "copilot", "chatbot",
+    "automatización", "automation", "robot", "robótica", "autonomous",
+    "software", "saas", "api", "plataforma", "platform", "open source",
+    "startup", "funding", "financiamiento", "serie a", "serie b", "seed", "ipo",
+    "chip", "semiconductor", "gpu", "nvidia", "procesador", "hardware",
+    "cloud", "nube", "data center", "quantum", "computación cuántica",
+    "biotech", "biotecnología", "genoma", "crispr", "spacex", "nasa", "satélite",
 }
 
-PALABRAS_POSITIVAS = {
-    # Inteligencia Artificial
-    "inteligencia artificial", "artificial intelligence",
-    "ia", " ai ", "gpt", "llm", "large language model",
-    "machine learning", "deep learning", "neural network",
-    "generative ai", "ia generativa", "modelo de lenguaje",
-    "chatbot", "copilot", "gemini", "claude", "mistral", "llama",
-    "openai", "anthropic", "deepmind", "hugging face",
-    # Automatización y robótica
-    "automatización", "automation", "robótica", "robotics",
-    "robot", "autonomous", "autónomo", "automate",
-    # Innovación tecnológica
-    "innovación", "innovation", "breakthrough", "avance",
-    "lanzamiento", "launch", "released", "unveiled", "presenta",
-    "nuevo modelo", "new model", "open source", "código abierto",
-    # Startups e inversión tech
-    "startup", "unicornio", "unicorn", "funding", "financiamiento",
-    "serie a", "serie b", "seed round", "ipo", "raises", "recauda",
-    # Computación y hardware
-    "chip", "semiconductor", "quantum", "computación cuántica",
-    "gpu", "procesador", "nvidia", "supercomputadora", "supercomputer",
-    # Software y plataformas
-    "api", "plataforma", "platform", "saas", "herramienta",
-    # Espacio
-    "cohete", "rocket", "satélite", "satellite", "spacex", "nasa",
-    # Biotecnología
-    "biotech", "biotecnología", "crispr", "genoma", "genome",
+PALABRAS_DESCARTE_TEC = {
+    "fútbol", "deportes", "partido", "liga", "campeonato", "gol",
+    "política", "elección", "gobierno", "presidente", "parlamento", "congreso",
+    "farándula", "celebridad", "reality", "espectáculo",
+    "crimen", "asesinato", "homicidio", "asalto", "detenido", "guerra", "atentado",
+    "tragedia", "accidente", "incendio", "terremoto", "inundación",
 }
 
 # ── Clientes compartidos ──────────────────────────────────────────────────────
 HTTP_SESSION = requests.Session()
-HTTP_SESSION.headers.update({"User-Agent": "Mozilla/5.0 (compatible; ElChilometroBot/1.1)"})
+HTTP_SESSION.headers.update({"User-Agent": "Mozilla/5.0 (compatible; ElChilometroBot/1.2)"})
 GROQ_CLIENT = Groq(api_key=GROQ_API_KEY)
 
 
@@ -144,6 +111,13 @@ def normalizar_link(link: str) -> str:
     ]
     clean = parsed._replace(query=urlencode(clean_query), fragment="")
     return urlunparse(clean).strip()
+
+
+def _nombre_fuente(link: str) -> str:
+    host = urlparse(link).netloc.lower()
+    if host.startswith("www."):
+        host = host[4:]
+    return host or "fuente-desconocida"
 
 
 # ── Telegram ──────────────────────────────────────────────────────────────────
@@ -185,12 +159,12 @@ def obtener_noticias() -> list[dict]:
             vistas.add(link)
             titulo_lower = titulo.lower()
 
-            if any(neg in titulo_lower for neg in PALABRAS_NEGATIVAS):
+            if any(desc in titulo_lower for desc in PALABRAS_DESCARTE_TEC):
                 continue
-            if any(pos in titulo_lower for pos in PALABRAS_POSITIVAS):
-                noticias.append({"titulo": titulo, "link": link})
+            if any(tec in titulo_lower for tec in PALABRAS_TECNOLOGIA):
+                noticias.append({"titulo": titulo, "link": link, "fuente": _nombre_fuente(link)})
 
-    log.info("Noticias candidatas: %d", len(noticias))
+    log.info("Noticias candidatas tech: %d", len(noticias))
     return noticias
 
 
@@ -207,29 +181,25 @@ def _llamar_groq(prompt: str, reintentos: int = 3) -> str:
         except Exception as e:
             log.warning("Groq intento %d/%d fallido: %s", intento, reintentos, e)
             if intento < reintentos:
-                time.sleep(2 ** intento)  # backoff exponencial
+                time.sleep(2 ** intento)
     raise RuntimeError("Groq no respondió tras varios intentos.")
 
 
 def es_avance_positivo(titulo: str) -> bool:
-    prompt = f"""Eres un filtro editorial estricto para un canal de tecnología e innovación.
-Evalúa si la noticia es un avance concreto en tecnología, IA, automatización o innovación.
+    prompt = f"""Eres editor de un canal de noticias tecnológicas.
+Evalúa el titular y responde si representa una noticia de tecnología NUEVA y RELEVANTE.
 
-Criterios SÍ:
-- Lanzamiento de nuevos modelos de IA, herramientas o plataformas
-- Avances en automatización, robótica o computación
-- Inversiones o financiamientos en startups tech
-- Descubrimientos científicos aplicados a tecnología
-- Nuevas capacidades de software, hardware o chips
+Aprueba (SÍ):
+- Lanzamientos concretos de IA, software, hardware, chips, automatización o robótica
+- Anuncios de producto/capacidad con impacto técnico real
+- Financiamiento o hitos de startups tech con dato verificable
 
-Criterios NO:
-- Política, regulación o debates sin producto concreto
-- Opiniones, análisis o predicciones
-- Escándalos, hackeos, vulnerabilidades o demandas
-- Noticias de despidos o crisis en empresas tech
-- Noticias negativas, neutras o alarmistas
+Rechaza (NO):
+- Opinión, humo, política, marketing sin producto
+- Sucesos generales no tecnológicos
+- Nota negativa/sensacionalista sin avance técnico
 
-Noticia: "{titulo}"
+Titular: "{titulo}"
 
 Responde SOLO con SÍ o NO."""
     resultado = _llamar_groq(prompt)
@@ -238,18 +208,13 @@ Responde SOLO con SÍ o NO."""
 
 def generar_post(noticia: dict) -> str:
     prompt = (
-        "Eres el editor de un canal de tecnología e innovación global.\n"
-        "Tono: directo, informativo, sin exceso de emojis.\n\n"
-        f"Noticia: {noticia['titulo']}\n"
+        "Eres un analista de noticias tecnológicas.\n"
+        "Escribe un comentario breve (1-2 frases) explicando qué pasó y por qué importa.\n"
+        "Sin hashtags, sin tono de marketing, sin inventar datos.\n\n"
+        f"Titular: {noticia['titulo']}\n"
+        f"Fuente: {noticia['fuente']}\n"
         f"Link: {noticia['link']}\n\n"
-        "Escribe un post para Twitter/X de máximo 280 caracteres:\n"
-        "- Emoji tech relevante al inicio\n"
-        "- El hecho concreto: qué se lanzó, descubrió o logró\n"
-        "- Por qué importa para el mundo tech\n"
-        "- Incluye el link\n"
-        "- Fuente: [nombre del medio] al final\n"
-        "- Sin hashtags\n\n"
-        "Responde SOLO con el post."
+        "Responde SOLO con el comentario."
     )
     return _llamar_groq(prompt)
 
@@ -292,8 +257,8 @@ def guardar_procesadas(procesadas: set[str]) -> None:
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 def main() -> None:
-    log.info("Noticias de tecnologia analizando.")
-    enviar_telegram("📡 Noticias de tecnologia analizando.")
+    log.info("Bot de noticias tecnológicas analizando fuentes.")
+    enviar_telegram("🤖 Bot de noticias tecnológicas: analizando fuentes...")
 
     try:
         noticias = obtener_noticias()
@@ -303,7 +268,7 @@ def main() -> None:
         return
 
     if not noticias:
-        enviar_telegram("⚠️ Sin noticias relevantes en este ciclo.")
+        enviar_telegram("⚠️ Sin noticias tecnológicas relevantes en este ciclo.")
         return
 
     procesadas = cargar_procesadas()
@@ -319,12 +284,17 @@ def main() -> None:
     for noticia in noticias_nuevas[:MAX_NOTICIAS_POR_CICLO]:
         try:
             if es_avance_positivo(noticia["titulo"]):
-                post = generar_post(noticia)
-                enviar_telegram(f"📢 POST SUGERIDO:\n\n{post}")
+                comentario = generar_post(noticia)
+                mensaje = (
+                    f"📰 {noticia['titulo']}\n\n"
+                    f"Fuente: {noticia['fuente']}\n\n"
+                    f"Comentario bot: {comentario}\n\n"
+                    f"{noticia['link']}"
+                )
+                enviar_telegram(mensaje)
                 log.info("Aprobado: %s", noticia["titulo"])
             else:
-                enviar_telegram(f"❌ DESCARTADO:\n{noticia['titulo']}")
-                log.info("Descartado: %s", noticia["titulo"])
+                log.info("Descartado (sin notificar): %s", noticia["titulo"])
         except Exception as e:
             log.error("Error procesando '%s': %s", noticia["titulo"], e)
             enviar_telegram(f"❌ Error al procesar:\n{noticia['titulo']}\n{e}")
