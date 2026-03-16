@@ -9,6 +9,8 @@ https://futurism.com/artificial-intelligence/ai-military-civil-liberty
 https://futurism.com/artificial-intelligence/atlassian-ai-layoffs
 https://futurism.com/artificial-intelligence/netflix-buys-ai-startup-ben-afleck
 https://futurism.com/artificial-intelligence/trump-ai-slop-model
+https://futurism.com/future-society/meta-firing-percentage-staff-zuckerberg
+https://futurism.com/robots-and-machines/video-humanoid-robot-playing-tennis
 https://huggingface.co/blog/lerobot-release-v050
 https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval
 https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms
@@ -36,6 +38,8 @@ https://roboticsandautomationnews.com/2026/03/15/neura-robotics-and-qualcomm-ent
 https://roboticsandautomationnews.com/2026/03/15/nulogy-launches-manufacturing-operating-system/99684/
 https://roboticsandautomationnews.com/2026/03/15/the-nioform-story-how-one-maker-and-two-robots-build-civic-monuments/99687/
 https://roboticsandautomationnews.com/2026/03/16/docomo-and-keio-university-demonstrate-worlds-first-stable-high-fidelity-robot-teleoperation-via-commercial-5g-using-low-latency-slicing/99696/
+https://roboticsandautomationnews.com/2026/03/16/modernizing-legacy-systems-through-cloud-migration/99712/
+https://roboticsandautomationnews.com/2026/03/16/why-customer-experience-teams-are-using-ai-and-residential-proxies-for-market-research/99715/
 https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/
 https://singularityhub.com/2026/03/09/hackers-are-automating-cyberattacks-with-ai-defenders-are-using-it-to-fight-back/
 https://spectrum.ieee.org/ai-for-coding-intuition
@@ -72,6 +76,10 @@ https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass
 https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/
 https://techcrunch.com/2026/03/15/techcrunch-mobility-travis-kalanicks-return-proves-it-really-is-2016-again/
 https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/
+https://techcrunch.com/2026/03/16/antonio-gracias-says-hes-loomg-for-proentropic-startups-those-that-are-built-to-survive-chaos/
+https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/
+https://techcrunch.com/2026/03/16/shopify-is-preparing-for-ai-shopping-agents-to-change-everything-exec-says/
+https://techcrunch.com/2026/03/16/walmart-backed-phonepe-shelves-ipo-as-global-tensions-rattle-markets/
 https://venturebeat.com/data/googles-gemini-embedding-2-arrives-with-native-multimodal-support-to-cut
 https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free
 https://venturebeat.com/infrastructure/nanoclaw-and-docker-partner-to-make-sandboxes-the-safest-way-for-enterprises
@@ -102,10 +110,15 @@ https://www.bloomberg.com/news/articles/2026-03-16/alibaba-creates-ai-tool-for-c
 https://www.bloomberg.com/news/articles/2026-03-16/alibaba-plans-major-revamp-to-heighten-focus-on-ai-profits
 https://www.bloomberg.com/news/articles/2026-03-16/asia-s-dayone-data-centers-is-said-to-near-confidential-filing-for-us-ipo
 https://www.bloomberg.com/news/articles/2026-03-16/baidu-backed-biomap-is-said-to-confidentially-file-for-hk-ipo
+https://www.bloomberg.com/news/articles/2026-03-16/canada-leases-space-port-in-bid-to-break-reliance-on-us-rockets-like-spacex
 https://www.bloomberg.com/news/articles/2026-03-16/fidelity-backed-ai-chip-cooling-company-frore-valued-at-1-64-billion-in-new-funding
+https://www.bloomberg.com/news/articles/2026-03-16/grindr-unveils-new-ai-features-details-premium-subscription-tier
 https://www.bloomberg.com/news/articles/2026-03-16/nvidia-partner-hon-hai-s-profit-miss-raises-ai-demand-fears
 https://www.bloomberg.com/news/newsletters/2026-03-16/zoox-test-with-uber-in-las-vegas-pushes-the-definition-of-robotaxi
 https://www.bloomberg.com/news/videos/2026-03-14/rattner-cooling-jobs-market-tariffs-and-ai-video
+https://www.bloomberg.com/news/videos/2026-03-16/meta-to-spend-up-to-27b-on-nebius-ai-infrastructure-video
+https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/
+https://www.cnet.com/tech/mobile/apple-airpods-max-2-headphones-are-available-march-25-powered-by-h2-chip/
 https://www.cnet.com/tech/services-and-software/meta-ray-ban-smart-glasses-ai-privacy-policy/
 https://www.ex-ante.cl/balance-de-la-reforma-de-pensiones-mitos-y-realidades-por-christian-larrain/
 https://www.ex-ante.cl/cuales-son-los-principales-proyectos-de-inversion-que-el-gobierno-de-kast-buscara-agilizar/
@@ -151,6 +164,8 @@ https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-us
 https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/
 https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/
 https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/
+https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/
+https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/
 https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data
 https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles
 https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran
@@ -161,6 +176,7 @@ https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/
 https://www.wired.com/story/irestore-deals-amazon-spring-sale-2026/
 https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/
 https://www.zdnet.com/article/chatgpt-voice-mode-tricks/
+https://www.zdnet.com/article/karakeep-cure-browser-tab-overload/
 https://www.zdnet.com/article/medical-advice-ai-healthcare-microsoft-openai/
 https://www.zdnet.com/article/nanoclaw-docker-sandbox/
 https://www.zdnet.com/article/snowflake-it-executive-survey-ai-job-loss-and-gains/
