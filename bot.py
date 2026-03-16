@@ -225,6 +225,17 @@ Responde SOLO con SÍ o NO."""
     return resultado.upper().startswith("SÍ")
 
 
+
+
+def traducir_titulo_es(titulo: str) -> str:
+    prompt = (
+        "Traduce este titular al español neutro (LatAm), manteniendo nombres propios y términos técnicos.\n"
+        "Devuelve SOLO el titular traducido, sin comillas ni explicaciones.\n\n"
+        f"Titular: {titulo}"
+    )
+    traducido = _llamar_groq(prompt)
+    return traducido.strip() or titulo
+
 def generar_post(noticia: dict) -> str:
     prompt = (
         "Eres un analista de noticias tecnológicas.\n"
@@ -306,9 +317,10 @@ def main() -> None:
             break
         try:
             if es_avance_positivo(noticia["titulo"]):
+                titulo_es = traducir_titulo_es(noticia["titulo"])
                 comentario = generar_post(noticia)
                 mensaje = (
-                    f"📰 {noticia['titulo']}\n\n"
+                    f"📰 {titulo_es}\n\n"
                     f"Fuente: {noticia['fuente']}\n\n"
                     f"Comentario bot: {comentario}\n\n"
                     f"{noticia['link']}"
