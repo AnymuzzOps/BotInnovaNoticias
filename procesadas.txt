@@ -2,6 +2,7 @@ https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-ga
 https://arstechnica.com/ai/2026/03/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community/
 https://arstechnica.com/ai/2026/03/staff-complain-that-xai-is-flailing-because-of-constant-upheaval/
 https://arstechnica.com/gadgets/2026/03/apples-airpods-max-2-release-with-h2-chip-boosted-anc-in-april-for-549/
+https://arstechnica.com/gaming/2026/03/gamers-react-with-overwhelming-disgust-to-dlss-5s-generative-ai-glow-ups/
 https://arstechnica.com/gaming/2026/03/slay-the-spire-2-is-a-bit-too-familiar-for-its-own-good/
 https://arstechnica.com/health/2026/03/woman-sneezes-out-maggots-after-fly-larvae-get-trapped-in-her-deviated-septum/
 https://arstechnica.com/space/2026/03/flying-to-the-moon-for-the-first-time-in-54-years-is-risky-but-how-risky/
@@ -31,6 +32,7 @@ https://news.crunchbase.com/venture/interesting-startup-deals-robots-ai-agent-in
 https://news.crunchbase.com/venture/robotics-semiconductor-led-unicorns-february-2026/
 https://news.crunchbase.com/venture/unicorn-legal-tech-ai-startup-legora-triples-valuation/
 https://news.crunchbase.com/venture/world-model-ai-lab-ami-raises-europes-largest-seed-round/
+https://phys.org/news/2026-03-ai-higher-accuracy-current-methods.html
 https://phys.org/news/2026-03-atca-probe-peculiar-pulsar-nebula.html
 https://roboticsandautomationnews.com/2026/03/13/abb-robotics-survey-shows-ev-confidence-as-production-shifts-from-disruption-to-delivery/99662/
 https://roboticsandautomationnews.com/2026/03/13/highres-and-opentrons-showcase-industrys-first-ai-agent-to-agent-lab-automation-workflow/99637/
@@ -50,11 +52,16 @@ https://roboticsandautomationnews.com/2026/03/16/kodiak-ai-scales-autonomous-dri
 https://roboticsandautomationnews.com/2026/03/16/modernizing-legacy-systems-through-cloud-migration/99712/
 https://roboticsandautomationnews.com/2026/03/16/niqo-robotics-says-ai-weeding-business-nearing-profitability-as-platform-expands-to-new-crops/99733/
 https://roboticsandautomationnews.com/2026/03/16/why-customer-experience-teams-are-using-ai-and-residential-proxies-for-market-research/99715/
+https://roboticsandautomationnews.com/2026/03/17/automation-alone-isnt-enough-why-workflow-intelligence-is-the-missing-layer-in-smart-manufacturing/99799/
 https://roboticsandautomationnews.com/2026/03/17/how-do-ai-agents-streamline-factory-hr-tasks/99770/
 https://roboticsandautomationnews.com/2026/03/17/infineon-and-nvidia-expand-collaboration-to-accelerate-humanoid-robots-using-digital-twins/99784/
 https://roboticsandautomationnews.com/2026/03/17/mechanical-engineering-in-robotics-challenges-and-benefits/99766/
+https://roboticsandautomationnews.com/2026/03/17/nxp-and-nvidia-collaborate-on-edge-computing-platform-for-humanoid-robots/99781/
+https://roboticsandautomationnews.com/2026/03/17/precision-manufacturing-behind-the-robotics-revolution-why-machining-still-matters/99795/
 https://roboticsandautomationnews.com/2026/03/17/roboforce-raises-52-million-to-build-physical-ai-robots-for-industrial-work/99758/
+https://roboticsandautomationnews.com/2026/03/17/stmicroelectronics-and-leopard-imaging-launch-nvidia-jetson-ready-vision-module-for-humanoid-robots/99773/
 https://roboticsandautomationnews.com/2026/03/17/universal-robots-and-scale-ai-launch-imitation-learning-system-for-training-industrial-robots/99752/
+https://roboticsandautomationnews.com/2026/03/17/vention-launches-ai-powered-bin-picking-robot-system-at-nvidia-gtc/99776/
 https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/
 https://singularityhub.com/2026/03/09/hackers-are-automating-cyberattacks-with-ai-defenders-are-using-it-to-fight-back/
 https://spectrum.ieee.org/ai-for-coding-intuition
@@ -105,6 +112,7 @@ https://techcrunch.com/2026/03/16/samsung-bets-this-island-startup-can-tame-the-
 https://techcrunch.com/2026/03/16/shopify-is-preparing-for-ai-shopping-agents-to-change-everything-exec-says/
 https://techcrunch.com/2026/03/16/walmart-backed-phonepe-shelves-ipo-as-global-tensions-rattle-markets/
 https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/
+https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/
 https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/
 https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/
 https://techcrunch.com/2026/03/17/googles-data-center-power-playbook-comes-into-focus/
@@ -123,6 +131,8 @@ https://venturebeat.com/infrastructure/the-team-behind-continuous-batching-says-
 https://venturebeat.com/orchestration/anthropic-gives-claude-shared-context-across-microsoft-excel-and-powerpoint
 https://venturebeat.com/orchestration/how-linkedin-replaced-five-feed-retrieval-systems-with-one-llm-model-at-1-3
 https://venturebeat.com/orchestration/y-combinator-backed-random-labs-launches-slate-v1-claiming-the-first-swarm
+https://venturebeat.com/security/nvidia-gtc-2026-agentic-ai-security-five-vendor-governance-framework
+https://venturebeat.com/security/the-authorization-problem-that-could-break-enterprise-ai
 https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no
 https://venturebeat.com/technology/fixing-ai-failure-three-changes-enterprises-should-make-now
 https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai
@@ -137,6 +147,7 @@ https://venturebeat.com/technology/z-ai-debuts-faster-cheaper-glm-5-turbo-model-
 https://www.bbc.com/news/articles/c4g7k7zdd0zo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4gjyg0g78vo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c74721xyd1wo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cdxg15eyv5ko?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj0d6el50ppo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/clyg4wx6nxgo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cn48n18pg1eo?at_medium=RSS&at_campaign=rss
@@ -155,12 +166,15 @@ https://www.bloomberg.com/news/articles/2026-03-16/fidelity-backed-ai-chip-cooli
 https://www.bloomberg.com/news/articles/2026-03-16/grindr-unveils-new-ai-features-details-premium-subscription-tier
 https://www.bloomberg.com/news/articles/2026-03-16/nvidia-expects-to-make-1-trillion-from-ai-chips-through-2027
 https://www.bloomberg.com/news/articles/2026-03-16/nvidia-partner-hon-hai-s-profit-miss-raises-ai-demand-fears
+https://www.bloomberg.com/news/articles/2026-03-17/ai-drone-software-stock-jumps-700-in-best-ipo-since-newsmax
 https://www.bloomberg.com/news/articles/2026-03-17/ark-s-cathie-wood-says-ai-is-already-boosting-productivity
 https://www.bloomberg.com/news/articles/2026-03-17/baidu-taps-openclaw-smart-speakers-to-fuel-agentic-ai-paradigm
 https://www.bloomberg.com/news/articles/2026-03-17/data-center-developer-t5-seeks-2-billion-equity-for-new-sites
 https://www.bloomberg.com/news/articles/2026-03-17/ex-datadog-leader-s-ai-startup-nabs-first-49-million-funding
+https://www.bloomberg.com/news/articles/2026-03-17/jpmorgan-halts-qualtrics-5-3-billion-debt-deal-on-software-pain
 https://www.bloomberg.com/news/articles/2026-03-17/memory-chip-crunch-to-persist-till-2030-sk-chairman-says
 https://www.bloomberg.com/news/articles/2026-03-17/nordea-to-cut-up-to-5-of-staff-as-ai-seen-bringing-cost-savings
+https://www.bloomberg.com/news/articles/2026-03-17/nvidia-ceo-says-company-is-firing-up-h200-production-for-china
 https://www.bloomberg.com/news/articles/2026-03-17/trustpilot-eyes-e-commerce-deals-targets-margin-gain-on-ai-boom
 https://www.bloomberg.com/news/articles/2026-03-17/uk-to-invest-1-billion-into-quantum-computing-research-trials
 https://www.bloomberg.com/news/newsletters/2026-03-16/zoox-test-with-uber-in-las-vegas-pushes-the-definition-of-robotaxi
@@ -171,10 +185,13 @@ https://www.bloomberg.com/news/videos/2026-03-16/china-s-ai-boom-risks-job-losse
 https://www.bloomberg.com/news/videos/2026-03-16/meta-to-spend-up-to-27b-on-nebius-ai-infrastructure-video
 https://www.bloomberg.com/news/videos/2026-03-16/nvidia-s-huang-expects-to-make-1-trillion-from-ai-chips-video
 https://www.bloomberg.com/news/videos/2026-03-17/ark-s-wood-sees-leap-in-ai-driven-productivity-gains-video
+https://www.bloomberg.com/news/videos/2026-03-17/gecko-robotics-inks-71-million-deal-with-us-navy-video
 https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/
+https://www.cnet.com/tech/mobile/ankers-upcoming-liberty-5-pro-max-buds-will-have-an-ai-voice-recorder-in-charging-case/
 https://www.cnet.com/tech/mobile/apple-airpods-max-2-headphones-are-available-march-25-powered-by-h2-chip/
 https://www.cnet.com/tech/services-and-software/ai-toys-for-toddlers-study/
 https://www.cnet.com/tech/services-and-software/embo-olaf-droid-combines-disney-and-nvidia-robotics-and-ai/
+https://www.cnet.com/tech/services-and-software/grok-ai-deepfake-porn-teen-girls-lawsuit-march-2026/
 https://www.cnet.com/tech/services-and-software/i-asked-ai-to-help-me-choose-a-hobby-ranking-its-suggestions-from-beekeeping-to-astronomy/
 https://www.cnet.com/tech/services-and-software/meta-ray-ban-smart-glasses-ai-privacy-policy/
 https://www.cnet.com/tech/services-and-software/nvidia-gtc-2026-3-things-you-should-know-about/
@@ -234,6 +251,7 @@ https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-
 https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data
 https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk
 https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence
+https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing
 https://www.theverge.com/games/894610/capcom-pragmata-ai-preview-interview
 https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles
 https://www.theverge.com/games/895396/playstation-pssr-upscaling-cyberpunk-2077-silent-hill
@@ -250,7 +268,9 @@ https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/
 https://www.wired.com/story/irestore-deals-amazon-spring-sale-2026/
 https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/
 https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/
+https://www.zdnet.com/article/caio-chief-ai-officer-alternative-director-of-ai-productivity/
 https://www.zdnet.com/article/chatgpt-voice-mode-tricks/
+https://www.zdnet.com/article/gpt-5-4-mini-and-nano/
 https://www.zdnet.com/article/karakeep-cure-browser-tab-overload/
 https://www.zdnet.com/article/medical-advice-ai-healthcare-microsoft-openai/
 https://www.zdnet.com/article/nanoclaw-docker-sandbox/
