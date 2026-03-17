@@ -15,6 +15,7 @@ https://futurism.com/artificial-intelligence/netflix-buys-ai-startup-ben-afleck
 https://futurism.com/artificial-intelligence/trump-ai-slop-model
 https://futurism.com/future-society/meta-firing-percentage-staff-zuckerberg
 https://futurism.com/robots-and-machines/video-humanoid-robot-playing-tennis
+https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026
 https://huggingface.co/blog/lerobot-release-v050
 https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval
 https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics
@@ -50,6 +51,7 @@ https://roboticsandautomationnews.com/2026/03/16/modernizing-legacy-systems-thro
 https://roboticsandautomationnews.com/2026/03/16/niqo-robotics-says-ai-weeding-business-nearing-profitability-as-platform-expands-to-new-crops/99733/
 https://roboticsandautomationnews.com/2026/03/16/why-customer-experience-teams-are-using-ai-and-residential-proxies-for-market-research/99715/
 https://roboticsandautomationnews.com/2026/03/17/how-do-ai-agents-streamline-factory-hr-tasks/99770/
+https://roboticsandautomationnews.com/2026/03/17/infineon-and-nvidia-expand-collaboration-to-accelerate-humanoid-robots-using-digital-twins/99784/
 https://roboticsandautomationnews.com/2026/03/17/mechanical-engineering-in-robotics-challenges-and-benefits/99766/
 https://roboticsandautomationnews.com/2026/03/17/roboforce-raises-52-million-to-build-physical-ai-robots-for-industrial-work/99758/
 https://roboticsandautomationnews.com/2026/03/17/universal-robots-and-scale-ai-launch-imitation-learning-system-for-training-industrial-robots/99752/
@@ -102,7 +104,14 @@ https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assista
 https://techcrunch.com/2026/03/16/samsung-bets-this-island-startup-can-tame-the-grid-with-software-and-batteries/
 https://techcrunch.com/2026/03/16/shopify-is-preparing-for-ai-shopping-agents-to-change-everything-exec-says/
 https://techcrunch.com/2026/03/16/walmart-backed-phonepe-shelves-ipo-as-global-tensions-rattle-markets/
+https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/
+https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/
 https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/
+https://techcrunch.com/2026/03/17/googles-data-center-power-playbook-comes-into-focus/
+https://techcrunch.com/2026/03/17/hm-wants-to-make-clothing-from-co2-using-this-startups-tech/
+https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/
+https://techcrunch.com/2026/03/17/vurt-mobile-first-vertical-video-streaming-platform-indie-filmmakers/
+https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/
 https://venturebeat.com/data/googles-gemini-embedding-2-arrives-with-native-multimodal-support-to-cut
 https://venturebeat.com/data/nvidia-bluefield-4-stx-adds-a-context-memory-layer-to-storage-to-close-the
 https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free
@@ -119,6 +128,7 @@ https://venturebeat.com/technology/fixing-ai-failure-three-changes-enterprises-s
 https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai
 https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in
 https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among
+https://venturebeat.com/technology/nvidia-lets-its-claws-out-nemoclaw-brings-security-scale-to-the-agent
 https://venturebeat.com/technology/nvidias-new-open-weights-nemotron-3-super-combines-three-different
 https://venturebeat.com/technology/rethinking-aeo-when-software-agents-navigate-the-web-on-behalf-of-users
 https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and
@@ -223,9 +233,12 @@ https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-
 https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/
 https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data
 https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk
+https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence
+https://www.theverge.com/games/894610/capcom-pragmata-ai-preview-interview
 https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles
 https://www.theverge.com/games/895396/playstation-pssr-upscaling-cyberpunk-2077-silent-hill
 https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics
+https://www.theverge.com/news/895963/microsoft-copilot-leadership-changes-consumer-commercial
 https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran
 https://www.theverge.com/tech/894803/digg-beta-shutdown-layoffs-ai
 https://www.theverge.com/tech/895301/nvidia-robotaxi-byd-geely-hyperion-lyft-halos
