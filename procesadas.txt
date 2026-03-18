@@ -31,6 +31,7 @@ https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms
 https://huggingface.co/blog/storage-buckets
 https://news.crunchbase.com/enterprise/ai-forcing-saas-to-rethink-product-sagie/
 https://news.crunchbase.com/ma/data-small-midsized-venture-backed-startup-acquisitions/
+https://news.crunchbase.com/public/pwc-bellin-qa-2026-ipo-timing-secondary-boom/
 https://news.crunchbase.com/real-estate-property-tech/ai-generated-hvac-quotes-rebar-seriesa/
 https://news.crunchbase.com/venture/biggest-funding-rounds-ai-robotics-ecommerce-quince/
 https://news.crunchbase.com/venture/founder-first-investing-ai-khosla-choi/
@@ -41,6 +42,7 @@ https://news.crunchbase.com/venture/unicorn-legal-tech-ai-startup-legora-triples
 https://news.crunchbase.com/venture/world-model-ai-lab-ami-raises-europes-largest-seed-round/
 https://phys.org/news/2026-03-ai-higher-accuracy-current-methods.html
 https://phys.org/news/2026-03-atca-probe-peculiar-pulsar-nebula.html
+https://phys.org/news/2026-03-microwave-quantum-network-resilience-disturbances.html
 https://roboticsandautomationnews.com/2026/03/13/abb-robotics-survey-shows-ev-confidence-as-production-shifts-from-disruption-to-delivery/99662/
 https://roboticsandautomationnews.com/2026/03/13/highres-and-opentrons-showcase-industrys-first-ai-agent-to-agent-lab-automation-workflow/99637/
 https://roboticsandautomationnews.com/2026/03/13/infineon-and-bmw-partner-to-shape-the-future-of-software-defined-vehicles-with-neue-klasse-range/99655/
@@ -75,7 +77,9 @@ https://roboticsandautomationnews.com/2026/03/17/stmicroelectronics-and-leopard-
 https://roboticsandautomationnews.com/2026/03/17/torc-robotics-and-daimler-truck-expand-autonomous-truck-testing-to-michigan-public-roads/99823/
 https://roboticsandautomationnews.com/2026/03/17/universal-robots-and-scale-ai-launch-imitation-learning-system-for-training-industrial-robots/99752/
 https://roboticsandautomationnews.com/2026/03/17/vention-launches-ai-powered-bin-picking-robot-system-at-nvidia-gtc/99776/
+https://roboticsandautomationnews.com/2026/03/18/agibot-stages-robot-led-live-show-to-demonstrate-humanoids-operating-at-scale/99834/
 https://roboticsandautomationnews.com/2026/03/18/hotel-monville-upgrades-room-service-robot-with-pudu-flashbot-system/99827/
+https://roboticsandautomationnews.com/2026/03/18/segway-navimow-robotic-lawn-mowers-earn-tuv-certification-for-minimal-lawn-impact/99831/
 https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/
 https://singularityhub.com/2026/03/09/hackers-are-automating-cyberattacks-with-ai-defenders-are-using-it-to-fight-back/
 https://spectrum.ieee.org/ai-for-coding-intuition
@@ -197,6 +201,8 @@ https://www.bloomberg.com/news/articles/2026-03-17/nvidia-ceo-says-company-is-fi
 https://www.bloomberg.com/news/articles/2026-03-17/tencent-seizes-momentum-in-china-agentic-ai-race-against-alibaba
 https://www.bloomberg.com/news/articles/2026-03-17/trustpilot-eyes-e-commerce-deals-targets-margin-gain-on-ai-boom
 https://www.bloomberg.com/news/articles/2026-03-17/uk-to-invest-1-billion-into-quantum-computing-research-trials
+https://www.bloomberg.com/news/articles/2026-03-18/ai-boom-drives-us-to-build-enough-battery-systems-for-domestic-demand
+https://www.bloomberg.com/news/articles/2026-03-18/ai-security-startup-xbow-now-valued-at-more-than-1-billion
 https://www.bloomberg.com/news/articles/2026-03-18/alibaba-hikes-ai-computing-prices-up-to-34-after-demand-soars
 https://www.bloomberg.com/news/articles/2026-03-18/china-s-openclaw-stocks-rise-as-nvidia-calls-it-the-next-chatgpt
 https://www.bloomberg.com/news/articles/2026-03-18/data-center-firm-dayone-seeks-to-boost-loan-to-record-7-billion
@@ -205,6 +211,7 @@ https://www.bloomberg.com/news/articles/2026-03-18/pepkor-rethinks-investec-tie-
 https://www.bloomberg.com/news/articles/2026-03-18/samsung-agrees-to-supply-next-generation-ai-memory-to-amd
 https://www.bloomberg.com/news/articles/2026-03-18/samsung-weighs-multi-year-deals-to-ease-memory-chip-crunch-fears
 https://www.bloomberg.com/news/articles/2026-03-18/stanchart-s-ai-chief-exiting-less-than-a-year-after-joining
+https://www.bloomberg.com/news/articles/2026-03-18/tencent-s-sales-rise-13-in-boost-for-broader-ai-ambitions
 https://www.bloomberg.com/news/articles/2026-03-18/trump-administration-vows-legal-fight-on-anthropic-ai-tool-ban
 https://www.bloomberg.com/news/articles/2026-03-18/unicredit-sees-up-to-500-million-in-ai-cost-cuts-in-next-years
 https://www.bloomberg.com/news/newsletters/2026-03-16/zoox-test-with-uber-in-las-vegas-pushes-the-definition-of-robotaxi
@@ -261,11 +268,13 @@ https://www.marktechpost.com/2026/03/16/how-to-build-high-performance-gpu-accele
 https://www.marktechpost.com/2026/03/16/mistral-ai-releases-mistral-small-4-a-119b-parameter-moe-model-that-unifies-instruct-reasoning-and-multimodal-workloads/
 https://www.marktechpost.com/2026/03/17/google-ai-releases-waxal-a-multilingual-african-speech-dataset-for-training-automatic-speech-recognition-and-text-to-speech-models/
 https://www.marktechpost.com/2026/03/17/unsloth-ai-releases-studio-a-local-no-code-interface-for-high-performance-llm-fine-tuning-with-70-less-vram-usage/
+https://www.marktechpost.com/2026/03/18/nvidia-ai-open-sources-openshell-a-secure-runtime-environment-for-autonomous-ai-agents/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
 https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html
 https://www.nytimes.com/2026/03/16/technology/nvidia-gtc-ai-chips-huang.html
 https://www.nytimes.com/2026/03/17/technology/trapped-inside-a-self-driving-car-during-an-anti-robot-attack.html
+https://www.nytimes.com/2026/03/18/technology/turing-award-winners-quantum-cryptography.html
 https://www.sciencedaily.com/releases/2026/01/260129080418.htm
 https://www.sciencedaily.com/releases/2026/01/260131084555.htm
 https://www.sciencedaily.com/releases/2026/02/260201223737.htm
@@ -274,6 +283,7 @@ https://www.sciencedaily.com/releases/2026/02/260219040756.htm
 https://www.sciencedaily.com/releases/2026/03/260302030642.htm
 https://www.sciencedaily.com/releases/2026/03/260313002650.htm
 https://www.sciencedaily.com/releases/2026/03/260315004355.htm
+https://www.sciencedaily.com/releases/2026/03/260317064512.htm
 https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/
 https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/
 https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/
@@ -291,6 +301,7 @@ https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoo
 https://www.theverge.com/games/894610/capcom-pragmata-ai-preview-interview
 https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles
 https://www.theverge.com/games/895396/playstation-pssr-upscaling-cyberpunk-2077-silent-hill
+https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering
 https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics
 https://www.theverge.com/news/895963/microsoft-copilot-leadership-changes-consumer-commercial
 https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran
