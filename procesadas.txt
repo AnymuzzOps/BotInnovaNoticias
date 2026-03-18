@@ -11,6 +11,7 @@ https://arstechnica.com/tech-policy/2026/03/elon-musks-xai-sued-for-turning-thre
 https://events.bizzabo.com/823847
 https://futurism.com/artificial-intelligence/ai-data-center-security-guards-robot-dogs
 https://futurism.com/artificial-intelligence/ai-grandmother-jail-mistake
+https://futurism.com/artificial-intelligence/ai-lawsuits-chaos-courts-lawyers
 https://futurism.com/artificial-intelligence/ai-military-civil-liberty
 https://futurism.com/artificial-intelligence/atlassian-ai-layoffs
 https://futurism.com/artificial-intelligence/netflix-buys-ai-startup-ben-afleck
@@ -41,6 +42,7 @@ https://news.crunchbase.com/venture/robotics-semiconductor-led-unicorns-february
 https://news.crunchbase.com/venture/unicorn-legal-tech-ai-startup-legora-triples-valuation/
 https://news.crunchbase.com/venture/world-model-ai-lab-ami-raises-europes-largest-seed-round/
 https://phys.org/news/2026-03-ai-higher-accuracy-current-methods.html
+https://phys.org/news/2026-03-ai-social-entrepreneurs-sources.html
 https://phys.org/news/2026-03-atca-probe-peculiar-pulsar-nebula.html
 https://phys.org/news/2026-03-microwave-quantum-network-resilience-disturbances.html
 https://roboticsandautomationnews.com/2026/03/13/abb-robotics-survey-shows-ev-confidence-as-production-shifts-from-disruption-to-delivery/99662/
@@ -139,6 +141,9 @@ https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-ent
 https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/
 https://techcrunch.com/2026/03/17/vurt-mobile-first-vertical-video-streaming-platform-indie-filmmakers/
 https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/
+https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/
+https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/
+https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/
 https://venturebeat.com/data/googles-gemini-embedding-2-arrives-with-native-multimodal-support-to-cut
 https://venturebeat.com/data/nvidia-bluefield-4-stx-adds-a-context-memory-layer-to-storage-to-close-the
 https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free
@@ -173,6 +178,7 @@ https://www.bbc.com/news/articles/cdxg15eyv5ko?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj0d6el50ppo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/clyg4wx6nxgo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cn48n18pg1eo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cvg1gr5v333o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cx28v08jpe7o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cx2g8888q53o?at_medium=RSS&at_campaign=rss
 https://www.bloomberg.com/news/articles/2026-03-13/elon-musk-s-ketamine-use-can-t-be-probed-in-openai-fraud-trial
@@ -206,6 +212,7 @@ https://www.bloomberg.com/news/articles/2026-03-18/ai-security-startup-xbow-now-
 https://www.bloomberg.com/news/articles/2026-03-18/alibaba-hikes-ai-computing-prices-up-to-34-after-demand-soars
 https://www.bloomberg.com/news/articles/2026-03-18/china-s-openclaw-stocks-rise-as-nvidia-calls-it-the-next-chatgpt
 https://www.bloomberg.com/news/articles/2026-03-18/data-center-firm-dayone-seeks-to-boost-loan-to-record-7-billion
+https://www.bloomberg.com/news/articles/2026-03-18/google-ties-data-center-to-20-year-power-deal-solar-investment
 https://www.bloomberg.com/news/articles/2026-03-18/is-an-ai-bubble-set-to-burst-navigating-the-artificial-intelligence-boom
 https://www.bloomberg.com/news/articles/2026-03-18/pepkor-rethinks-investec-tie-up-as-it-eyes-solo-bank-startup
 https://www.bloomberg.com/news/articles/2026-03-18/samsung-agrees-to-supply-next-generation-ai-memory-to-amd
@@ -223,7 +230,9 @@ https://www.bloomberg.com/news/videos/2026-03-16/meta-to-spend-up-to-27b-on-nebi
 https://www.bloomberg.com/news/videos/2026-03-16/nvidia-s-huang-expects-to-make-1-trillion-from-ai-chips-video
 https://www.bloomberg.com/news/videos/2026-03-17/ark-s-wood-sees-leap-in-ai-driven-productivity-gains-video
 https://www.bloomberg.com/news/videos/2026-03-17/gecko-robotics-inks-71-million-deal-with-us-navy-video
+https://www.bloomberg.com/news/videos/2026-03-18/ai-will-create-losers-in-software-space-pimco-s-stracke-video
 https://www.bloomberg.com/news/videos/2026-03-18/nvidia-says-company-firing-up-h200-production-for-china-video
+https://www.bloomberg.com/news/videos/2026-03-18/oaktree-s-howard-marks-on-ai-video
 https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/
 https://www.cnet.com/news-live/sxsw-2026-updates-news-tech-culture/
 https://www.cnet.com/tech/gaming/nvidia-teases-dlss-5-gamers-arent-impressed/
@@ -294,6 +303,7 @@ https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-officia
 https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/
 https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/
 https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/
+https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/
 https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data
 https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk
 https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence
@@ -301,6 +311,7 @@ https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoo
 https://www.theverge.com/games/894610/capcom-pragmata-ai-preview-interview
 https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles
 https://www.theverge.com/games/895396/playstation-pssr-upscaling-cyberpunk-2077-silent-hill
+https://www.theverge.com/games/895753/nvidia-dlss-5-slop-face-fake-frames
 https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering
 https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics
 https://www.theverge.com/news/895963/microsoft-copilot-leadership-changes-consumer-commercial
@@ -317,6 +328,7 @@ https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/
 https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/
 https://www.zdnet.com/article/caio-chief-ai-officer-alternative-director-of-ai-productivity/
 https://www.zdnet.com/article/chatgpt-voice-mode-tricks/
+https://www.zdnet.com/article/fitbit-medical-google-ai/
 https://www.zdnet.com/article/gpt-5-4-mini-and-nano/
 https://www.zdnet.com/article/karakeep-cure-browser-tab-overload/
 https://www.zdnet.com/article/medical-advice-ai-healthcare-microsoft-openai/
