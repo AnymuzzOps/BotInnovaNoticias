@@ -1,6 +1,7 @@
 https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/
 https://arstechnica.com/ai/2026/03/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community/
 https://arstechnica.com/ai/2026/03/staff-complain-that-xai-is-flailing-because-of-constant-upheaval/
+https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/
 https://arstechnica.com/gadgets/2026/03/apples-airpods-max-2-release-with-h2-chip-boosted-anc-in-april-for-549/
 https://arstechnica.com/gaming/2026/03/gamers-react-with-overwhelming-disgust-to-dlss-5s-generative-ai-glow-ups/
 https://arstechnica.com/gaming/2026/03/slay-the-spire-2-is-a-bit-too-familiar-for-its-own-good/
@@ -19,6 +20,7 @@ https://futurism.com/robots-and-machines/video-humanoid-robot-playing-tennis
 https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026
 https://huggingface.co/blog/lerobot-release-v050
 https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval
+https://huggingface.co/blog/nvidia/nemotron-3-nano-4b
 https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics
 https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms
 https://huggingface.co/blog/storage-buckets
@@ -59,7 +61,9 @@ https://roboticsandautomationnews.com/2026/03/17/mechanical-engineering-in-robot
 https://roboticsandautomationnews.com/2026/03/17/nxp-and-nvidia-collaborate-on-edge-computing-platform-for-humanoid-robots/99781/
 https://roboticsandautomationnews.com/2026/03/17/precision-manufacturing-behind-the-robotics-revolution-why-machining-still-matters/99795/
 https://roboticsandautomationnews.com/2026/03/17/roboforce-raises-52-million-to-build-physical-ai-robots-for-industrial-work/99758/
+https://roboticsandautomationnews.com/2026/03/17/saildrone-and-woolpert-deploy-autonomous-surface-vessel-for-noaa-seafloor-mapping/99819/
 https://roboticsandautomationnews.com/2026/03/17/stmicroelectronics-and-leopard-imaging-launch-nvidia-jetson-ready-vision-module-for-humanoid-robots/99773/
+https://roboticsandautomationnews.com/2026/03/17/torc-robotics-and-daimler-truck-expand-autonomous-truck-testing-to-michigan-public-roads/99823/
 https://roboticsandautomationnews.com/2026/03/17/universal-robots-and-scale-ai-launch-imitation-learning-system-for-training-industrial-robots/99752/
 https://roboticsandautomationnews.com/2026/03/17/vention-launches-ai-powered-bin-picking-robot-system-at-nvidia-gtc/99776/
 https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/
@@ -117,12 +121,14 @@ https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to
 https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/
 https://techcrunch.com/2026/03/17/googles-data-center-power-playbook-comes-into-focus/
 https://techcrunch.com/2026/03/17/hm-wants-to-make-clothing-from-co2-using-this-startups-tech/
+https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/
 https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/
 https://techcrunch.com/2026/03/17/vurt-mobile-first-vertical-video-streaming-platform-indie-filmmakers/
 https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/
 https://venturebeat.com/data/googles-gemini-embedding-2-arrives-with-native-multimodal-support-to-cut
 https://venturebeat.com/data/nvidia-bluefield-4-stx-adds-a-context-memory-layer-to-storage-to-close-the
 https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free
+https://venturebeat.com/infrastructure/mistral-ai-launches-forge-to-help-companies-build-proprietary-ai-models
 https://venturebeat.com/infrastructure/nanoclaw-and-docker-partner-to-make-sandboxes-the-safest-way-for-enterprises
 https://venturebeat.com/infrastructure/nvidia-introduces-vera-rubin-a-seven-chip-ai-platform-with-openai-anthropic
 https://venturebeat.com/infrastructure/nvidias-dgx-station-is-a-desktop-supercomputer-that-runs-trillion-parameter
@@ -130,6 +136,7 @@ https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challen
 https://venturebeat.com/infrastructure/the-team-behind-continuous-batching-says-your-idle-gpus-should-be-running
 https://venturebeat.com/orchestration/anthropic-gives-claude-shared-context-across-microsoft-excel-and-powerpoint
 https://venturebeat.com/orchestration/how-linkedin-replaced-five-feed-retrieval-systems-with-one-llm-model-at-1-3
+https://venturebeat.com/orchestration/nvidia-shrinks-llm-memory-20x-without-changing-model-weights
 https://venturebeat.com/orchestration/y-combinator-backed-random-labs-launches-slate-v1-claiming-the-first-swarm
 https://venturebeat.com/security/nvidia-gtc-2026-agentic-ai-security-five-vendor-governance-framework
 https://venturebeat.com/security/the-authorization-problem-that-could-break-enterprise-ai
@@ -140,6 +147,7 @@ https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-sourc
 https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among
 https://venturebeat.com/technology/nvidia-lets-its-claws-out-nemoclaw-brings-security-scale-to-the-agent
 https://venturebeat.com/technology/nvidias-new-open-weights-nemotron-3-super-combines-three-different
+https://venturebeat.com/technology/open-source-mamba-3-arrives-to-surpass-transformer-architecture-with-nearly
 https://venturebeat.com/technology/rethinking-aeo-when-software-agents-navigate-the-web-on-behalf-of-users
 https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and
 https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are
@@ -226,6 +234,7 @@ https://www.marktechpost.com/2026/03/15/zhipu-ai-introduces-glm-ocr-a-0-9b-multi
 https://www.marktechpost.com/2026/03/16/how-to-build-high-performance-gpu-accelerated-simulations-and-differentiable-physics-workflows-using-nvidia-warp-kernels/
 https://www.marktechpost.com/2026/03/16/mistral-ai-releases-mistral-small-4-a-119b-parameter-moe-model-that-unifies-instruct-reasoning-and-multimodal-workloads/
 https://www.marktechpost.com/2026/03/17/google-ai-releases-waxal-a-multilingual-african-speech-dataset-for-training-automatic-speech-recognition-and-text-to-speech-models/
+https://www.marktechpost.com/2026/03/17/unsloth-ai-releases-studio-a-local-no-code-interface-for-high-performance-llm-fine-tuning-with-70-less-vram-usage/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
 https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html
@@ -248,6 +257,7 @@ https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-bui
 https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/
 https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/
 https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/
+https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/
 https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data
 https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk
 https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence
