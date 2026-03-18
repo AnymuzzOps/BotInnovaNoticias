@@ -75,6 +75,7 @@ https://roboticsandautomationnews.com/2026/03/17/stmicroelectronics-and-leopard-
 https://roboticsandautomationnews.com/2026/03/17/torc-robotics-and-daimler-truck-expand-autonomous-truck-testing-to-michigan-public-roads/99823/
 https://roboticsandautomationnews.com/2026/03/17/universal-robots-and-scale-ai-launch-imitation-learning-system-for-training-industrial-robots/99752/
 https://roboticsandautomationnews.com/2026/03/17/vention-launches-ai-powered-bin-picking-robot-system-at-nvidia-gtc/99776/
+https://roboticsandautomationnews.com/2026/03/18/hotel-monville-upgrades-room-service-robot-with-pudu-flashbot-system/99827/
 https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/
 https://singularityhub.com/2026/03/09/hackers-are-automating-cyberattacks-with-ai-defenders-are-using-it-to-fight-back/
 https://spectrum.ieee.org/ai-for-coding-intuition
@@ -200,8 +201,12 @@ https://www.bloomberg.com/news/articles/2026-03-18/alibaba-hikes-ai-computing-pr
 https://www.bloomberg.com/news/articles/2026-03-18/china-s-openclaw-stocks-rise-as-nvidia-calls-it-the-next-chatgpt
 https://www.bloomberg.com/news/articles/2026-03-18/data-center-firm-dayone-seeks-to-boost-loan-to-record-7-billion
 https://www.bloomberg.com/news/articles/2026-03-18/is-an-ai-bubble-set-to-burst-navigating-the-artificial-intelligence-boom
+https://www.bloomberg.com/news/articles/2026-03-18/pepkor-rethinks-investec-tie-up-as-it-eyes-solo-bank-startup
+https://www.bloomberg.com/news/articles/2026-03-18/samsung-agrees-to-supply-next-generation-ai-memory-to-amd
 https://www.bloomberg.com/news/articles/2026-03-18/samsung-weighs-multi-year-deals-to-ease-memory-chip-crunch-fears
+https://www.bloomberg.com/news/articles/2026-03-18/stanchart-s-ai-chief-exiting-less-than-a-year-after-joining
 https://www.bloomberg.com/news/articles/2026-03-18/trump-administration-vows-legal-fight-on-anthropic-ai-tool-ban
+https://www.bloomberg.com/news/articles/2026-03-18/unicredit-sees-up-to-500-million-in-ai-cost-cuts-in-next-years
 https://www.bloomberg.com/news/newsletters/2026-03-16/zoox-test-with-uber-in-las-vegas-pushes-the-definition-of-robotaxi
 https://www.bloomberg.com/news/newsletters/2026-03-17/alibaba-ai-targets-early-detection-of-widespread-liver-disease
 https://www.bloomberg.com/news/videos/2026-03-14/rattner-cooling-jobs-market-tariffs-and-ai-video
