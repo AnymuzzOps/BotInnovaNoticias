@@ -186,6 +186,7 @@ https://venturebeat.com/technology/open-source-mamba-3-arrives-to-surpass-transf
 https://venturebeat.com/technology/rethinking-aeo-when-software-agents-navigate-the-web-on-behalf-of-users
 https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and
 https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are
+https://venturebeat.com/technology/xiaomi-stuns-with-new-mimo-v2-pro-llm-nearing-gpt-5-2-opus-4-6-performance
 https://venturebeat.com/technology/z-ai-debuts-faster-cheaper-glm-5-turbo-model-for-agents-and-claws-but-its
 https://www.bbc.com/news/articles/c4g7k7zdd0zo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4gjyg0g78vo?at_medium=RSS&at_campaign=rss
@@ -242,6 +243,8 @@ https://www.bloomberg.com/news/articles/2026-03-18/tencent-s-sales-rise-13-in-bo
 https://www.bloomberg.com/news/articles/2026-03-18/tiny-ai-drone-technology-company-surges-1-200-in-two-days
 https://www.bloomberg.com/news/articles/2026-03-18/trump-administration-vows-legal-fight-on-anthropic-ai-tool-ban
 https://www.bloomberg.com/news/articles/2026-03-18/unicredit-sees-up-to-500-million-in-ai-cost-cuts-in-next-years
+https://www.bloomberg.com/news/articles/2026-03-19/alibaba-ai-business-is-free-call-option-first-eagle-fund-says
+https://www.bloomberg.com/news/articles/2026-03-19/xiaomi-shares-jump-on-ai-model-buzz-upcoming-su7-model-facelift
 https://www.bloomberg.com/news/newsletters/2026-03-16/zoox-test-with-uber-in-las-vegas-pushes-the-definition-of-robotaxi
 https://www.bloomberg.com/news/newsletters/2026-03-17/alibaba-ai-targets-early-detection-of-widespread-liver-disease
 https://www.bloomberg.com/news/videos/2026-03-14/rattner-cooling-jobs-market-tariffs-and-ai-video
@@ -258,6 +261,8 @@ https://www.bloomberg.com/news/videos/2026-03-18/health-care-costs-surge-as-ai-f
 https://www.bloomberg.com/news/videos/2026-03-18/how-ai-is-changing-bank-dealmaking-video
 https://www.bloomberg.com/news/videos/2026-03-18/nvidia-says-company-firing-up-h200-production-for-china-video
 https://www.bloomberg.com/news/videos/2026-03-18/oaktree-s-howard-marks-on-ai-video
+https://www.bloomberg.com/news/videos/2026-03-19/hsbc-weighs-job-cuts-from-multiyear-ai-fueled-overhaul-video
+https://www.cnet.com/culture/entertainment/ai-set-to-create-val-kilmers-likeness-for-film-one-year-after-his-death/
 https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/
 https://www.cnet.com/news-live/sxsw-2026-updates-news-tech-culture/
 https://www.cnet.com/tech/gaming/nvidia-teases-dlss-5-gamers-arent-impressed/
