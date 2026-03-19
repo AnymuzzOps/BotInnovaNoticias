@@ -1,4 +1,5 @@
 https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/
+https://arstechnica.com/ai/2026/03/kagi-translates-ai-answers-the-question-what-would-horny-margaret-thatcher-say/
 https://arstechnica.com/ai/2026/03/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community/
 https://arstechnica.com/ai/2026/03/staff-complain-that-xai-is-flailing-because-of-constant-upheaval/
 https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/
@@ -51,6 +52,7 @@ https://phys.org/news/2026-03-ai-social-entrepreneurs-sources.html
 https://phys.org/news/2026-03-atca-probe-peculiar-pulsar-nebula.html
 https://phys.org/news/2026-03-future-quantum.html
 https://phys.org/news/2026-03-microwave-quantum-network-resilience-disturbances.html
+https://phys.org/news/2026-03-teachers-students-ai-good.html
 https://roboticsandautomationnews.com/2026/03/13/abb-robotics-survey-shows-ev-confidence-as-production-shifts-from-disruption-to-delivery/99662/
 https://roboticsandautomationnews.com/2026/03/13/highres-and-opentrons-showcase-industrys-first-ai-agent-to-agent-lab-automation-workflow/99637/
 https://roboticsandautomationnews.com/2026/03/13/infineon-and-bmw-partner-to-shape-the-future-of-software-defined-vehicles-with-neue-klasse-range/99655/
@@ -148,7 +150,9 @@ https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-ent
 https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/
 https://techcrunch.com/2026/03/17/vurt-mobile-first-vertical-video-streaming-platform-indie-filmmakers/
 https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/
+https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/
 https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/
+https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/
 https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/
 https://techcrunch.com/2026/03/18/pardoned-nikola-founder-trevor-milton-is-trying-to-raise-1b-for-ai-powered-planes/
 https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/
@@ -228,7 +232,9 @@ https://www.bloomberg.com/news/articles/2026-03-18/data-center-firm-dayone-seeks
 https://www.bloomberg.com/news/articles/2026-03-18/eu-moves-to-ban-ai-that-creates-non-consensual-sexual-images
 https://www.bloomberg.com/news/articles/2026-03-18/google-ties-data-center-to-20-year-power-deal-solar-investment
 https://www.bloomberg.com/news/articles/2026-03-18/is-an-ai-bubble-set-to-burst-navigating-the-artificial-intelligence-boom
+https://www.bloomberg.com/news/articles/2026-03-18/meeting-surging-demand-for-ai-memory-chips-has-a-climate-cost
 https://www.bloomberg.com/news/articles/2026-03-18/pepkor-rethinks-investec-tie-up-as-it-eyes-solo-bank-startup
+https://www.bloomberg.com/news/articles/2026-03-18/podcast-ai-is-being-built-to-replace-you-not-help-you
 https://www.bloomberg.com/news/articles/2026-03-18/samsung-agrees-to-supply-next-generation-ai-memory-to-amd
 https://www.bloomberg.com/news/articles/2026-03-18/samsung-weighs-multi-year-deals-to-ease-memory-chip-crunch-fears
 https://www.bloomberg.com/news/articles/2026-03-18/stanchart-s-ai-chief-exiting-less-than-a-year-after-joining
@@ -246,6 +252,7 @@ https://www.bloomberg.com/news/videos/2026-03-16/nvidia-s-huang-expects-to-make-
 https://www.bloomberg.com/news/videos/2026-03-17/ark-s-wood-sees-leap-in-ai-driven-productivity-gains-video
 https://www.bloomberg.com/news/videos/2026-03-17/gecko-robotics-inks-71-million-deal-with-us-navy-video
 https://www.bloomberg.com/news/videos/2026-03-18/ai-will-create-losers-in-software-space-pimco-s-stracke-video
+https://www.bloomberg.com/news/videos/2026-03-18/bloomberg-tech-3-18-2026-video
 https://www.bloomberg.com/news/videos/2026-03-18/gradient-raises-220-million-to-back-seed-stage-ai-video
 https://www.bloomberg.com/news/videos/2026-03-18/health-care-costs-surge-as-ai-fears-grow-video
 https://www.bloomberg.com/news/videos/2026-03-18/how-ai-is-changing-bank-dealmaking-video
@@ -261,6 +268,7 @@ https://www.cnet.com/tech/services-and-software/embo-olaf-droid-combines-disney-
 https://www.cnet.com/tech/services-and-software/fi-launches-ai-powered-dog-health-chatbot/
 https://www.cnet.com/tech/services-and-software/grok-ai-deepfake-porn-teen-girls-lawsuit-march-2026/
 https://www.cnet.com/tech/services-and-software/i-asked-ai-to-help-me-choose-a-hobby-ranking-its-suggestions-from-beekeeping-to-astronomy/
+https://www.cnet.com/tech/services-and-software/i-tried-internxt-an-encrypted-secure-cloud-storage-built-for-the-post-quantum-era/
 https://www.cnet.com/tech/services-and-software/meta-ray-ban-smart-glasses-ai-privacy-policy/
 https://www.cnet.com/tech/services-and-software/nvidia-gtc-2026-3-things-you-should-know-about/
 https://www.cnet.com/tech/services-and-software/nvidia-is-building-a-computer-for-data-centers-in-space/
@@ -297,6 +305,7 @@ https://www.marktechpost.com/2026/03/16/mistral-ai-releases-mistral-small-4-a-11
 https://www.marktechpost.com/2026/03/17/google-ai-releases-waxal-a-multilingual-african-speech-dataset-for-training-automatic-speech-recognition-and-text-to-speech-models/
 https://www.marktechpost.com/2026/03/17/unsloth-ai-releases-studio-a-local-no-code-interface-for-high-performance-llm-fine-tuning-with-70-less-vram-usage/
 https://www.marktechpost.com/2026/03/18/nvidia-ai-open-sources-openshell-a-secure-runtime-environment-for-autonomous-ai-agents/
+https://www.marktechpost.com/2026/03/18/tsinghua-and-ant-group-researchers-unveil-a-five-layer-lifecycle-oriented-security-framework-to-mitigate-autonomous-llm-agent-vulnerabilities-in-openclaw/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
 https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html
