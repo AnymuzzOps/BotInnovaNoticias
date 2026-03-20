@@ -9,6 +9,7 @@ https://arstechnica.com/gadgets/2026/03/despite-hardware-limits-parallels-suppor
 https://arstechnica.com/gaming/2026/03/gamers-react-with-overwhelming-disgust-to-dlss-5s-generative-ai-glow-ups/
 https://arstechnica.com/gaming/2026/03/slay-the-spire-2-is-a-bit-too-familiar-for-its-own-good/
 https://arstechnica.com/health/2026/03/woman-sneezes-out-maggots-after-fly-larvae-get-trapped-in-her-deviated-septum/
+https://arstechnica.com/information-technology/2026/03/cloud-service-providers-ask-eu-regulator-to-reinstate-vmware-partner-program/
 https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/
 https://arstechnica.com/space/2026/03/flying-to-the-moon-for-the-first-time-in-54-years-is-risky-but-how-risky/
 https://arstechnica.com/tech-policy/2026/03/cloudflare-appeals-piracy-shield-fine-hopes-to-kill-italys-site-blocking-law/
@@ -61,6 +62,7 @@ https://phys.org/news/2026-03-ai-social-entrepreneurs-sources.html
 https://phys.org/news/2026-03-atca-probe-peculiar-pulsar-nebula.html
 https://phys.org/news/2026-03-future-quantum.html
 https://phys.org/news/2026-03-microwave-quantum-network-resilience-disturbances.html
+https://phys.org/news/2026-03-nasa-artemis-missions-moon.html
 https://phys.org/news/2026-03-teachers-students-ai-good.html
 https://roboticsandautomationnews.com/2026/03/13/abb-robotics-survey-shows-ev-confidence-as-production-shifts-from-disruption-to-delivery/99662/
 https://roboticsandautomationnews.com/2026/03/13/highres-and-opentrons-showcase-industrys-first-ai-agent-to-agent-lab-automation-workflow/99637/
@@ -110,6 +112,7 @@ https://roboticsandautomationnews.com/2026/03/19/misumi-partners-with-oishii-to-
 https://roboticsandautomationnews.com/2026/03/19/onrobot-heads-to-reno-with-automation-solutions-for-northern-nevadas-manufacturing-workforce-challenge/99919/
 https://roboticsandautomationnews.com/2026/03/19/robotic-sorting-and-recycling-improving-purity-and-efficiency-in-waste-streams/99874/
 https://roboticsandautomationnews.com/2026/03/19/ss-innovations-ssi-mantra-surgical-robotic-system-approved-for-telesurgeries-in-indonesia-and-the-philippines/99933/
+https://roboticsandautomationnews.com/2026/03/19/using-copilot-to-predict-business-outcomes/99946/
 https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/
 https://singularityhub.com/2026/03/09/hackers-are-automating-cyberattacks-with-ai-defenders-are-using-it-to-fight-back/
 https://singularityhub.com/2026/03/19/tech-companies-are-blaming-massive-layoffs-on-ai-whats-really-going-on/
@@ -178,12 +181,15 @@ https://techcrunch.com/2026/03/18/pardoned-nikola-founder-trevor-milton-is-tryin
 https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/
 https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/
 https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/
+https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/
 https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/
 https://techcrunch.com/2026/03/19/feds-intensify-investigation-into-teslas-full-self-driving-supervised-software/
 https://techcrunch.com/2026/03/19/geothermal-startup-fervo-catapults-itself-over-the-valley-of-death/
+https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/
 https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/
 https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/
 https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/
+https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/
 https://techcrunch.com/2026/03/19/techcrunch-startup-battlefield-200-nominations-are-still-open/
 https://techcrunch.com/2026/03/19/uber-taps-rivian-to-build-robotaxis-in-deal-worth-up-to-1-25b/
 https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/
@@ -205,6 +211,7 @@ https://venturebeat.com/security/meta-rogue-ai-agent-confused-deputy-iam-identit
 https://venturebeat.com/security/nvidia-gtc-2026-agentic-ai-security-five-vendor-governance-framework
 https://venturebeat.com/security/the-authorization-problem-that-could-break-enterprise-ai
 https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no
+https://venturebeat.com/technology/cursors-new-coding-model-composer-2-is-here-it-beats-claude-opus-4-6-but
 https://venturebeat.com/technology/fixing-ai-failure-three-changes-enterprises-should-make-now
 https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai
 https://venturebeat.com/technology/new-minimax-m2-7-proprietary-ai-model-is-self-evolving-and-can-perform-30-50
@@ -281,10 +288,13 @@ https://www.bloomberg.com/news/articles/2026-03-19/bezos-seeks-100-billion-to-us
 https://www.bloomberg.com/news/articles/2026-03-19/crypto-com-to-lay-off-12-of-staff-in-ai-overhaul
 https://www.bloomberg.com/news/articles/2026-03-19/doordash-s-new-paid-tasks-turn-couriers-into-ai-and-robot-trainers
 https://www.bloomberg.com/news/articles/2026-03-19/jack-ma-backed-ant-s-profit-fell-91-on-ai-spending-fair-value
+https://www.bloomberg.com/news/articles/2026-03-19/kalshi-gets-1-billion-in-new-funding-at-22-billion-valuation
 https://www.bloomberg.com/news/articles/2026-03-19/meta-to-reduce-role-of-outside-content-moderators-in-favor-of-ai
+https://www.bloomberg.com/news/articles/2026-03-19/nvidia-s-jensen-huang-urges-ai-leaders-to-avoid-fearmongering
 https://www.bloomberg.com/news/articles/2026-03-19/quantum-firms-chac-dmyy-to-list-as-need-for-capital-outweighs-stocks-selloff
 https://www.bloomberg.com/news/articles/2026-03-19/samsung-to-spend-73-billion-on-chip-expansion-research-in-2026
 https://www.bloomberg.com/news/articles/2026-03-19/startup-oasis-security-raises-120-million-from-craft-sequoia
+https://www.bloomberg.com/news/articles/2026-03-19/three-charged-by-us-with-plot-to-illegally-send-ai-tech-to-china
 https://www.bloomberg.com/news/articles/2026-03-19/world-bank-targets-ai-resilient-sectors-to-boost-job-creation
 https://www.bloomberg.com/news/articles/2026-03-19/xiaomi-shares-jump-on-ai-model-buzz-upcoming-su7-model-facelift
 https://www.bloomberg.com/news/features/2026-03-19/new-york-city-office-leases-rebound-as-ai-companies-move-in
@@ -309,6 +319,7 @@ https://www.bloomberg.com/news/videos/2026-03-19/chinese-firms-benefit-from-cons
 https://www.bloomberg.com/news/videos/2026-03-19/electric-speed-boat-maker-arc-expands-to-defense-video
 https://www.bloomberg.com/news/videos/2026-03-19/hsbc-weighs-job-cuts-from-multiyear-ai-fueled-overhaul-video
 https://www.bloomberg.com/news/videos/2026-03-19/some-ai-firms-a-little-overvalued-khosla-s-choi-video
+https://www.bloomberg.com/news/videos/2026-03-20/investors-turn-to-ai-to-find-an-edge-in-iran-war-fallout-video
 https://www.cnet.com/culture/entertainment/ai-set-to-create-val-kilmers-likeness-for-film-one-year-after-his-death/
 https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/
 https://www.cnet.com/news-live/sxsw-2026-updates-news-tech-culture/
@@ -360,6 +371,7 @@ https://www.marktechpost.com/2026/03/18/meet-mamba-3-a-new-state-space-model-fro
 https://www.marktechpost.com/2026/03/18/nvidia-ai-open-sources-openshell-a-secure-runtime-environment-for-autonomous-ai-agents/
 https://www.marktechpost.com/2026/03/18/tsinghua-and-ant-group-researchers-unveil-a-five-layer-lifecycle-oriented-security-framework-to-mitigate-autonomous-llm-agent-vulnerabilities-in-openclaw/
 https://www.marktechpost.com/2026/03/19/a-coding-guide-to-implement-advanced-differential-equation-solvers-stochastic-simulations-and-neural-ordinary-differential-equations-using-diffrax-and-jax/
+https://www.marktechpost.com/2026/03/19/google-colab-now-has-an-open-source-mcp-model-context-protocol-server-use-colab-runtimes-with-gpus-from-any-local-ai-agent/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
 https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html
@@ -417,10 +429,12 @@ https://www.wired.com/story/irestore-deals-amazon-spring-sale-2026/
 https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/
 https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/
 https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/
+https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/
 https://www.zdnet.com/article/best-early-amazon-spring-sale-2026-robot-vacuum-deals/
 https://www.zdnet.com/article/caio-chief-ai-officer-alternative-director-of-ai-productivity/
 https://www.zdnet.com/article/chatgpt-voice-mode-tricks/
 https://www.zdnet.com/article/fitbit-medical-google-ai/
+https://www.zdnet.com/article/former-tesla-president-explains-where-ai-will-accelerate-job-growth/
 https://www.zdnet.com/article/gpt-5-4-mini-and-nano/
 https://www.zdnet.com/article/karakeep-cure-browser-tab-overload/
 https://www.zdnet.com/article/medical-advice-ai-healthcare-microsoft-openai/
