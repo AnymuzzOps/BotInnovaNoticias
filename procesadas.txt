@@ -113,6 +113,8 @@ https://roboticsandautomationnews.com/2026/03/19/onrobot-heads-to-reno-with-auto
 https://roboticsandautomationnews.com/2026/03/19/robotic-sorting-and-recycling-improving-purity-and-efficiency-in-waste-streams/99874/
 https://roboticsandautomationnews.com/2026/03/19/ss-innovations-ssi-mantra-surgical-robotic-system-approved-for-telesurgeries-in-indonesia-and-the-philippines/99933/
 https://roboticsandautomationnews.com/2026/03/19/using-copilot-to-predict-business-outcomes/99946/
+https://roboticsandautomationnews.com/2026/03/20/heavy-industry-robotics-company-kewazo-raises-35-million-with-backing-from-chevron-and-asahi-kasei/99961/
+https://roboticsandautomationnews.com/2026/03/20/nebius-teams-with-nvidia-to-build-cloud-for-robotics-and-physical-ai/99957/
 https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/
 https://singularityhub.com/2026/03/09/hackers-are-automating-cyberattacks-with-ai-defenders-are-using-it-to-fight-back/
 https://singularityhub.com/2026/03/19/tech-companies-are-blaming-massive-layoffs-on-ai-whats-really-going-on/
@@ -374,6 +376,7 @@ https://www.marktechpost.com/2026/03/18/nvidia-ai-open-sources-openshell-a-secur
 https://www.marktechpost.com/2026/03/18/tsinghua-and-ant-group-researchers-unveil-a-five-layer-lifecycle-oriented-security-framework-to-mitigate-autonomous-llm-agent-vulnerabilities-in-openclaw/
 https://www.marktechpost.com/2026/03/19/a-coding-guide-to-implement-advanced-differential-equation-solvers-stochastic-simulations-and-neural-ordinary-differential-equations-using-diffrax-and-jax/
 https://www.marktechpost.com/2026/03/19/google-colab-now-has-an-open-source-mcp-model-context-protocol-server-use-colab-runtimes-with-gpus-from-any-local-ai-agent/
+https://www.marktechpost.com/2026/03/19/llamaindex-releases-liteparse-a-cli-and-typescript-native-library-for-spatial-pdf-parsing-in-ai-agent-workflows/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
 https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html
