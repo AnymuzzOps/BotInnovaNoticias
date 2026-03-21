@@ -45,9 +45,12 @@ https://futurism.com/artificial-intelligence/washington-post-price-ai
 https://futurism.com/future-society/detroit-blockchain-realt-collapse
 https://futurism.com/future-society/meta-firing-percentage-staff-zuckerberg
 https://futurism.com/future-society/nvidia-ai-yassification-feature-giga-nostril
+https://futurism.com/health-medicine/mental-health-workers-ai-strike
 https://futurism.com/robots-and-machines/delivery-robot-philadelphia
+https://futurism.com/robots-and-machines/restaurant-re-deploys-robot-freakout
 https://futurism.com/robots-and-machines/robot-berserk-restaurant-tableware
 https://futurism.com/robots-and-machines/robot-worker-factory-digit
+https://futurism.com/robots-and-machines/staff-brain-data-center-spine-fluid
 https://futurism.com/robots-and-machines/video-humanoid-robot-playing-tennis
 https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026
 https://huggingface.co/blog/lerobot-release-v050
@@ -78,6 +81,7 @@ https://phys.org/news/2026-03-ai-scarce-regions.html
 https://phys.org/news/2026-03-ai-social-entrepreneurs-sources.html
 https://phys.org/news/2026-03-atca-probe-peculiar-pulsar-nebula.html
 https://phys.org/news/2026-03-entanglement-quantum-scheme.html
+https://phys.org/news/2026-03-expert-opinion-ai-automation-future.html
 https://phys.org/news/2026-03-future-quantum.html
 https://phys.org/news/2026-03-microwave-quantum-network-resilience-disturbances.html
 https://phys.org/news/2026-03-nasa-artemis-missions-moon.html
@@ -227,6 +231,7 @@ https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bl
 https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/
 https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/
 https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/
+https://techcrunch.com/2026/03/21/how-fusion-power-works-and-the-startups-pursuing-it/
 https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/
 https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/
 https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/
@@ -377,6 +382,7 @@ https://www.bloomberg.com/news/videos/2026-03-20/spacex-knocks-boeing-from-domin
 https://www.bloomberg.com/news/videos/2026-03-20/spacex-knocks-boeing-from-dominant-role-in-nasa-moon-mission
 https://www.bloomberg.com/news/videos/2026-03-20/super-micro-co-founder-charged-in-ai-smuggling-case-video
 https://www.cnet.com/culture/entertainment/ai-set-to-create-val-kilmers-likeness-for-film-one-year-after-his-death/
+https://www.cnet.com/home/kitchen-and-household/dyson-launched-first-ever-robot-mop-vacuum-i-saw-it/
 https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/
 https://www.cnet.com/news-live/sxsw-2026-updates-news-tech-culture/
 https://www.cnet.com/news/social-media/dancing-robot-california-hot-pot-restaurant/
@@ -471,7 +477,9 @@ https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-person
 https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records
 https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident
 https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework
+https://www.theverge.com/entertainment/895435/oeuf-review
 https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing
+https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview
 https://www.theverge.com/games/894610/capcom-pragmata-ai-preview-interview
 https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles
 https://www.theverge.com/games/895396/playstation-pssr-upscaling-cyberpunk-2077-silent-hill
