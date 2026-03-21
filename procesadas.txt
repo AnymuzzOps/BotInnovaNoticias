@@ -1,4 +1,5 @@
 https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/
+https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/
 https://arstechnica.com/ai/2026/03/kagi-translates-ai-answers-the-question-what-would-horny-margaret-thatcher-say/
 https://arstechnica.com/ai/2026/03/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community/
 https://arstechnica.com/ai/2026/03/openai-is-acquiring-open-source-python-tool-maker-astral/
@@ -16,6 +17,7 @@ https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-cal
 https://arstechnica.com/space/2026/03/flying-to-the-moon-for-the-first-time-in-54-years-is-risky-but-how-risky/
 https://arstechnica.com/space/2026/03/jeff-bezos-throws-his-hat-in-the-ring-for-an-orbital-data-center-megaconstellation-too/
 https://arstechnica.com/space/2026/03/nasa-is-blowing-stuff-up-to-study-the-explosive-potential-of-methalox-rockets/
+https://arstechnica.com/space/2026/03/nasa-issues-draft-request-for-moving-space-shuttle-discovery-or-orion-capsule/
 https://arstechnica.com/tech-policy/2026/03/cloudflare-appeals-piracy-shield-fine-hopes-to-kill-italys-site-blocking-law/
 https://arstechnica.com/tech-policy/2026/03/elon-musks-xai-sued-for-turning-three-girls-real-photos-into-ai-csam/
 https://content.knowledgehub.wiley.com/engineering-challenges-and-component-strategies-in-humanoid-robotics-from-prototype-to-production/
@@ -27,14 +29,19 @@ https://futurism.com/artificial-intelligence/ai-lawsuits-chaos-courts-lawyers
 https://futurism.com/artificial-intelligence/ai-military-civil-liberty
 https://futurism.com/artificial-intelligence/atlassian-ai-layoffs
 https://futurism.com/artificial-intelligence/ceo-ai-gen-z-unemployment
+https://futurism.com/artificial-intelligence/ceo-hire-anyone-vibe-code
 https://futurism.com/artificial-intelligence/educational-youtube-ai-slop-play-in-traffic
 https://futurism.com/artificial-intelligence/netflix-buys-ai-startup-ben-afleck
+https://futurism.com/artificial-intelligence/novel-pulled-author-accused-ai
 https://futurism.com/artificial-intelligence/nvidia-ceo-says-gamers-wrong-ai
 https://futurism.com/artificial-intelligence/nvidia-ridiculed-yassify-video-games
 https://futurism.com/artificial-intelligence/openai-cofounder-analysis-jobs-ai
 https://futurism.com/artificial-intelligence/reaction-buzzfeed-new-ai-apps
+https://futurism.com/artificial-intelligence/study-chats-delusional-users-ai
+https://futurism.com/artificial-intelligence/teens-ai-slander-videos-teachers
 https://futurism.com/artificial-intelligence/trump-ai-slop-model
 https://futurism.com/artificial-intelligence/washington-post-price-ai
+https://futurism.com/future-society/detroit-blockchain-realt-collapse
 https://futurism.com/future-society/meta-firing-percentage-staff-zuckerberg
 https://futurism.com/robots-and-machines/delivery-robot-philadelphia
 https://futurism.com/robots-and-machines/robot-berserk-restaurant-tableware
@@ -213,6 +220,7 @@ https://techcrunch.com/2026/03/19/uber-taps-rivian-to-build-robotaxis-in-deal-wo
 https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/
 https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/
 https://techcrunch.com/2026/03/20/jeff-bezos-blue-origin-enters-the-space-data-center-game/
+https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/
 https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/
 https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/
 https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/
@@ -357,6 +365,7 @@ https://www.bloomberg.com/news/videos/2026-03-19/chinese-firms-benefit-from-cons
 https://www.bloomberg.com/news/videos/2026-03-19/electric-speed-boat-maker-arc-expands-to-defense-video
 https://www.bloomberg.com/news/videos/2026-03-19/hsbc-weighs-job-cuts-from-multiyear-ai-fueled-overhaul-video
 https://www.bloomberg.com/news/videos/2026-03-19/some-ai-firms-a-little-overvalued-khosla-s-choi-video
+https://www.bloomberg.com/news/videos/2026-03-20/bloomberg-tech-3-20-2026-video
 https://www.bloomberg.com/news/videos/2026-03-20/bubble-tendencies-forming-in-ai-accel-partner-video
 https://www.bloomberg.com/news/videos/2026-03-20/can-robot-lawyers-replace-humans-at-the-supreme-court-video
 https://www.bloomberg.com/news/videos/2026-03-20/investors-turn-to-ai-to-find-an-edge-in-iran-war-fallout-video
@@ -383,6 +392,8 @@ https://www.cnet.com/tech/services-and-software/nvidia-gtc-2026-3-things-you-sho
 https://www.cnet.com/tech/services-and-software/nvidia-is-building-a-computer-for-data-centers-in-space/
 https://www.cnet.com/tech/services-and-software/nvidia-wants-to-make-it-easier-to-create-an-openclaw-ai-agent/
 https://www.cnet.com/tech/services-and-software/openai-is-planning-to-combine-its-ai-tools-in-a-desktop-superapp/
+https://www.cnet.com/tech/services-and-software/this-book-just-became-the-first-to-get-canceled-for-ai/
+https://www.cnet.com/tech/services-and-software/trump-national-ai-legislation-plan-march-2026-news/
 https://www.cnet.com/tech/tim-cook-retirement-good-morning-america/
 https://www.ex-ante.cl/balance-de-la-reforma-de-pensiones-mitos-y-realidades-por-christian-larrain/
 https://www.ex-ante.cl/cuales-son-los-principales-proyectos-de-inversion-que-el-gobierno-de-kast-buscara-agilizar/
@@ -420,6 +431,7 @@ https://www.marktechpost.com/2026/03/18/tsinghua-and-ant-group-researchers-unvei
 https://www.marktechpost.com/2026/03/19/a-coding-guide-to-implement-advanced-differential-equation-solvers-stochastic-simulations-and-neural-ordinary-differential-equations-using-diffrax-and-jax/
 https://www.marktechpost.com/2026/03/19/google-colab-now-has-an-open-source-mcp-model-context-protocol-server-use-colab-runtimes-with-gpus-from-any-local-ai-agent/
 https://www.marktechpost.com/2026/03/19/llamaindex-releases-liteparse-a-cli-and-typescript-native-library-for-spatial-pdf-parsing-in-ai-agent-workflows/
+https://www.marktechpost.com/2026/03/20/nvidia-releases-nemotron-cascade-2-an-open-30b-moe-with-3b-active-parameters-delivering-better-reasoning-and-strong-agentic-capabilities/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
 https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html
@@ -475,6 +487,7 @@ https://www.theverge.com/tech/896775/matic-robot-vacuum-apple-home-matter
 https://www.theverge.com/tech/898162/vidabay-classic-plus-nfc-e-ink-fridge-magnet
 https://www.theverge.com/transportation/897105/uber-rivian-robotaxi-investment-deal
 https://www.wired.com/story/a-new-study-details-how-cats-almost-always-land-on-their-feet/
+https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/
 https://www.wired.com/story/china-approves-first-brain-chips-for-sale-plan-to-dominate-industry/
 https://www.wired.com/story/china-is-going-all-in-on-openclaw/
 https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/
