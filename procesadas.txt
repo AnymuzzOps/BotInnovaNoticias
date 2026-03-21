@@ -22,6 +22,7 @@ https://arstechnica.com/tech-policy/2026/03/cloudflare-appeals-piracy-shield-fin
 https://arstechnica.com/tech-policy/2026/03/elon-musks-xai-sued-for-turning-three-girls-real-photos-into-ai-csam/
 https://content.knowledgehub.wiley.com/engineering-challenges-and-component-strategies-in-humanoid-robotics-from-prototype-to-production/
 https://events.bizzabo.com/823847
+https://futurism.com/artificial-intelligence/ai-chatbot-social-offloading
 https://futurism.com/artificial-intelligence/ai-coding-error-debt
 https://futurism.com/artificial-intelligence/ai-data-center-security-guards-robot-dogs
 https://futurism.com/artificial-intelligence/ai-grandmother-jail-mistake
@@ -52,6 +53,7 @@ https://futurism.com/robots-and-machines/robot-berserk-restaurant-tableware
 https://futurism.com/robots-and-machines/robot-worker-factory-digit
 https://futurism.com/robots-and-machines/staff-brain-data-center-spine-fluid
 https://futurism.com/robots-and-machines/video-humanoid-robot-playing-tennis
+https://futurism.com/science-energy/engineer-twin-towers-lasers
 https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026
 https://huggingface.co/blog/lerobot-release-v050
 https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval
@@ -82,8 +84,10 @@ https://phys.org/news/2026-03-ai-social-entrepreneurs-sources.html
 https://phys.org/news/2026-03-atca-probe-peculiar-pulsar-nebula.html
 https://phys.org/news/2026-03-entanglement-quantum-scheme.html
 https://phys.org/news/2026-03-expert-opinion-ai-automation-future.html
+https://phys.org/news/2026-03-eyes-food-packaging-seagulls-chips.html
 https://phys.org/news/2026-03-future-quantum.html
 https://phys.org/news/2026-03-microwave-quantum-network-resilience-disturbances.html
+https://phys.org/news/2026-03-musk-twitter-takeover-highlights-danger.html
 https://phys.org/news/2026-03-nasa-artemis-missions-moon.html
 https://phys.org/news/2026-03-nasa-moon-rocket-pad-eyeing.html
 https://phys.org/news/2026-03-physicists-electronic-agents-flat-band.html
@@ -232,6 +236,8 @@ https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech
 https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/
 https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/
 https://techcrunch.com/2026/03/21/how-fusion-power-works-and-the-startups-pursuing-it/
+https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/
+https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/
 https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/
 https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/
 https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/
