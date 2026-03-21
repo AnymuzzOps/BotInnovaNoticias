@@ -37,12 +37,14 @@ https://futurism.com/artificial-intelligence/nvidia-ceo-says-gamers-wrong-ai
 https://futurism.com/artificial-intelligence/nvidia-ridiculed-yassify-video-games
 https://futurism.com/artificial-intelligence/openai-cofounder-analysis-jobs-ai
 https://futurism.com/artificial-intelligence/reaction-buzzfeed-new-ai-apps
+https://futurism.com/artificial-intelligence/rogue-ai-agent-triggers-emergency-at-meta
 https://futurism.com/artificial-intelligence/study-chats-delusional-users-ai
 https://futurism.com/artificial-intelligence/teens-ai-slander-videos-teachers
 https://futurism.com/artificial-intelligence/trump-ai-slop-model
 https://futurism.com/artificial-intelligence/washington-post-price-ai
 https://futurism.com/future-society/detroit-blockchain-realt-collapse
 https://futurism.com/future-society/meta-firing-percentage-staff-zuckerberg
+https://futurism.com/future-society/nvidia-ai-yassification-feature-giga-nostril
 https://futurism.com/robots-and-machines/delivery-robot-philadelphia
 https://futurism.com/robots-and-machines/robot-berserk-restaurant-tableware
 https://futurism.com/robots-and-machines/robot-worker-factory-digit
@@ -80,6 +82,7 @@ https://phys.org/news/2026-03-future-quantum.html
 https://phys.org/news/2026-03-microwave-quantum-network-resilience-disturbances.html
 https://phys.org/news/2026-03-nasa-artemis-missions-moon.html
 https://phys.org/news/2026-03-nasa-moon-rocket-pad-eyeing.html
+https://phys.org/news/2026-03-physicists-electronic-agents-flat-band.html
 https://phys.org/news/2026-03-teachers-students-ai-good.html
 https://roboticsandautomationnews.com/2026/03/13/abb-robotics-survey-shows-ev-confidence-as-production-shifts-from-disruption-to-delivery/99662/
 https://roboticsandautomationnews.com/2026/03/13/highres-and-opentrons-showcase-industrys-first-ai-agent-to-agent-lab-automation-workflow/99637/
@@ -486,7 +489,9 @@ https://www.theverge.com/tech/895453/ai-deepfake-netanyahu-claims-conspiracy
 https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment
 https://www.theverge.com/tech/896775/matic-robot-vacuum-apple-home-matter
 https://www.theverge.com/tech/898162/vidabay-classic-plus-nfc-e-ink-fridge-magnet
+https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on
 https://www.theverge.com/transportation/897105/uber-rivian-robotaxi-investment-deal
+https://www.wired.com/review/aiper-scuba-v3-pool-robot/
 https://www.wired.com/story/a-new-study-details-how-cats-almost-always-land-on-their-feet/
 https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/
 https://www.wired.com/story/china-approves-first-brain-chips-for-sale-plan-to-dominate-industry/
@@ -494,6 +499,7 @@ https://www.wired.com/story/china-is-going-all-in-on-openclaw/
 https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/
 https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/
 https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/
+https://www.wired.com/story/i-tried-doordashs-tasks-app-and-saw-the-bleak-future-of-ai-gig-work/
 https://www.wired.com/story/irestore-deals-amazon-spring-sale-2026/
 https://www.wired.com/story/linkedin-invited-my-ai-cofounder-to-give-a-corporate-talk-then-banned-it/
 https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/
@@ -501,6 +507,7 @@ https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/
 https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/
 https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/
 https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/
+https://www.zdnet.com/article/4-tips-for-building-better-ai-agents-business-can-count-on/
 https://www.zdnet.com/article/best-early-amazon-spring-sale-2026-robot-vacuum-deals/
 https://www.zdnet.com/article/caio-chief-ai-officer-alternative-director-of-ai-productivity/
 https://www.zdnet.com/article/chatgpt-voice-mode-tricks/
