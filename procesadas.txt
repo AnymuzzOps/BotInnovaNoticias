@@ -33,6 +33,7 @@ https://futurism.com/artificial-intelligence/atlassian-ai-layoffs
 https://futurism.com/artificial-intelligence/ceo-ai-gen-z-unemployment
 https://futurism.com/artificial-intelligence/ceo-hire-anyone-vibe-code
 https://futurism.com/artificial-intelligence/educational-youtube-ai-slop-play-in-traffic
+https://futurism.com/artificial-intelligence/microsoft-copilot-ai-friday
 https://futurism.com/artificial-intelligence/netflix-buys-ai-startup-ben-afleck
 https://futurism.com/artificial-intelligence/novel-pulled-author-accused-ai
 https://futurism.com/artificial-intelligence/nvidia-ceo-says-gamers-wrong-ai
@@ -83,6 +84,7 @@ https://phys.org/news/2026-03-ai-higher-accuracy-current-methods.html
 https://phys.org/news/2026-03-ai-rebuilds-molecules-fragments.html
 https://phys.org/news/2026-03-ai-scarce-regions.html
 https://phys.org/news/2026-03-ai-social-entrepreneurs-sources.html
+https://phys.org/news/2026-03-analysis-million-interactions-employees-sophisticated.html
 https://phys.org/news/2026-03-atca-probe-peculiar-pulsar-nebula.html
 https://phys.org/news/2026-03-entanglement-quantum-scheme.html
 https://phys.org/news/2026-03-expert-opinion-ai-automation-future.html
@@ -150,6 +152,8 @@ https://roboticsandautomationnews.com/2026/03/20/kuka-expands-kr-cybertech-range
 https://roboticsandautomationnews.com/2026/03/20/nebius-teams-with-nvidia-to-build-cloud-for-robotics-and-physical-ai/99957/
 https://roboticsandautomationnews.com/2026/03/20/techman-robot-showcases-humanoid-system-with-motion-capture-training-at-gtc-2026/99999/
 https://roboticsandautomationnews.com/2026/03/20/the-next-era-of-manufacturing-revolutionizing-industries-with-automation-technology/99985/
+https://roboticsandautomationnews.com/2026/03/22/cheapest-smm-panel-for-instagram-top-10-platforms-2026/100009/
+https://roboticsandautomationnews.com/2026/03/22/dexterity-says-its-physical-ai-world-model-unlocks-full-potential-on-nvidia-hardware/100016/
 https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/
 https://singularityhub.com/2026/03/09/hackers-are-automating-cyberattacks-with-ai-defenders-are-using-it-to-fight-back/
 https://singularityhub.com/2026/03/19/tech-companies-are-blaming-massive-layoffs-on-ai-whats-really-going-on/
@@ -243,6 +247,10 @@ https://techcrunch.com/2026/03/21/how-fusion-power-works-and-the-startups-pursui
 https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/
 https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/
 https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/
+https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/
+https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/
+https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/
+https://techcrunch.com/2026/03/22/the-sec-drops-its-four-year-old-investigation-into-ev-startup-faraday-future/
 https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/
 https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/
 https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/
@@ -260,6 +268,7 @@ https://venturebeat.com/infrastructure/why-enterprises-are-replacing-generic-ai-
 https://venturebeat.com/orchestration/anthropic-gives-claude-shared-context-across-microsoft-excel-and-powerpoint
 https://venturebeat.com/orchestration/how-linkedin-replaced-five-feed-retrieval-systems-with-one-llm-model-at-1-3
 https://venturebeat.com/orchestration/nvidia-shrinks-llm-memory-20x-without-changing-model-weights
+https://venturebeat.com/orchestration/testing-autonomous-agents-or-how-i-learned-to-stop-worrying-and-embrace
 https://venturebeat.com/orchestration/y-combinator-backed-random-labs-launches-slate-v1-claiming-the-first-swarm
 https://venturebeat.com/security/meta-rogue-ai-agent-confused-deputy-iam-identity-governance-matrix
 https://venturebeat.com/security/nvidia-gtc-2026-agentic-ai-security-five-vendor-governance-framework
@@ -505,6 +514,7 @@ https://www.theverge.com/games/895396/playstation-pssr-upscaling-cyberpunk-2077-
 https://www.theverge.com/games/895753/nvidia-dlss-5-slop-face-fake-frames
 https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering
 https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference
+https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art
 https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics
 https://www.theverge.com/news/895963/microsoft-copilot-leadership-changes-consumer-commercial
 https://www.theverge.com/news/898283/future-sony-playstation-games-will-use-ai-to-imagine-new-frames
