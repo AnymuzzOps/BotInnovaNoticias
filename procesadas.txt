@@ -55,6 +55,7 @@ https://futurism.com/robots-and-machines/robot-worker-factory-digit
 https://futurism.com/robots-and-machines/staff-brain-data-center-spine-fluid
 https://futurism.com/robots-and-machines/video-humanoid-robot-playing-tennis
 https://futurism.com/science-energy/engineer-twin-towers-lasers
+https://futurism.com/space/spacex-one-million-orbital-data-centers-astronomy
 https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026
 https://huggingface.co/blog/lerobot-release-v050
 https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval
@@ -157,6 +158,7 @@ https://spectrum.ieee.org/ai-sycophancy
 https://spectrum.ieee.org/autonomous-smart-wheelchair
 https://spectrum.ieee.org/europe-cloud-sovereignty
 https://spectrum.ieee.org/fhe-intel
+https://spectrum.ieee.org/frictionless-ai-psychology
 https://spectrum.ieee.org/ieee-global-virtual-career-fairs
 https://spectrum.ieee.org/legged-modular-robot
 https://spectrum.ieee.org/level-4-autonomous-trucks
@@ -392,10 +394,12 @@ https://www.bloomberg.com/news/videos/2026-03-20/investors-turn-to-ai-to-find-an
 https://www.bloomberg.com/news/videos/2026-03-20/spacex-knocks-boeing-from-dominant-role-in-nasa-mission-video
 https://www.bloomberg.com/news/videos/2026-03-20/spacex-knocks-boeing-from-dominant-role-in-nasa-moon-mission
 https://www.bloomberg.com/news/videos/2026-03-20/super-micro-co-founder-charged-in-ai-smuggling-case-video
+https://www.bloomberg.com/news/videos/2026-03-22/ai-s-revolution-could-mirror-the-industrial-revolution-video
 https://www.cnet.com/culture/entertainment/ai-set-to-create-val-kilmers-likeness-for-film-one-year-after-his-death/
 https://www.cnet.com/home/kitchen-and-household/dyson-launched-first-ever-robot-mop-vacuum-i-saw-it/
 https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/
 https://www.cnet.com/news-live/sxsw-2026-updates-news-tech-culture/
+https://www.cnet.com/news/ai-cooking-robots-have-flopped-will-the-nosh-one-be-any-different-heres-my-take/
 https://www.cnet.com/news/social-media/dancing-robot-california-hot-pot-restaurant/
 https://www.cnet.com/tech/gaming/generative-ai-gaming-pushback/
 https://www.cnet.com/tech/gaming/nvidia-teases-dlss-5-gamers-arent-impressed/
@@ -491,6 +495,7 @@ https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-person
 https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records
 https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident
 https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework
+https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant
 https://www.theverge.com/entertainment/895435/oeuf-review
 https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing
 https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview
