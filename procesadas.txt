@@ -235,6 +235,7 @@ https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bl
 https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/
 https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/
 https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/
+https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/
 https://techcrunch.com/2026/03/21/how-fusion-power-works-and-the-startups-pursuing-it/
 https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/
 https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/
@@ -275,6 +276,7 @@ https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-
 https://venturebeat.com/technology/three-ways-ai-is-learning-to-understand-the-physical-world
 https://venturebeat.com/technology/xiaomi-stuns-with-new-mimo-v2-pro-llm-nearing-gpt-5-2-opus-4-6-performance
 https://venturebeat.com/technology/z-ai-debuts-faster-cheaper-glm-5-turbo-model-for-agents-and-claws-but-its
+https://www.bbc.com/news/articles/c070e283k8vo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c3ewe7v7gpgo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4g7k7zdd0zo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4gjyg0g78vo?at_medium=RSS&at_campaign=rss
