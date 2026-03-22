@@ -22,6 +22,7 @@ https://arstechnica.com/tech-policy/2026/03/cloudflare-appeals-piracy-shield-fin
 https://arstechnica.com/tech-policy/2026/03/elon-musks-xai-sued-for-turning-three-girls-real-photos-into-ai-csam/
 https://content.knowledgehub.wiley.com/engineering-challenges-and-component-strategies-in-humanoid-robotics-from-prototype-to-production/
 https://events.bizzabo.com/823847
+https://futurism.com/artificial-intelligence/ai-agent-job-could-be-replaced-by-ai
 https://futurism.com/artificial-intelligence/ai-chatbot-social-offloading
 https://futurism.com/artificial-intelligence/ai-coding-error-debt
 https://futurism.com/artificial-intelligence/ai-data-center-security-guards-robot-dogs
@@ -239,6 +240,7 @@ https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-
 https://techcrunch.com/2026/03/21/how-fusion-power-works-and-the-startups-pursuing-it/
 https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/
 https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/
+https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/
 https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/
 https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/
 https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/
@@ -395,6 +397,7 @@ https://www.cnet.com/home/kitchen-and-household/dyson-launched-first-ever-robot-
 https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/
 https://www.cnet.com/news-live/sxsw-2026-updates-news-tech-culture/
 https://www.cnet.com/news/social-media/dancing-robot-california-hot-pot-restaurant/
+https://www.cnet.com/tech/gaming/generative-ai-gaming-pushback/
 https://www.cnet.com/tech/gaming/nvidia-teases-dlss-5-gamers-arent-impressed/
 https://www.cnet.com/tech/mobile/amazon-plans-alexa-focused-transformer-phone/
 https://www.cnet.com/tech/mobile/ankers-upcoming-liberty-5-pro-max-buds-will-have-an-ai-voice-recorder-in-charging-case/
@@ -406,6 +409,7 @@ https://www.cnet.com/tech/services-and-software/fi-launches-ai-powered-dog-healt
 https://www.cnet.com/tech/services-and-software/grok-ai-deepfake-porn-teen-girls-lawsuit-march-2026/
 https://www.cnet.com/tech/services-and-software/i-asked-ai-to-help-me-choose-a-hobby-ranking-its-suggestions-from-beekeeping-to-astronomy/
 https://www.cnet.com/tech/services-and-software/i-tried-internxt-an-encrypted-secure-cloud-storage-built-for-the-post-quantum-era/
+https://www.cnet.com/tech/services-and-software/meeting-every-robot-at-nvidia-gtc-what-the-future-may-bring/
 https://www.cnet.com/tech/services-and-software/meta-ray-ban-smart-glasses-ai-privacy-policy/
 https://www.cnet.com/tech/services-and-software/nvidia-gtc-2026-3-things-you-should-know-about/
 https://www.cnet.com/tech/services-and-software/nvidia-is-building-a-computer-for-data-centers-in-space/
@@ -495,6 +499,7 @@ https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles
 https://www.theverge.com/games/895396/playstation-pssr-upscaling-cyberpunk-2077-silent-hill
 https://www.theverge.com/games/895753/nvidia-dlss-5-slop-face-fake-frames
 https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering
+https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference
 https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics
 https://www.theverge.com/news/895963/microsoft-copilot-leadership-changes-consumer-commercial
 https://www.theverge.com/news/898283/future-sony-playstation-games-will-use-ai-to-imagine-new-frames
@@ -520,6 +525,7 @@ https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-
 https://www.wired.com/story/i-tried-doordashs-tasks-app-and-saw-the-bleak-future-of-ai-gig-work/
 https://www.wired.com/story/irestore-deals-amazon-spring-sale-2026/
 https://www.wired.com/story/linkedin-invited-my-ai-cofounder-to-give-a-corporate-talk-then-banned-it/
+https://www.wired.com/story/mexico-city-xoli-chatbot-world-cup-tourists/
 https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/
 https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/
 https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/
