@@ -14,6 +14,7 @@ https://arstechnica.com/gaming/2026/03/slay-the-spire-2-is-a-bit-too-familiar-fo
 https://arstechnica.com/health/2026/03/woman-sneezes-out-maggots-after-fly-larvae-get-trapped-in-her-deviated-septum/
 https://arstechnica.com/information-technology/2026/03/cloud-service-providers-ask-eu-regulator-to-reinstate-vmware-partner-program/
 https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/
+https://arstechnica.com/space/2026/03/a-unique-nasa-satellite-is-falling-out-of-orbit-this-team-is-trying-to-rescue-it/
 https://arstechnica.com/space/2026/03/flying-to-the-moon-for-the-first-time-in-54-years-is-risky-but-how-risky/
 https://arstechnica.com/space/2026/03/jeff-bezos-throws-his-hat-in-the-ring-for-an-orbital-data-center-megaconstellation-too/
 https://arstechnica.com/space/2026/03/nasa-is-blowing-stuff-up-to-study-the-explosive-potential-of-methalox-rockets/
@@ -21,6 +22,7 @@ https://arstechnica.com/space/2026/03/nasa-issues-draft-request-for-moving-space
 https://arstechnica.com/tech-policy/2026/03/cloudflare-appeals-piracy-shield-fine-hopes-to-kill-italys-site-blocking-law/
 https://arstechnica.com/tech-policy/2026/03/elon-musks-xai-sued-for-turning-three-girls-real-photos-into-ai-csam/
 https://content.knowledgehub.wiley.com/engineering-challenges-and-component-strategies-in-humanoid-robotics-from-prototype-to-production/
+https://content.knowledgehub.wiley.com/heat-beneath-the-surface-thermal-metrology-for-advanced-semiconductor-materials-and-architectures/
 https://events.bizzabo.com/823847
 https://futurism.com/artificial-intelligence/ai-agent-job-could-be-replaced-by-ai
 https://futurism.com/artificial-intelligence/ai-chatbot-social-offloading
@@ -70,6 +72,7 @@ https://news.crunchbase.com/ma/data-small-midsized-venture-backed-startup-acquis
 https://news.crunchbase.com/ma/most-active-startup-acquirers-3-years-crm-openai-snowflake/
 https://news.crunchbase.com/public/pwc-bellin-qa-2026-ipo-timing-secondary-boom/
 https://news.crunchbase.com/real-estate-property-tech/ai-generated-hvac-quotes-rebar-seriesa/
+https://news.crunchbase.com/startups/missed-state-federal-tax-credits-garba-burkland/
 https://news.crunchbase.com/venture/biggest-funding-rounds-ai-robotics-ecommerce-quince/
 https://news.crunchbase.com/venture/biggest-funding-rounds-security-ai-cloaked-frore/
 https://news.crunchbase.com/venture/building-startup-reputation-trust-vcs-sabitova-cloee/
@@ -96,6 +99,7 @@ https://phys.org/news/2026-03-nasa-artemis-missions-moon.html
 https://phys.org/news/2026-03-nasa-moon-rocket-pad-eyeing.html
 https://phys.org/news/2026-03-physicists-electronic-agents-flat-band.html
 https://phys.org/news/2026-03-teachers-students-ai-good.html
+https://phys.org/news/2026-03-team-ethical-methodological-generative-artificial.html
 https://roboticsandautomationnews.com/2026/03/13/abb-robotics-survey-shows-ev-confidence-as-production-shifts-from-disruption-to-delivery/99662/
 https://roboticsandautomationnews.com/2026/03/13/highres-and-opentrons-showcase-industrys-first-ai-agent-to-agent-lab-automation-workflow/99637/
 https://roboticsandautomationnews.com/2026/03/13/infineon-and-bmw-partner-to-shape-the-future-of-software-defined-vehicles-with-neue-klasse-range/99655/
@@ -156,6 +160,7 @@ https://roboticsandautomationnews.com/2026/03/22/cheapest-smm-panel-for-instagra
 https://roboticsandautomationnews.com/2026/03/22/china-sets-national-standards-for-humanoid-robots-to-support-industry-scale-up/100022/
 https://roboticsandautomationnews.com/2026/03/22/dexterity-says-its-physical-ai-world-model-unlocks-full-potential-on-nvidia-hardware/100016/
 https://roboticsandautomationnews.com/2026/03/22/mcdonalds-tests-humanoid-robots-in-shanghai-pilot/100019/
+https://roboticsandautomationnews.com/2026/03/23/alstef-group-unveils-ai-powered-autonomous-industrial-vehicle-ahead-of-logimat/100041/
 https://roboticsandautomationnews.com/2026/03/23/amazon-acquires-delivery-robotics-startup-rivr-to-target-last-meter-logistics/100037/
 https://roboticsandautomationnews.com/2026/03/23/mind-robotics-raises-500-million-to-build-ai-powered-industrial-robots-for-real-world-deployment/100033/
 https://roboticsandautomationnews.com/2026/03/23/qcraft-raises-100-million-to-push-toward-level-4-autonomy-and-physical-ai-at-scale/100026/
@@ -380,12 +385,15 @@ https://www.bloomberg.com/news/articles/2026-03-21/palantir-ai-system-wins-key-p
 https://www.bloomberg.com/news/articles/2026-03-22/elon-musk-says-tesla-xai-spacex-terafab-to-start-in-austin
 https://www.bloomberg.com/news/articles/2026-03-23/ai-startup-upstage-looking-at-buying-10-000-amd-chips-in-korea
 https://www.bloomberg.com/news/articles/2026-03-23/balderton-backed-startup-dash0-bags-110-million-to-expand-in-us
+https://www.bloomberg.com/news/articles/2026-03-23/ex-goldman-banker-s-ai-chip-company-secures-softbank-funding
+https://www.bloomberg.com/news/articles/2026-03-23/fink-says-ai-threatens-to-leave-masses-behind-unless-they-invest
 https://www.bloomberg.com/news/articles/2026-03-23/south-korea-s-defense-startups-surge-as-global-conflicts-flare
 https://www.bloomberg.com/news/features/2026-03-19/new-york-city-office-leases-rebound-as-ai-companies-move-in
 https://www.bloomberg.com/news/newsletters/2026-03-16/zoox-test-with-uber-in-las-vegas-pushes-the-definition-of-robotaxi
 https://www.bloomberg.com/news/newsletters/2026-03-17/alibaba-ai-targets-early-detection-of-widespread-liver-disease
 https://www.bloomberg.com/news/newsletters/2026-03-19/silicon-valley-confronts-ai-s-big-pr-problem
 https://www.bloomberg.com/news/newsletters/2026-03-20/nvidia-nvda-ceo-jensen-huang-finds-it-harder-to-wow-his-audience-at-gtc-mmysf258
+https://www.bloomberg.com/news/newsletters/2026-03-23/microsoft-msft-ai-copilot-confronts-its-identity-crisis-in-re-org-mn32qmuk
 https://www.bloomberg.com/news/videos/2026-03-14/rattner-cooling-jobs-market-tariffs-and-ai-video
 https://www.bloomberg.com/news/videos/2026-03-16/bloomberg-tech-3-16-2026-video
 https://www.bloomberg.com/news/videos/2026-03-16/china-s-ai-boom-risks-job-losses-regulatory-concerns-video
@@ -507,6 +515,7 @@ https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for
 https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/
 https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/
 https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/
+https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/
 https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data
 https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk
 https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence
@@ -544,6 +553,7 @@ https://www.wired.com/story/a-new-study-details-how-cats-almost-always-land-on-t
 https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/
 https://www.wired.com/story/china-approves-first-brain-chips-for-sale-plan-to-dominate-industry/
 https://www.wired.com/story/china-is-going-all-in-on-openclaw/
+https://www.wired.com/story/europe-squeeze-power-energy-grid-ai-data-center/
 https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/
 https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/
 https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/
@@ -553,6 +563,7 @@ https://www.wired.com/story/linkedin-invited-my-ai-cofounder-to-give-a-corporate
 https://www.wired.com/story/mexico-city-xoli-chatbot-world-cup-tourists/
 https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/
 https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/
+https://www.wired.com/story/project-maven-katrina-manson-book-excerpt/
 https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/
 https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/
 https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/
@@ -564,6 +575,7 @@ https://www.zdnet.com/article/fitbit-medical-google-ai/
 https://www.zdnet.com/article/former-tesla-president-explains-where-ai-will-accelerate-job-growth/
 https://www.zdnet.com/article/gpt-5-4-mini-and-nano/
 https://www.zdnet.com/article/how-chainguard-is-fixing-trust-in-ai-built-software/
+https://www.zdnet.com/article/how-to-get-free-ai-headshots-with-gemini-nano-banana-2/
 https://www.zdnet.com/article/karakeep-cure-browser-tab-overload/
 https://www.zdnet.com/article/medical-advice-ai-healthcare-microsoft-openai/
 https://www.zdnet.com/article/nanoclaw-docker-sandbox/
