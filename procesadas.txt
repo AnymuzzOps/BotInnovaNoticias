@@ -156,6 +156,9 @@ https://roboticsandautomationnews.com/2026/03/22/cheapest-smm-panel-for-instagra
 https://roboticsandautomationnews.com/2026/03/22/china-sets-national-standards-for-humanoid-robots-to-support-industry-scale-up/100022/
 https://roboticsandautomationnews.com/2026/03/22/dexterity-says-its-physical-ai-world-model-unlocks-full-potential-on-nvidia-hardware/100016/
 https://roboticsandautomationnews.com/2026/03/22/mcdonalds-tests-humanoid-robots-in-shanghai-pilot/100019/
+https://roboticsandautomationnews.com/2026/03/23/amazon-acquires-delivery-robotics-startup-rivr-to-target-last-meter-logistics/100037/
+https://roboticsandautomationnews.com/2026/03/23/mind-robotics-raises-500-million-to-build-ai-powered-industrial-robots-for-real-world-deployment/100033/
+https://roboticsandautomationnews.com/2026/03/23/qcraft-raises-100-million-to-push-toward-level-4-autonomy-and-physical-ai-at-scale/100026/
 https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/
 https://singularityhub.com/2026/03/09/hackers-are-automating-cyberattacks-with-ai-defenders-are-using-it-to-fight-back/
 https://singularityhub.com/2026/03/19/tech-companies-are-blaming-massive-layoffs-on-ai-whats-really-going-on/
@@ -376,6 +379,7 @@ https://www.bloomberg.com/news/articles/2026-03-20/softbank-plans-giant-ohio-ai-
 https://www.bloomberg.com/news/articles/2026-03-21/palantir-ai-system-wins-key-pentagon-status-reuters-reports
 https://www.bloomberg.com/news/articles/2026-03-22/elon-musk-says-tesla-xai-spacex-terafab-to-start-in-austin
 https://www.bloomberg.com/news/articles/2026-03-23/ai-startup-upstage-looking-at-buying-10-000-amd-chips-in-korea
+https://www.bloomberg.com/news/articles/2026-03-23/balderton-backed-startup-dash0-bags-110-million-to-expand-in-us
 https://www.bloomberg.com/news/articles/2026-03-23/south-korea-s-defense-startups-surge-as-global-conflicts-flare
 https://www.bloomberg.com/news/features/2026-03-19/new-york-city-office-leases-rebound-as-ai-companies-move-in
 https://www.bloomberg.com/news/newsletters/2026-03-16/zoox-test-with-uber-in-las-vegas-pushes-the-definition-of-robotaxi
