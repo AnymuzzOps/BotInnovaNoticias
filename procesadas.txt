@@ -153,7 +153,9 @@ https://roboticsandautomationnews.com/2026/03/20/nebius-teams-with-nvidia-to-bui
 https://roboticsandautomationnews.com/2026/03/20/techman-robot-showcases-humanoid-system-with-motion-capture-training-at-gtc-2026/99999/
 https://roboticsandautomationnews.com/2026/03/20/the-next-era-of-manufacturing-revolutionizing-industries-with-automation-technology/99985/
 https://roboticsandautomationnews.com/2026/03/22/cheapest-smm-panel-for-instagram-top-10-platforms-2026/100009/
+https://roboticsandautomationnews.com/2026/03/22/china-sets-national-standards-for-humanoid-robots-to-support-industry-scale-up/100022/
 https://roboticsandautomationnews.com/2026/03/22/dexterity-says-its-physical-ai-world-model-unlocks-full-potential-on-nvidia-hardware/100016/
+https://roboticsandautomationnews.com/2026/03/22/mcdonalds-tests-humanoid-robots-in-shanghai-pilot/100019/
 https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/
 https://singularityhub.com/2026/03/09/hackers-are-automating-cyberattacks-with-ai-defenders-are-using-it-to-fight-back/
 https://singularityhub.com/2026/03/19/tech-companies-are-blaming-massive-layoffs-on-ai-whats-really-going-on/
@@ -469,6 +471,7 @@ https://www.marktechpost.com/2026/03/19/google-colab-now-has-an-open-source-mcp-
 https://www.marktechpost.com/2026/03/19/llamaindex-releases-liteparse-a-cli-and-typescript-native-library-for-spatial-pdf-parsing-in-ai-agent-workflows/
 https://www.marktechpost.com/2026/03/20/nvidia-releases-nemotron-cascade-2-an-open-30b-moe-with-3b-active-parameters-delivering-better-reasoning-and-strong-agentic-capabilities/
 https://www.marktechpost.com/2026/03/21/a-coding-implementation-to-build-an-uncertainty-aware-llm-system-with-confidence-estimation-self-evaluation-and-automatic-web-research/
+https://www.marktechpost.com/2026/03/22/meet-gitagent-the-docker-for-ai-agents-that-is-finally-solving-the-fragmentation-between-langchain-autogen-and-claude-code/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
 https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html
@@ -505,6 +508,7 @@ https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coa
 https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident
 https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework
 https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant
+https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest
 https://www.theverge.com/entertainment/895435/oeuf-review
 https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing
 https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview
