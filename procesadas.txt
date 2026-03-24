@@ -16,12 +16,14 @@ https://arstechnica.com/gaming/2026/03/slay-the-spire-2-is-a-bit-too-familiar-fo
 https://arstechnica.com/health/2026/03/woman-sneezes-out-maggots-after-fly-larvae-get-trapped-in-her-deviated-septum/
 https://arstechnica.com/information-technology/2026/03/cloud-service-providers-ask-eu-regulator-to-reinstate-vmware-partner-program/
 https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/
+https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/
 https://arstechnica.com/space/2026/03/a-mission-nasa-might-kill-is-still-returning-fascinating-science-from-jupiter/
 https://arstechnica.com/space/2026/03/a-unique-nasa-satellite-is-falling-out-of-orbit-this-team-is-trying-to-rescue-it/
 https://arstechnica.com/space/2026/03/flying-to-the-moon-for-the-first-time-in-54-years-is-risky-but-how-risky/
 https://arstechnica.com/space/2026/03/jeff-bezos-throws-his-hat-in-the-ring-for-an-orbital-data-center-megaconstellation-too/
 https://arstechnica.com/space/2026/03/nasa-is-blowing-stuff-up-to-study-the-explosive-potential-of-methalox-rockets/
 https://arstechnica.com/space/2026/03/nasa-issues-draft-request-for-moving-space-shuttle-discovery-or-orion-capsule/
+https://arstechnica.com/space/2026/03/orbital-data-centers-part-1-theres-no-way-this-is-economically-viable-right/
 https://arstechnica.com/tech-policy/2026/03/cloudflare-appeals-piracy-shield-fine-hopes-to-kill-italys-site-blocking-law/
 https://arstechnica.com/tech-policy/2026/03/elon-musks-xai-sued-for-turning-three-girls-real-photos-into-ai-csam/
 https://content.knowledgehub.wiley.com/engineering-challenges-and-component-strategies-in-humanoid-robotics-from-prototype-to-production/
@@ -181,7 +183,10 @@ https://roboticsandautomationnews.com/2026/03/23/league-of-legends-and-the-futur
 https://roboticsandautomationnews.com/2026/03/23/mind-robotics-raises-500-million-to-build-ai-powered-industrial-robots-for-real-world-deployment/100033/
 https://roboticsandautomationnews.com/2026/03/23/qcraft-raises-100-million-to-push-toward-level-4-autonomy-and-physical-ai-at-scale/100026/
 https://roboticsandautomationnews.com/2026/03/23/renault-reportedly-planning-to-deploy-350-humanoid-robots-in-manufacturing-push/100050/
+https://roboticsandautomationnews.com/2026/03/24/bezos-explores-100-billion-ai-driven-investment-in-us-manufacturing-reports-say/100064/
+https://roboticsandautomationnews.com/2026/03/24/didero-raises-30-million-series-a-to-bring-ai-agents-to-global-supply-chains/100069/
 https://roboticsandautomationnews.com/2026/03/24/fanuc-to-invest-90-million-in-us-robot-manufacturing-capacity-expansion/100053/
+https://roboticsandautomationnews.com/2026/03/24/how-automation-is-changing-residential-construction-and-outdoor-living-spaces/100072/
 https://roboticsandautomationnews.com/2026/03/24/saving-the-planet-from-humans-how-robots-are-transforming-environmental-monitoring-and-cleanup/100059/
 https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/
 https://singularityhub.com/2026/03/09/hackers-are-automating-cyberattacks-with-ai-defenders-are-using-it-to-fight-back/
@@ -289,6 +294,7 @@ https://techcrunch.com/2026/03/23/sam-altman-backed-fusion-startup-helion-in-tal
 https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/
 https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/
 https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/
+https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/
 https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/
 https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/
 https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/
@@ -429,6 +435,9 @@ https://www.bloomberg.com/news/articles/2026-03-23/silicon-valley-s-dc-summit-sh
 https://www.bloomberg.com/news/articles/2026-03-23/south-korea-s-defense-startups-surge-as-global-conflicts-flare
 https://www.bloomberg.com/news/articles/2026-03-23/spacex-holder-fidelity-sees-path-for-musk-s-data-in-orbit-vision
 https://www.bloomberg.com/news/articles/2026-03-24/alibaba-unveils-new-chip-design-to-meet-surging-demand-for-ai
+https://www.bloomberg.com/news/articles/2026-03-24/circle-makes-debut-africa-deal-with-nvidia-backed-cassava-unit
+https://www.bloomberg.com/news/articles/2026-03-24/form-energy-sells-batteries-to-crusoe-to-power-new-data-centers
+https://www.bloomberg.com/news/articles/2026-03-24/kleiner-perkins-raises-3-5-billion-to-invest-in-the-ai-boom
 https://www.bloomberg.com/news/articles/2026-03-24/russia-puts-first-internet-satellites-into-orbit-as-spacex-rival
 https://www.bloomberg.com/news/articles/2026-03-24/sk-hynix-to-buy-8-billion-of-top-end-asml-chipmaking-gear
 https://www.bloomberg.com/news/features/2026-03-19/new-york-city-office-leases-rebound-as-ai-companies-move-in
@@ -437,6 +446,7 @@ https://www.bloomberg.com/news/newsletters/2026-03-17/alibaba-ai-targets-early-d
 https://www.bloomberg.com/news/newsletters/2026-03-19/silicon-valley-confronts-ai-s-big-pr-problem
 https://www.bloomberg.com/news/newsletters/2026-03-20/nvidia-nvda-ceo-jensen-huang-finds-it-harder-to-wow-his-audience-at-gtc-mmysf258
 https://www.bloomberg.com/news/newsletters/2026-03-23/microsoft-msft-ai-copilot-confronts-its-identity-crisis-in-re-org-mn32qmuk
+https://www.bloomberg.com/news/newsletters/2026-03-24/americans-aren-t-afraid-of-using-china-s-ai-models
 https://www.bloomberg.com/news/videos/2026-03-14/rattner-cooling-jobs-market-tariffs-and-ai-video
 https://www.bloomberg.com/news/videos/2026-03-16/bloomberg-tech-3-16-2026-video
 https://www.bloomberg.com/news/videos/2026-03-16/china-s-ai-boom-risks-job-losses-regulatory-concerns-video
@@ -483,6 +493,7 @@ https://www.cnet.com/tech/services-and-software/ai-toys-for-toddlers-study/
 https://www.cnet.com/tech/services-and-software/doordash-new-tasks-app-pay-for-training-ai/
 https://www.cnet.com/tech/services-and-software/embo-olaf-droid-combines-disney-and-nvidia-robotics-and-ai/
 https://www.cnet.com/tech/services-and-software/fi-launches-ai-powered-dog-health-chatbot/
+https://www.cnet.com/tech/services-and-software/generative-ai-music-experiment-culture/
 https://www.cnet.com/tech/services-and-software/grok-ai-deepfake-porn-teen-girls-lawsuit-march-2026/
 https://www.cnet.com/tech/services-and-software/i-asked-ai-to-help-me-choose-a-hobby-ranking-its-suggestions-from-beekeeping-to-astronomy/
 https://www.cnet.com/tech/services-and-software/i-tried-internxt-an-encrypted-secure-cloud-storage-built-for-the-post-quantum-era/
