@@ -23,6 +23,7 @@ https://arstechnica.com/space/2026/03/flying-to-the-moon-for-the-first-time-in-5
 https://arstechnica.com/space/2026/03/jeff-bezos-throws-his-hat-in-the-ring-for-an-orbital-data-center-megaconstellation-too/
 https://arstechnica.com/space/2026/03/nasa-is-blowing-stuff-up-to-study-the-explosive-potential-of-methalox-rockets/
 https://arstechnica.com/space/2026/03/nasa-issues-draft-request-for-moving-space-shuttle-discovery-or-orion-capsule/
+https://arstechnica.com/space/2026/03/nasa-kills-lunar-space-station-to-focus-on-ambitious-moon-base/
 https://arstechnica.com/space/2026/03/orbital-data-centers-part-1-theres-no-way-this-is-economically-viable-right/
 https://arstechnica.com/tech-policy/2026/03/cloudflare-appeals-piracy-shield-fine-hopes-to-kill-italys-site-blocking-law/
 https://arstechnica.com/tech-policy/2026/03/elon-musks-xai-sued-for-turning-three-girls-real-photos-into-ai-csam/
@@ -190,6 +191,8 @@ https://roboticsandautomationnews.com/2026/03/24/bezos-explores-100-billion-ai-d
 https://roboticsandautomationnews.com/2026/03/24/didero-raises-30-million-series-a-to-bring-ai-agents-to-global-supply-chains/100069/
 https://roboticsandautomationnews.com/2026/03/24/fanuc-to-invest-90-million-in-us-robot-manufacturing-capacity-expansion/100053/
 https://roboticsandautomationnews.com/2026/03/24/how-automation-is-changing-residential-construction-and-outdoor-living-spaces/100072/
+https://roboticsandautomationnews.com/2026/03/24/how-automation-is-driving-demand-for-industrial-real-estate-in-california/100080/
+https://roboticsandautomationnews.com/2026/03/24/how-to-add-ai-voice-over-to-videos-in-multiple-languages/100096/
 https://roboticsandautomationnews.com/2026/03/24/saving-the-planet-from-humans-how-robots-are-transforming-environmental-monitoring-and-cleanup/100059/
 https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/
 https://singularityhub.com/2026/03/09/hackers-are-automating-cyberattacks-with-ai-defenders-are-using-it-to-fight-back/
@@ -300,9 +303,13 @@ https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/
 https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/
 https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/
 https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/
+https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/
+https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/
 https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/
 https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/
+https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/
 https://techcrunch.com/2026/03/24/snapchats-new-ai-clips-lens-format-turns-photos-into-five-second-videos/
+https://techcrunch.com/2026/03/24/talats-ai-meeting-notes-stay-on-your-machine-not-in-the-cloud/
 https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/
 https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/
 https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/
@@ -310,6 +317,7 @@ https://venturebeat.com/data/googles-gemini-embedding-2-arrives-with-native-mult
 https://venturebeat.com/data/nvidia-bluefield-4-stx-adds-a-context-memory-layer-to-storage-to-close-the
 https://venturebeat.com/data/scale-ai-launches-voice-showdown-the-first-real-world-benchmark-for-voice-ai
 https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free
+https://venturebeat.com/infrastructure/cloudflares-new-dynamic-workers-ditch-containers-to-run-ai-agent-code-100x
 https://venturebeat.com/infrastructure/liquid-cooled-ai-systems-expose-the-limits-of-traditional-storage
 https://venturebeat.com/infrastructure/mistral-ai-launches-forge-to-help-companies-build-proprietary-ai-models
 https://venturebeat.com/infrastructure/nanoclaw-and-docker-partner-to-make-sandboxes-the-safest-way-for-enterprises
@@ -330,6 +338,7 @@ https://venturebeat.com/security/meta-rogue-ai-agent-confused-deputy-iam-identit
 https://venturebeat.com/security/nvidia-gtc-2026-agentic-ai-security-five-vendor-governance-framework
 https://venturebeat.com/security/the-authorization-problem-that-could-break-enterprise-ai
 https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no
+https://venturebeat.com/technology/anthropics-claude-can-now-control-your-mac-escalating-the-fight-to-build-ai
 https://venturebeat.com/technology/calling-all-gen-ai-disruptors-of-the-enterprise-apply-now-to-present-at-transform-2026
 https://venturebeat.com/technology/cursors-composer-2-was-secretly-built-on-a-chinese-ai-model-and-it-exposes-a
 https://venturebeat.com/technology/cursors-new-coding-model-composer-2-is-here-it-beats-claude-opus-4-6-but
@@ -444,6 +453,7 @@ https://www.bloomberg.com/news/articles/2026-03-23/silicon-valley-s-dc-summit-sh
 https://www.bloomberg.com/news/articles/2026-03-23/south-korea-s-defense-startups-surge-as-global-conflicts-flare
 https://www.bloomberg.com/news/articles/2026-03-23/spacex-holder-fidelity-sees-path-for-musk-s-data-in-orbit-vision
 https://www.bloomberg.com/news/articles/2026-03-24/alibaba-unveils-new-chip-design-to-meet-surging-demand-for-ai
+https://www.bloomberg.com/news/articles/2026-03-24/arm-to-sell-its-own-chips-for-first-time-in-bid-for-ai-revenue
 https://www.bloomberg.com/news/articles/2026-03-24/circle-makes-debut-africa-deal-with-nvidia-backed-cassava-unit
 https://www.bloomberg.com/news/articles/2026-03-24/data-center-cooling-demand-will-outlast-ai-bubble-ecolab-says
 https://www.bloomberg.com/news/articles/2026-03-24/drones-spacecraft-and-energy-vc-overmatch-raises-250-million-for-defense-bets
@@ -563,6 +573,7 @@ https://www.marktechpost.com/2026/03/21/a-coding-implementation-to-build-an-unce
 https://www.marktechpost.com/2026/03/22/meet-gitagent-the-docker-for-ai-agents-that-is-finally-solving-the-fragmentation-between-langchain-autogen-and-claude-code/
 https://www.marktechpost.com/2026/03/23/how-to-design-a-production-ready-ai-agent-that-automates-google-colab-workflows-using-colab-mcp-mcp-tools-fastmcp-and-kernel-execution/
 https://www.marktechpost.com/2026/03/23/meta-ais-new-hyperagents-dont-just-solve-tasks-they-rewrite-the-rules-of-how-they-learn/
+https://www.marktechpost.com/2026/03/24/this-ai-paper-introduces-tinylora-a-13-parameter-fine-tuning-method-that-reaches-91-8-percent-gsm8k-on-qwen2-5-7b/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
 https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html
@@ -595,6 +606,7 @@ https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computi
 https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/
 https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/
 https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/
+https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/
 https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/
 https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data
 https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk
@@ -605,6 +617,7 @@ https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-f
 https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant
 https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest
 https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi
+https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features
 https://www.theverge.com/entertainment/895435/oeuf-review
 https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing
 https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview
@@ -629,6 +642,7 @@ https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-can
 https://www.theverge.com/tech/896775/matic-robot-vacuum-apple-home-matter
 https://www.theverge.com/tech/898162/vidabay-classic-plus-nfc-e-ink-fridge-magnet
 https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on
+https://www.theverge.com/tech/899799/apple-ios-26-4-ai-playlist-purchase-sharing-update
 https://www.theverge.com/transportation/897105/uber-rivian-robotaxi-investment-deal
 https://www.wired.com/review/aiper-scuba-v3-pool-robot/
 https://www.wired.com/story/a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/
@@ -636,6 +650,7 @@ https://www.wired.com/story/a-new-study-details-how-cats-almost-always-land-on-t
 https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/
 https://www.wired.com/story/china-approves-first-brain-chips-for-sale-plan-to-dominate-industry/
 https://www.wired.com/story/china-is-going-all-in-on-openclaw/
+https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/
 https://www.wired.com/story/europe-squeeze-power-energy-grid-ai-data-center/
 https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/
 https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/
