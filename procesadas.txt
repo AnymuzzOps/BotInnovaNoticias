@@ -91,6 +91,7 @@ https://news.crunchbase.com/venture/interesting-startup-deals-robots-ai-agent-in
 https://news.crunchbase.com/venture/robotics-semiconductor-led-unicorns-february-2026/
 https://news.crunchbase.com/venture/unicorn-legal-tech-ai-startup-legora-triples-valuation/
 https://news.crunchbase.com/venture/world-model-ai-lab-ami-raises-europes-largest-seed-round/
+https://phys.org/news/2026-03-ai-boost-productivity-maximizing-output.html
 https://phys.org/news/2026-03-ai-gene-tool-precise-safer.html
 https://phys.org/news/2026-03-ai-higher-accuracy-current-methods.html
 https://phys.org/news/2026-03-ai-rebuilds-molecules-fragments.html
@@ -106,6 +107,7 @@ https://phys.org/news/2026-03-future-quantum.html
 https://phys.org/news/2026-03-microwave-quantum-network-resilience-disturbances.html
 https://phys.org/news/2026-03-musk-twitter-takeover-highlights-danger.html
 https://phys.org/news/2026-03-nasa-artemis-missions-moon.html
+https://phys.org/news/2026-03-nasa-experimental-technology-tsunami.html
 https://phys.org/news/2026-03-nasa-moon-rocket-pad-eyeing.html
 https://phys.org/news/2026-03-physicists-electronic-agents-flat-band.html
 https://phys.org/news/2026-03-quantum-fundamental-limit.html
@@ -305,6 +307,7 @@ https://venturebeat.com/orchestration/nvidia-shrinks-llm-memory-20x-without-chan
 https://venturebeat.com/orchestration/nvidias-nemotron-cascade-2-wins-math-and-coding-gold-medals-with-3b-active
 https://venturebeat.com/orchestration/testing-autonomous-agents-or-how-i-learned-to-stop-worrying-and-embrace
 https://venturebeat.com/orchestration/the-three-disciplines-separating-ai-agent-demos-from-real-world-deployment
+https://venturebeat.com/orchestration/what-is-deerflow-and-what-should-enterprises-know-about-this-new-local-ai
 https://venturebeat.com/orchestration/y-combinator-backed-random-labs-launches-slate-v1-claiming-the-first-swarm
 https://venturebeat.com/security/meta-rogue-ai-agent-confused-deputy-iam-identity-governance-matrix
 https://venturebeat.com/security/nvidia-gtc-2026-agentic-ai-security-five-vendor-governance-framework
@@ -423,6 +426,7 @@ https://www.bloomberg.com/news/articles/2026-03-23/nvidia-backed-firmus-names-th
 https://www.bloomberg.com/news/articles/2026-03-23/silicon-valley-s-dc-summit-shadowed-by-ai-concerns-war-in-iran
 https://www.bloomberg.com/news/articles/2026-03-23/south-korea-s-defense-startups-surge-as-global-conflicts-flare
 https://www.bloomberg.com/news/articles/2026-03-23/spacex-holder-fidelity-sees-path-for-musk-s-data-in-orbit-vision
+https://www.bloomberg.com/news/articles/2026-03-24/alibaba-unveils-new-chip-design-to-meet-surging-demand-for-ai
 https://www.bloomberg.com/news/features/2026-03-19/new-york-city-office-leases-rebound-as-ai-companies-move-in
 https://www.bloomberg.com/news/newsletters/2026-03-16/zoox-test-with-uber-in-las-vegas-pushes-the-definition-of-robotaxi
 https://www.bloomberg.com/news/newsletters/2026-03-17/alibaba-ai-targets-early-detection-of-widespread-liver-disease
@@ -465,6 +469,7 @@ https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/
 https://www.cnet.com/news-live/sxsw-2026-updates-news-tech-culture/
 https://www.cnet.com/news/ai-cooking-robots-have-flopped-will-the-nosh-one-be-any-different-heres-my-take/
 https://www.cnet.com/news/social-media/dancing-robot-california-hot-pot-restaurant/
+https://www.cnet.com/tech/computing/elon-musk-25-billion-terafab-chip-building-project/
 https://www.cnet.com/tech/gaming/generative-ai-gaming-pushback/
 https://www.cnet.com/tech/gaming/nvidia-teases-dlss-5-gamers-arent-impressed/
 https://www.cnet.com/tech/mobile/amazon-plans-alexa-focused-transformer-phone/
@@ -485,6 +490,7 @@ https://www.cnet.com/tech/services-and-software/nvidia-wants-to-make-it-easier-t
 https://www.cnet.com/tech/services-and-software/openai-is-planning-to-combine-its-ai-tools-in-a-desktop-superapp/
 https://www.cnet.com/tech/services-and-software/this-book-just-became-the-first-to-get-canceled-for-ai/
 https://www.cnet.com/tech/services-and-software/trump-national-ai-legislation-plan-march-2026-news/
+https://www.cnet.com/tech/services-and-software/turo-chatgpt-launch-ai-powered-rental-car-search/
 https://www.cnet.com/tech/services-and-software/understanding-ai-copyright-fair-use-legal-explainer/
 https://www.cnet.com/tech/tim-cook-retirement-good-morning-america/
 https://www.ex-ante.cl/balance-de-la-reforma-de-pensiones-mitos-y-realidades-por-christian-larrain/
@@ -527,6 +533,7 @@ https://www.marktechpost.com/2026/03/20/nvidia-releases-nemotron-cascade-2-an-op
 https://www.marktechpost.com/2026/03/21/a-coding-implementation-to-build-an-uncertainty-aware-llm-system-with-confidence-estimation-self-evaluation-and-automatic-web-research/
 https://www.marktechpost.com/2026/03/22/meet-gitagent-the-docker-for-ai-agents-that-is-finally-solving-the-fragmentation-between-langchain-autogen-and-claude-code/
 https://www.marktechpost.com/2026/03/23/how-to-design-a-production-ready-ai-agent-that-automates-google-colab-workflows-using-colab-mcp-mcp-tools-fastmcp-and-kernel-execution/
+https://www.marktechpost.com/2026/03/23/meta-ais-new-hyperagents-dont-just-solve-tasks-they-rewrite-the-rules-of-how-they-learn/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
 https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html
