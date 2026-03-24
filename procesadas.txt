@@ -90,6 +90,7 @@ https://news.crunchbase.com/venture/building-startup-reputation-trust-vcs-sabito
 https://news.crunchbase.com/venture/founder-first-investing-ai-khosla-choi/
 https://news.crunchbase.com/venture/hype-outcomes-vcs-recalibrate-agentic-ai-kapre-snowflake/
 https://news.crunchbase.com/venture/interesting-startup-deals-robots-ai-agent-inboxes-defense-space-tech/
+https://news.crunchbase.com/venture/kleiner-perkins-raises-ai-focused-funds/
 https://news.crunchbase.com/venture/robotics-semiconductor-led-unicorns-february-2026/
 https://news.crunchbase.com/venture/unicorn-legal-tech-ai-startup-legora-triples-valuation/
 https://news.crunchbase.com/venture/world-model-ai-lab-ami-raises-europes-largest-seed-round/
@@ -106,6 +107,7 @@ https://phys.org/news/2026-03-entanglement-quantum-scheme.html
 https://phys.org/news/2026-03-expert-opinion-ai-automation-future.html
 https://phys.org/news/2026-03-eyes-food-packaging-seagulls-chips.html
 https://phys.org/news/2026-03-future-quantum.html
+https://phys.org/news/2026-03-magnetic-microbots-quantum-sensors-cells.html
 https://phys.org/news/2026-03-microwave-quantum-network-resilience-disturbances.html
 https://phys.org/news/2026-03-musk-twitter-takeover-highlights-danger.html
 https://phys.org/news/2026-03-nasa-artemis-missions-moon.html
@@ -183,6 +185,7 @@ https://roboticsandautomationnews.com/2026/03/23/league-of-legends-and-the-futur
 https://roboticsandautomationnews.com/2026/03/23/mind-robotics-raises-500-million-to-build-ai-powered-industrial-robots-for-real-world-deployment/100033/
 https://roboticsandautomationnews.com/2026/03/23/qcraft-raises-100-million-to-push-toward-level-4-autonomy-and-physical-ai-at-scale/100026/
 https://roboticsandautomationnews.com/2026/03/23/renault-reportedly-planning-to-deploy-350-humanoid-robots-in-manufacturing-push/100050/
+https://roboticsandautomationnews.com/2026/03/24/agile-robots-and-google-deepmind-partner-to-bring-intelligence-to-robotics/100076/
 https://roboticsandautomationnews.com/2026/03/24/bezos-explores-100-billion-ai-driven-investment-in-us-manufacturing-reports-say/100064/
 https://roboticsandautomationnews.com/2026/03/24/didero-raises-30-million-series-a-to-bring-ai-agents-to-global-supply-chains/100069/
 https://roboticsandautomationnews.com/2026/03/24/fanuc-to-invest-90-million-in-us-robot-manufacturing-capacity-expansion/100053/
@@ -191,9 +194,11 @@ https://roboticsandautomationnews.com/2026/03/24/saving-the-planet-from-humans-h
 https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/
 https://singularityhub.com/2026/03/09/hackers-are-automating-cyberattacks-with-ai-defenders-are-using-it-to-fight-back/
 https://singularityhub.com/2026/03/19/tech-companies-are-blaming-massive-layoffs-on-ai-whats-really-going-on/
+https://spectrum.ieee.org/5gw-data-center
 https://spectrum.ieee.org/ai-for-coding-intuition
 https://spectrum.ieee.org/ai-sycophancy
 https://spectrum.ieee.org/autonomous-smart-wheelchair
+https://spectrum.ieee.org/data-center-dc
 https://spectrum.ieee.org/europe-cloud-sovereignty
 https://spectrum.ieee.org/fhe-intel
 https://spectrum.ieee.org/frictionless-ai-psychology
@@ -295,6 +300,9 @@ https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/
 https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/
 https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/
 https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/
+https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/
+https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/
+https://techcrunch.com/2026/03/24/snapchats-new-ai-clips-lens-format-turns-photos-into-five-second-videos/
 https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/
 https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/
 https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/
@@ -302,6 +310,7 @@ https://venturebeat.com/data/googles-gemini-embedding-2-arrives-with-native-mult
 https://venturebeat.com/data/nvidia-bluefield-4-stx-adds-a-context-memory-layer-to-storage-to-close-the
 https://venturebeat.com/data/scale-ai-launches-voice-showdown-the-first-real-world-benchmark-for-voice-ai
 https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free
+https://venturebeat.com/infrastructure/liquid-cooled-ai-systems-expose-the-limits-of-traditional-storage
 https://venturebeat.com/infrastructure/mistral-ai-launches-forge-to-help-companies-build-proprietary-ai-models
 https://venturebeat.com/infrastructure/nanoclaw-and-docker-partner-to-make-sandboxes-the-safest-way-for-enterprises
 https://venturebeat.com/infrastructure/nvidia-introduces-vera-rubin-a-seven-chip-ai-platform-with-openai-anthropic
@@ -436,8 +445,12 @@ https://www.bloomberg.com/news/articles/2026-03-23/south-korea-s-defense-startup
 https://www.bloomberg.com/news/articles/2026-03-23/spacex-holder-fidelity-sees-path-for-musk-s-data-in-orbit-vision
 https://www.bloomberg.com/news/articles/2026-03-24/alibaba-unveils-new-chip-design-to-meet-surging-demand-for-ai
 https://www.bloomberg.com/news/articles/2026-03-24/circle-makes-debut-africa-deal-with-nvidia-backed-cassava-unit
+https://www.bloomberg.com/news/articles/2026-03-24/data-center-cooling-demand-will-outlast-ai-bubble-ecolab-says
+https://www.bloomberg.com/news/articles/2026-03-24/drones-spacecraft-and-energy-vc-overmatch-raises-250-million-for-defense-bets
 https://www.bloomberg.com/news/articles/2026-03-24/form-energy-sells-batteries-to-crusoe-to-power-new-data-centers
 https://www.bloomberg.com/news/articles/2026-03-24/kleiner-perkins-raises-3-5-billion-to-invest-in-the-ai-boom
+https://www.bloomberg.com/news/articles/2026-03-24/microsoft-to-rent-texas-data-center-dropped-by-oracle-openai
+https://www.bloomberg.com/news/articles/2026-03-24/norway-wealth-fund-ceo-rules-out-job-cuts-despite-ai-savings
 https://www.bloomberg.com/news/articles/2026-03-24/russia-puts-first-internet-satellites-into-orbit-as-spacex-rival
 https://www.bloomberg.com/news/articles/2026-03-24/sk-hynix-to-buy-8-billion-of-top-end-asml-chipmaking-gear
 https://www.bloomberg.com/news/features/2026-03-19/new-york-city-office-leases-rebound-as-ai-companies-move-in
@@ -483,6 +496,7 @@ https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/
 https://www.cnet.com/news-live/sxsw-2026-updates-news-tech-culture/
 https://www.cnet.com/news/ai-cooking-robots-have-flopped-will-the-nosh-one-be-any-different-heres-my-take/
 https://www.cnet.com/news/social-media/dancing-robot-california-hot-pot-restaurant/
+https://www.cnet.com/roadshow/news/zoox-expands-service-brings-robotaxi-to-two-new-cities/
 https://www.cnet.com/tech/computing/elon-musk-25-billion-terafab-chip-building-project/
 https://www.cnet.com/tech/gaming/generative-ai-gaming-pushback/
 https://www.cnet.com/tech/gaming/nvidia-teases-dlss-5-gamers-arent-impressed/
@@ -581,6 +595,7 @@ https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computi
 https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/
 https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/
 https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/
+https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/
 https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data
 https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk
 https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence
