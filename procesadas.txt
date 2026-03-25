@@ -33,6 +33,7 @@ https://content.knowledgehub.wiley.com/engineering-challenges-and-component-stra
 https://content.knowledgehub.wiley.com/heat-beneath-the-surface-thermal-metrology-for-advanced-semiconductor-materials-and-architectures/
 https://events.bizzabo.com/823847
 https://futurism.com/artificial-intelligence/ai-agent-job-could-be-replaced-by-ai
+https://futurism.com/artificial-intelligence/ai-ceo-grammarly-clone
 https://futurism.com/artificial-intelligence/ai-chatbot-social-offloading
 https://futurism.com/artificial-intelligence/ai-coding-error-debt
 https://futurism.com/artificial-intelligence/ai-data-center-security-guards-robot-dogs
@@ -45,14 +46,17 @@ https://futurism.com/artificial-intelligence/ceo-ai-gen-z-unemployment
 https://futurism.com/artificial-intelligence/ceo-hire-anyone-vibe-code
 https://futurism.com/artificial-intelligence/doctor-reels-son-becomes-plumber-ai
 https://futurism.com/artificial-intelligence/educational-youtube-ai-slop-play-in-traffic
+https://futurism.com/artificial-intelligence/elon-musk-terafab-finances
 https://futurism.com/artificial-intelligence/man-pleads-guilty-music-ai-bot-streams
 https://futurism.com/artificial-intelligence/microsoft-copilot-ai-friday
 https://futurism.com/artificial-intelligence/microsoft-screwed-up-windows-11-copilot
 https://futurism.com/artificial-intelligence/netflix-buys-ai-startup-ben-afleck
+https://futurism.com/artificial-intelligence/new-york-times-accused-ai-article
 https://futurism.com/artificial-intelligence/novel-pulled-author-accused-ai
 https://futurism.com/artificial-intelligence/nvidia-ceo-says-gamers-wrong-ai
 https://futurism.com/artificial-intelligence/nvidia-ridiculed-yassify-video-games
 https://futurism.com/artificial-intelligence/openai-cofounder-analysis-jobs-ai
+https://futurism.com/artificial-intelligence/openai-killing-sora-video-ai-slop
 https://futurism.com/artificial-intelligence/reaction-buzzfeed-new-ai-apps
 https://futurism.com/artificial-intelligence/rogue-ai-agent-triggers-emergency-at-meta
 https://futurism.com/artificial-intelligence/study-chats-delusional-users-ai
@@ -65,12 +69,16 @@ https://futurism.com/future-society/meta-firing-percentage-staff-zuckerberg
 https://futurism.com/future-society/nvidia-ai-yassification-feature-giga-nostril
 https://futurism.com/health-medicine/mental-health-workers-ai-strike
 https://futurism.com/robots-and-machines/delivery-robot-philadelphia
+https://futurism.com/robots-and-machines/delivery-robot-smashes-bus-station
+https://futurism.com/robots-and-machines/mcdonalds-isnt-deploying-humanoid-robots-workers
 https://futurism.com/robots-and-machines/restaurant-re-deploys-robot-freakout
 https://futurism.com/robots-and-machines/robot-berserk-restaurant-tableware
 https://futurism.com/robots-and-machines/robot-worker-factory-digit
 https://futurism.com/robots-and-machines/staff-brain-data-center-spine-fluid
 https://futurism.com/robots-and-machines/video-humanoid-robot-playing-tennis
 https://futurism.com/science-energy/engineer-twin-towers-lasers
+https://futurism.com/space/nasa-announces-moon-launches-base
+https://futurism.com/space/nasa-sending-nuclear-reactor-rocket-mars
 https://futurism.com/space/spacex-one-million-orbital-data-centers-astronomy
 https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026
 https://huggingface.co/blog/lerobot-release-v050
@@ -307,6 +315,7 @@ https://techcrunch.com/2026/03/23/sam-altman-backed-fusion-startup-helion-in-tal
 https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/
 https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/
 https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/
+https://techcrunch.com/2026/03/24/a-former-thiel-fellows-startup-just-launched-a-drone-it-says-can-replace-police-helicopters/
 https://techcrunch.com/2026/03/24/accel-prosus-pick-six-off-the-map-startups-for-inaugural-india-cohort-atoms/
 https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/
 https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/
@@ -384,6 +393,7 @@ https://www.bbc.com/news/articles/cn48n18pg1eo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cvg1gr5v333o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cx28v08jpe7o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cx2g8888q53o?at_medium=RSS&at_campaign=rss
+https://www.bloomberg.com/en/news/thp/2026-03-24/urgent-new-mexico-jury-finds-meta-violated-consumer-protection-law-at-trial-about-child-safety
 https://www.bloomberg.com/news/articles/2026-03-12/dishwashing-home-robot-maker-sunday-hits-1-15-billion-valuation
 https://www.bloomberg.com/news/articles/2026-03-13/elon-musk-s-ketamine-use-can-t-be-probed-in-openai-fraud-trial
 https://www.bloomberg.com/news/articles/2026-03-14/china-ai-startup-moonshot-snags-funds-at-18-billion-valuation
@@ -475,6 +485,10 @@ https://www.bloomberg.com/news/articles/2026-03-24/microsoft-to-rent-texas-data-
 https://www.bloomberg.com/news/articles/2026-03-24/norway-wealth-fund-ceo-rules-out-job-cuts-despite-ai-savings
 https://www.bloomberg.com/news/articles/2026-03-24/russia-puts-first-internet-satellites-into-orbit-as-spacex-rival
 https://www.bloomberg.com/news/articles/2026-03-24/sk-hynix-to-buy-8-billion-of-top-end-asml-chipmaking-gear
+https://www.bloomberg.com/news/articles/2026-03-24/sk-hynix-to-float-us-shares-this-year-to-feed-ai-memory-surge
+https://www.bloomberg.com/news/articles/2026-03-25/ai-demand-is-shielding-china-s-booming-trade-from-iran-war-shock
+https://www.bloomberg.com/news/articles/2026-03-25/meta-offers-top-execs-stock-options-for-first-time-since-ipo
+https://www.bloomberg.com/news/articles/2026-03-25/thai-ai-startup-amity-raises-100-million-in-push-toward-ipo
 https://www.bloomberg.com/news/features/2026-03-19/new-york-city-office-leases-rebound-as-ai-companies-move-in
 https://www.bloomberg.com/news/newsletters/2026-03-16/zoox-test-with-uber-in-las-vegas-pushes-the-definition-of-robotaxi
 https://www.bloomberg.com/news/newsletters/2026-03-17/alibaba-ai-targets-early-detection-of-widespread-liver-disease
@@ -519,6 +533,7 @@ https://www.cnet.com/news-live/sxsw-2026-updates-news-tech-culture/
 https://www.cnet.com/news/ai-cooking-robots-have-flopped-will-the-nosh-one-be-any-different-heres-my-take/
 https://www.cnet.com/news/social-media/dancing-robot-california-hot-pot-restaurant/
 https://www.cnet.com/roadshow/news/zoox-expands-service-brings-robotaxi-to-two-new-cities/
+https://www.cnet.com/science/space/nasas-ignition-program-skips-lunar-orbiter-goes-straight-for-moon-base/
 https://www.cnet.com/tech/computing/elon-musk-25-billion-terafab-chip-building-project/
 https://www.cnet.com/tech/gaming/generative-ai-gaming-pushback/
 https://www.cnet.com/tech/gaming/nvidia-teases-dlss-5-gamers-arent-impressed/
@@ -526,6 +541,8 @@ https://www.cnet.com/tech/mobile/amazon-plans-alexa-focused-transformer-phone/
 https://www.cnet.com/tech/mobile/ankers-upcoming-liberty-5-pro-max-buds-will-have-an-ai-voice-recorder-in-charging-case/
 https://www.cnet.com/tech/mobile/apple-airpods-max-2-headphones-are-available-march-25-powered-by-h2-chip/
 https://www.cnet.com/tech/services-and-software/ai-toys-for-toddlers-study/
+https://www.cnet.com/tech/services-and-software/anthropics-ai-piracy-settlement-is-getting-close-to-final-approval/
+https://www.cnet.com/tech/services-and-software/apple-may-give-siri-a-big-ai-overhaul-in-ios-27-report-says/
 https://www.cnet.com/tech/services-and-software/doordash-new-tasks-app-pay-for-training-ai/
 https://www.cnet.com/tech/services-and-software/embo-olaf-droid-combines-disney-and-nvidia-robotics-and-ai/
 https://www.cnet.com/tech/services-and-software/fi-launches-ai-powered-dog-health-chatbot/
@@ -539,6 +556,7 @@ https://www.cnet.com/tech/services-and-software/nvidia-gtc-2026-3-things-you-sho
 https://www.cnet.com/tech/services-and-software/nvidia-is-building-a-computer-for-data-centers-in-space/
 https://www.cnet.com/tech/services-and-software/nvidia-wants-to-make-it-easier-to-create-an-openclaw-ai-agent/
 https://www.cnet.com/tech/services-and-software/openai-is-planning-to-combine-its-ai-tools-in-a-desktop-superapp/
+https://www.cnet.com/tech/services-and-software/snapchat-ai-clips/
 https://www.cnet.com/tech/services-and-software/this-book-just-became-the-first-to-get-canceled-for-ai/
 https://www.cnet.com/tech/services-and-software/trump-national-ai-legislation-plan-march-2026-news/
 https://www.cnet.com/tech/services-and-software/turo-chatgpt-launch-ai-powered-rental-car-search/
@@ -593,6 +611,7 @@ https://www.nytimes.com/2026/03/16/technology/nvidia-gtc-ai-chips-huang.html
 https://www.nytimes.com/2026/03/17/technology/trapped-inside-a-self-driving-car-during-an-anti-robot-attack.html
 https://www.nytimes.com/2026/03/18/movies/val-kilmer-ai-movie.html
 https://www.nytimes.com/2026/03/18/technology/turing-award-winners-quantum-cryptography.html
+https://www.nytimes.com/2026/03/24/technology/arm-holdings-sell-chips.html
 https://www.sciencedaily.com/releases/2026/01/260129080418.htm
 https://www.sciencedaily.com/releases/2026/01/260131084555.htm
 https://www.sciencedaily.com/releases/2026/02/260201223737.htm
