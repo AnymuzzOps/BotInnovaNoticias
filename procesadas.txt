@@ -207,6 +207,7 @@ https://roboticsandautomationnews.com/2026/03/24/how-automation-is-driving-deman
 https://roboticsandautomationnews.com/2026/03/24/how-to-add-ai-voice-over-to-videos-in-multiple-languages/100096/
 https://roboticsandautomationnews.com/2026/03/24/saving-the-planet-from-humans-how-robots-are-transforming-environmental-monitoring-and-cleanup/100059/
 https://roboticsandautomationnews.com/2026/03/24/southern-glazers-expands-use-of-corvus-robotics-drone-inventory-system-across-its-distribution-network/100113/
+https://roboticsandautomationnews.com/2026/03/25/san-jose-airport-introduces-ai-powered-intbot-humanoid-to-assist-passengers/100117/
 https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/
 https://singularityhub.com/2026/03/09/hackers-are-automating-cyberattacks-with-ai-defenders-are-using-it-to-fight-back/
 https://singularityhub.com/2026/03/19/tech-companies-are-blaming-massive-layoffs-on-ai-whats-really-going-on/
@@ -487,9 +488,13 @@ https://www.bloomberg.com/news/articles/2026-03-24/norway-wealth-fund-ceo-rules-
 https://www.bloomberg.com/news/articles/2026-03-24/russia-puts-first-internet-satellites-into-orbit-as-spacex-rival
 https://www.bloomberg.com/news/articles/2026-03-24/sk-hynix-to-buy-8-billion-of-top-end-asml-chipmaking-gear
 https://www.bloomberg.com/news/articles/2026-03-24/sk-hynix-to-float-us-shares-this-year-to-feed-ai-memory-surge
+https://www.bloomberg.com/news/articles/2026-03-25/adani-eyes-partnerships-with-meta-google-amid-data-center-boom
 https://www.bloomberg.com/news/articles/2026-03-25/ai-demand-is-shielding-china-s-booming-trade-from-iran-war-shock
+https://www.bloomberg.com/news/articles/2026-03-25/ai-notetaker-granola-hits-1-5-billion-value-in-125-million-funding
 https://www.bloomberg.com/news/articles/2026-03-25/china-s-ai-stocks-gain-as-state-media-tout-rising-token-usage
+https://www.bloomberg.com/news/articles/2026-03-25/coreweave-shares-lag-rival-nebius-in-wild-year-since-ipo
 https://www.bloomberg.com/news/articles/2026-03-25/german-nuclear-fusion-startup-plans-lasers-for-defense-health
+https://www.bloomberg.com/news/articles/2026-03-25/kuaishou-tech-sales-climb-as-ai-monetization-gains-momentum
 https://www.bloomberg.com/news/articles/2026-03-25/meta-offers-top-execs-stock-options-for-first-time-since-ipo
 https://www.bloomberg.com/news/articles/2026-03-25/thai-ai-startup-amity-raises-100-million-in-push-toward-ipo
 https://www.bloomberg.com/news/features/2026-03-19/new-york-city-office-leases-rebound-as-ai-companies-move-in
@@ -499,6 +504,7 @@ https://www.bloomberg.com/news/newsletters/2026-03-19/silicon-valley-confronts-a
 https://www.bloomberg.com/news/newsletters/2026-03-20/nvidia-nvda-ceo-jensen-huang-finds-it-harder-to-wow-his-audience-at-gtc-mmysf258
 https://www.bloomberg.com/news/newsletters/2026-03-23/microsoft-msft-ai-copilot-confronts-its-identity-crisis-in-re-org-mn32qmuk
 https://www.bloomberg.com/news/newsletters/2026-03-24/americans-aren-t-afraid-of-using-china-s-ai-models
+https://www.bloomberg.com/news/newsletters/2026-03-25/ai-tools-are-upending-typical-software-contracts
 https://www.bloomberg.com/news/videos/2026-03-14/rattner-cooling-jobs-market-tariffs-and-ai-video
 https://www.bloomberg.com/news/videos/2026-03-16/bloomberg-tech-3-16-2026-video
 https://www.bloomberg.com/news/videos/2026-03-16/china-s-ai-boom-risks-job-losses-regulatory-concerns-video
@@ -543,6 +549,7 @@ https://www.cnet.com/tech/gaming/nvidia-teases-dlss-5-gamers-arent-impressed/
 https://www.cnet.com/tech/mobile/amazon-plans-alexa-focused-transformer-phone/
 https://www.cnet.com/tech/mobile/ankers-upcoming-liberty-5-pro-max-buds-will-have-an-ai-voice-recorder-in-charging-case/
 https://www.cnet.com/tech/mobile/apple-airpods-max-2-headphones-are-available-march-25-powered-by-h2-chip/
+https://www.cnet.com/tech/services-and-software/ai-art-games-creativity-chaos-sxsw-2026/
 https://www.cnet.com/tech/services-and-software/ai-toys-for-toddlers-study/
 https://www.cnet.com/tech/services-and-software/anthropics-ai-piracy-settlement-is-getting-close-to-final-approval/
 https://www.cnet.com/tech/services-and-software/apple-may-give-siri-a-big-ai-overhaul-in-ios-27-report-says/
@@ -608,6 +615,7 @@ https://www.marktechpost.com/2026/03/23/how-to-design-a-production-ready-ai-agen
 https://www.marktechpost.com/2026/03/23/meta-ais-new-hyperagents-dont-just-solve-tasks-they-rewrite-the-rules-of-how-they-learn/
 https://www.marktechpost.com/2026/03/24/this-ai-paper-introduces-tinylora-a-13-parameter-fine-tuning-method-that-reaches-91-8-percent-gsm8k-on-qwen2-5-7b/
 https://www.marktechpost.com/2026/03/25/google-introduces-turboquant-a-new-compression-algorithm-that-reduces-llm-key-value-cache-memory-by-6x-and-delivers-up-to-8x-speedup-all-with-zero-accuracy-loss/
+https://www.marktechpost.com/2026/03/25/nvidia-ai-introduces-pivotrl-a-new-ai-framework-achieving-high-agentic-accuracy-with-4x-fewer-rollout-turns-efficiently/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
 https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html
@@ -643,6 +651,7 @@ https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-
 https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/
 https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/
 https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/
+https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/
 https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data
 https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk
 https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence
