@@ -2,6 +2,7 @@ https://arstechnica.com/ai/2026/03/ai-is-beginning-to-change-the-business-of-law
 https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/
 https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/
 https://arstechnica.com/ai/2026/03/kagi-translates-ai-answers-the-question-what-would-horny-margaret-thatcher-say/
+https://arstechnica.com/ai/2026/03/mozilla-dev-introduces-cq-a-stack-overflow-for-agents/
 https://arstechnica.com/ai/2026/03/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community/
 https://arstechnica.com/ai/2026/03/openai-is-acquiring-open-source-python-tool-maker-astral/
 https://arstechnica.com/ai/2026/03/staff-complain-that-xai-is-flailing-because-of-constant-upheaval/
@@ -27,6 +28,7 @@ https://arstechnica.com/space/2026/03/nasa-kills-lunar-space-station-to-focus-on
 https://arstechnica.com/space/2026/03/orbital-data-centers-part-1-theres-no-way-this-is-economically-viable-right/
 https://arstechnica.com/tech-policy/2026/03/cloudflare-appeals-piracy-shield-fine-hopes-to-kill-italys-site-blocking-law/
 https://arstechnica.com/tech-policy/2026/03/elon-musks-xai-sued-for-turning-three-girls-real-photos-into-ai-csam/
+https://arstechnica.com/tech-policy/2026/03/trump-made-opposing-government-spying-cool-again-effs-departing-chief-says/
 https://content.knowledgehub.wiley.com/engineering-challenges-and-component-strategies-in-humanoid-robotics-from-prototype-to-production/
 https://content.knowledgehub.wiley.com/heat-beneath-the-surface-thermal-metrology-for-advanced-semiconductor-materials-and-architectures/
 https://events.bizzabo.com/823847
@@ -189,11 +191,14 @@ https://roboticsandautomationnews.com/2026/03/23/renault-reportedly-planning-to-
 https://roboticsandautomationnews.com/2026/03/24/agile-robots-and-google-deepmind-partner-to-bring-intelligence-to-robotics/100076/
 https://roboticsandautomationnews.com/2026/03/24/bezos-explores-100-billion-ai-driven-investment-in-us-manufacturing-reports-say/100064/
 https://roboticsandautomationnews.com/2026/03/24/didero-raises-30-million-series-a-to-bring-ai-agents-to-global-supply-chains/100069/
+https://roboticsandautomationnews.com/2026/03/24/exotec-rolls-out-skyfleet-program-to-scale-decathlon-warehouse-automation-across-europe/100106/
 https://roboticsandautomationnews.com/2026/03/24/fanuc-to-invest-90-million-in-us-robot-manufacturing-capacity-expansion/100053/
+https://roboticsandautomationnews.com/2026/03/24/geekplus-launches-roboshuttle-v5-to-enable-fully-autonomous-warehouse-picking/100102/
 https://roboticsandautomationnews.com/2026/03/24/how-automation-is-changing-residential-construction-and-outdoor-living-spaces/100072/
 https://roboticsandautomationnews.com/2026/03/24/how-automation-is-driving-demand-for-industrial-real-estate-in-california/100080/
 https://roboticsandautomationnews.com/2026/03/24/how-to-add-ai-voice-over-to-videos-in-multiple-languages/100096/
 https://roboticsandautomationnews.com/2026/03/24/saving-the-planet-from-humans-how-robots-are-transforming-environmental-monitoring-and-cleanup/100059/
+https://roboticsandautomationnews.com/2026/03/24/southern-glazers-expands-use-of-corvus-robotics-drone-inventory-system-across-its-distribution-network/100113/
 https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/
 https://singularityhub.com/2026/03/09/hackers-are-automating-cyberattacks-with-ai-defenders-are-using-it-to-fight-back/
 https://singularityhub.com/2026/03/19/tech-companies-are-blaming-massive-layoffs-on-ai-whats-really-going-on/
@@ -302,14 +307,20 @@ https://techcrunch.com/2026/03/23/sam-altman-backed-fusion-startup-helion-in-tal
 https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/
 https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/
 https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/
+https://techcrunch.com/2026/03/24/accel-prosus-pick-six-off-the-map-startups-for-inaugural-india-cohort-atoms/
 https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/
+https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/
 https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/
+https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/
 https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/
+https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/
 https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/
 https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/
 https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/
 https://techcrunch.com/2026/03/24/snapchats-new-ai-clips-lens-format-turns-photos-into-five-second-videos/
+https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/
 https://techcrunch.com/2026/03/24/talats-ai-meeting-notes-stay-on-your-machine-not-in-the-cloud/
+https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/
 https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/
 https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/
 https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/
@@ -351,6 +362,7 @@ https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-
 https://venturebeat.com/technology/nvidia-lets-its-claws-out-nemoclaw-brings-security-scale-to-the-agent
 https://venturebeat.com/technology/nvidias-new-open-weights-nemotron-3-super-combines-three-different
 https://venturebeat.com/technology/open-source-mamba-3-arrives-to-surpass-transformer-architecture-with-nearly
+https://venturebeat.com/technology/openai-is-shutting-down-sora-its-powerful-ai-video-app
 https://venturebeat.com/technology/rethinking-aeo-when-software-agents-navigate-the-web-on-behalf-of-users
 https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and
 https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are
@@ -618,6 +630,7 @@ https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-pla
 https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest
 https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi
 https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features
+https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta
 https://www.theverge.com/entertainment/895435/oeuf-review
 https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing
 https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview
@@ -634,6 +647,7 @@ https://www.theverge.com/news/898283/future-sony-playstation-games-will-use-ai-t
 https://www.theverge.com/podcast/897900/ai-trust-gap-killer-app-vergecast
 https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation
 https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran
+https://www.theverge.com/science/899891/nasa-moon-base-mars-nuclear-power-jared-isaacman
 https://www.theverge.com/tech/894803/digg-beta-shutdown-layoffs-ai
 https://www.theverge.com/tech/895301/nvidia-robotaxi-byd-geely-hyperion-lyft-halos
 https://www.theverge.com/tech/895369/olaf-disney-imagineering-frozen-robot-up-close
