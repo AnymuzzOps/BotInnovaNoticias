@@ -1,5 +1,6 @@
 https://arstechnica.com/ai/2026/03/ai-is-beginning-to-change-the-business-of-law/
 https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/
+https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/
 https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/
 https://arstechnica.com/ai/2026/03/kagi-translates-ai-answers-the-question-what-would-horny-margaret-thatcher-say/
 https://arstechnica.com/ai/2026/03/mozilla-dev-introduces-cq-a-stack-overflow-for-agents/
@@ -33,6 +34,7 @@ https://content.knowledgehub.wiley.com/engineering-challenges-and-component-stra
 https://content.knowledgehub.wiley.com/heat-beneath-the-surface-thermal-metrology-for-advanced-semiconductor-materials-and-architectures/
 https://events.bizzabo.com/823847
 https://futurism.com/artificial-intelligence/ai-agent-job-could-be-replaced-by-ai
+https://futurism.com/artificial-intelligence/ai-agent-lobster-stunt
 https://futurism.com/artificial-intelligence/ai-ceo-grammarly-clone
 https://futurism.com/artificial-intelligence/ai-chatbot-social-offloading
 https://futurism.com/artificial-intelligence/ai-coding-error-debt
@@ -61,6 +63,7 @@ https://futurism.com/artificial-intelligence/openai-killing-sora-video-ai-slop
 https://futurism.com/artificial-intelligence/reaction-buzzfeed-new-ai-apps
 https://futurism.com/artificial-intelligence/rogue-ai-agent-triggers-emergency-at-meta
 https://futurism.com/artificial-intelligence/study-chats-delusional-users-ai
+https://futurism.com/artificial-intelligence/surreal-footage-melania-trump-white-house-robot
 https://futurism.com/artificial-intelligence/teens-ai-slander-videos-teachers
 https://futurism.com/artificial-intelligence/trump-ai-slop-model
 https://futurism.com/artificial-intelligence/washington-post-price-ai
@@ -225,6 +228,8 @@ https://spectrum.ieee.org/data-center-dc
 https://spectrum.ieee.org/europe-cloud-sovereignty
 https://spectrum.ieee.org/fhe-intel
 https://spectrum.ieee.org/frictionless-ai-psychology
+https://spectrum.ieee.org/gm-scalable-driving-ai
+https://spectrum.ieee.org/honda-p2-robot-ieee-milestone
 https://spectrum.ieee.org/ieee-global-virtual-career-fairs
 https://spectrum.ieee.org/legged-modular-robot
 https://spectrum.ieee.org/level-4-autonomous-trucks
@@ -337,8 +342,11 @@ https://techcrunch.com/2026/03/24/snapchats-new-ai-clips-lens-format-turns-photo
 https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/
 https://techcrunch.com/2026/03/24/talats-ai-meeting-notes-stay-on-your-machine-not-in-the-cloud/
 https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/
+https://techcrunch.com/2026/03/25/apple-overhauls-its-app-developer-platform-with-100-new-metrics-more-tools/
 https://techcrunch.com/2026/03/25/arinna-4-million-seed-round-solar-energy-space-power-problem/
+https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/
 https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/
+https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/
 https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/
 https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/
 https://techcrunch.com/2026/03/25/waymo-relies-on-firefighters-and-police-to-bail-out-stuck-robotaxis/
@@ -348,9 +356,11 @@ https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-
 https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/
 https://venturebeat.com/data/googles-gemini-embedding-2-arrives-with-native-multimodal-support-to-cut
 https://venturebeat.com/data/nvidia-bluefield-4-stx-adds-a-context-memory-layer-to-storage-to-close-the
+https://venturebeat.com/data/oracle-converges-the-ai-data-stack-to-give-enterprise-agents-a-single
 https://venturebeat.com/data/scale-ai-launches-voice-showdown-the-first-real-world-benchmark-for-voice-ai
 https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free
 https://venturebeat.com/infrastructure/cloudflares-new-dynamic-workers-ditch-containers-to-run-ai-agent-code-100x
+https://venturebeat.com/infrastructure/googles-new-turboquant-algorithm-speeds-up-ai-memory-8x-cutting-costs-by-50
 https://venturebeat.com/infrastructure/liquid-cooled-ai-systems-expose-the-limits-of-traditional-storage
 https://venturebeat.com/infrastructure/mistral-ai-launches-forge-to-help-companies-build-proprietary-ai-models
 https://venturebeat.com/infrastructure/nanoclaw-and-docker-partner-to-make-sandboxes-the-safest-way-for-enterprises
@@ -361,6 +371,7 @@ https://venturebeat.com/infrastructure/the-team-behind-continuous-batching-says-
 https://venturebeat.com/infrastructure/why-enterprises-are-replacing-generic-ai-with-tools-that-know-their-users
 https://venturebeat.com/orchestration/anthropic-gives-claude-shared-context-across-microsoft-excel-and-powerpoint
 https://venturebeat.com/orchestration/how-linkedin-replaced-five-feed-retrieval-systems-with-one-llm-model-at-1-3
+https://venturebeat.com/orchestration/how-xmemory-cuts-token-costs-and-context-bloat-in-ai-agents
 https://venturebeat.com/orchestration/nvidia-shrinks-llm-memory-20x-without-changing-model-weights
 https://venturebeat.com/orchestration/nvidias-nemotron-cascade-2-wins-math-and-coding-gold-medals-with-3b-active
 https://venturebeat.com/orchestration/testing-autonomous-agents-or-how-i-learned-to-stop-worrying-and-embrace
@@ -502,6 +513,7 @@ https://www.bloomberg.com/news/articles/2026-03-24/sk-hynix-to-buy-8-billion-of-
 https://www.bloomberg.com/news/articles/2026-03-24/sk-hynix-to-float-us-shares-this-year-to-feed-ai-memory-surge
 https://www.bloomberg.com/news/articles/2026-03-25/adani-eyes-partnerships-with-meta-google-amid-data-center-boom
 https://www.bloomberg.com/news/articles/2026-03-25/ai-demand-is-shielding-china-s-booming-trade-from-iran-war-shock
+https://www.bloomberg.com/news/articles/2026-03-25/ai-doomer-s-new-warning-market-is-wrong-to-ditch-rate-cut-bets
 https://www.bloomberg.com/news/articles/2026-03-25/ai-notetaker-granola-hits-1-5-billion-value-in-125-million-funding
 https://www.bloomberg.com/news/articles/2026-03-25/china-s-ai-stocks-gain-as-state-media-tout-rising-token-usage
 https://www.bloomberg.com/news/articles/2026-03-25/coreweave-shares-lag-rival-nebius-in-wild-year-since-ipo
@@ -550,6 +562,8 @@ https://www.bloomberg.com/news/videos/2026-03-23/bloomberg-tech-3-23-2026-video
 https://www.bloomberg.com/news/videos/2026-03-23/musk-says-tesla-spacex-chip-project-to-start-in-texas-video
 https://www.bloomberg.com/news/videos/2026-03-23/nextera-ceo-ketchum-on-energy-demand-ai-power-needs-video
 https://www.bloomberg.com/news/videos/2026-03-23/spacex-investor-fidelity-likes-musk-s-data-in-space-plan-video
+https://www.bloomberg.com/news/videos/2026-03-25/bloomberg-tech-3-25-2026-video
+https://www.bloomberg.com/news/videos/2026-03-25/kleiner-perkins-raises-3-5-billion-to-back-ai-boom-video
 https://www.cnet.com/culture/entertainment/ai-set-to-create-val-kilmers-likeness-for-film-one-year-after-his-death/
 https://www.cnet.com/home/kitchen-and-household/dyson-launched-first-ever-robot-mop-vacuum-i-saw-it/
 https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/
@@ -557,6 +571,7 @@ https://www.cnet.com/news-live/sxsw-2026-updates-news-tech-culture/
 https://www.cnet.com/news/ai-cooking-robots-have-flopped-will-the-nosh-one-be-any-different-heres-my-take/
 https://www.cnet.com/news/social-media/dancing-robot-california-hot-pot-restaurant/
 https://www.cnet.com/roadshow/news/zoox-expands-service-brings-robotaxi-to-two-new-cities/
+https://www.cnet.com/science/space/mars-spaceship-sr-1-freedom-nasa/
 https://www.cnet.com/science/space/nasas-ignition-program-skips-lunar-orbiter-goes-straight-for-moon-base/
 https://www.cnet.com/tech/computing/elon-musk-25-billion-terafab-chip-building-project/
 https://www.cnet.com/tech/gaming/generative-ai-gaming-pushback/
@@ -700,6 +715,7 @@ https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shish
 https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran
 https://www.theverge.com/policy/900341/senator-schiff-anthropic-autonomous-weapons-mass-surveillance
 https://www.theverge.com/science/899891/nasa-moon-base-mars-nuclear-power-jared-isaacman
+https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse
 https://www.theverge.com/tech/894803/digg-beta-shutdown-layoffs-ai
 https://www.theverge.com/tech/895301/nvidia-robotaxi-byd-geely-hyperion-lyft-halos
 https://www.theverge.com/tech/895369/olaf-disney-imagineering-frozen-robot-up-close
@@ -732,6 +748,7 @@ https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/
 https://www.wired.com/story/project-maven-katrina-manson-book-excerpt/
 https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/
 https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/
+https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/
 https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/
 https://www.zdnet.com/article/4-tips-for-building-better-ai-agents-business-can-count-on/
 https://www.zdnet.com/article/6-reasons-you-should-be-more-tight-lipped-with-your-chatbot/
@@ -745,6 +762,7 @@ https://www.zdnet.com/article/gpt-5-4-mini-and-nano/
 https://www.zdnet.com/article/how-chainguard-is-fixing-trust-in-ai-built-software/
 https://www.zdnet.com/article/how-to-get-free-ai-headshots-with-gemini-nano-banana-2/
 https://www.zdnet.com/article/how-to-use-ai-on-a-budget-professonals/
+https://www.zdnet.com/article/husqvarna-automower-430x-review/
 https://www.zdnet.com/article/karakeep-cure-browser-tab-overload/
 https://www.zdnet.com/article/medical-advice-ai-healthcare-microsoft-openai/
 https://www.zdnet.com/article/nanoclaw-docker-sandbox/
@@ -754,3 +772,4 @@ https://www.zdnet.com/article/nvidia-wants-to-own-your-ai-data-center-end-to-end
 https://www.zdnet.com/article/security-leaders-not-ready-for-ai-attacks-4-actions-to-take/
 https://www.zdnet.com/article/snowflake-it-executive-survey-ai-job-loss-and-gains/
 https://www.zdnet.com/article/state-ai-safety-laws-california-new-york/
+https://www.zdnet.com/article/what-is-antivirus/
