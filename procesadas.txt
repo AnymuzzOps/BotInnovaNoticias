@@ -476,6 +476,7 @@ https://www.bloomberg.com/news/articles/2026-03-23/south-korea-s-defense-startup
 https://www.bloomberg.com/news/articles/2026-03-23/spacex-holder-fidelity-sees-path-for-musk-s-data-in-orbit-vision
 https://www.bloomberg.com/news/articles/2026-03-24/alibaba-unveils-new-chip-design-to-meet-surging-demand-for-ai
 https://www.bloomberg.com/news/articles/2026-03-24/arm-to-sell-its-own-chips-for-first-time-in-bid-for-ai-revenue
+https://www.bloomberg.com/news/articles/2026-03-24/billionaire-qatari-sheikh-amazon-back-robotics-startup-neura
 https://www.bloomberg.com/news/articles/2026-03-24/circle-makes-debut-africa-deal-with-nvidia-backed-cassava-unit
 https://www.bloomberg.com/news/articles/2026-03-24/data-center-cooling-demand-will-outlast-ai-bubble-ecolab-says
 https://www.bloomberg.com/news/articles/2026-03-24/drones-spacecraft-and-energy-vc-overmatch-raises-250-million-for-defense-bets
@@ -487,6 +488,8 @@ https://www.bloomberg.com/news/articles/2026-03-24/russia-puts-first-internet-sa
 https://www.bloomberg.com/news/articles/2026-03-24/sk-hynix-to-buy-8-billion-of-top-end-asml-chipmaking-gear
 https://www.bloomberg.com/news/articles/2026-03-24/sk-hynix-to-float-us-shares-this-year-to-feed-ai-memory-surge
 https://www.bloomberg.com/news/articles/2026-03-25/ai-demand-is-shielding-china-s-booming-trade-from-iran-war-shock
+https://www.bloomberg.com/news/articles/2026-03-25/china-s-ai-stocks-gain-as-state-media-tout-rising-token-usage
+https://www.bloomberg.com/news/articles/2026-03-25/german-nuclear-fusion-startup-plans-lasers-for-defense-health
 https://www.bloomberg.com/news/articles/2026-03-25/meta-offers-top-execs-stock-options-for-first-time-since-ipo
 https://www.bloomberg.com/news/articles/2026-03-25/thai-ai-startup-amity-raises-100-million-in-push-toward-ipo
 https://www.bloomberg.com/news/features/2026-03-19/new-york-city-office-leases-rebound-as-ai-companies-move-in
@@ -604,6 +607,7 @@ https://www.marktechpost.com/2026/03/22/meet-gitagent-the-docker-for-ai-agents-t
 https://www.marktechpost.com/2026/03/23/how-to-design-a-production-ready-ai-agent-that-automates-google-colab-workflows-using-colab-mcp-mcp-tools-fastmcp-and-kernel-execution/
 https://www.marktechpost.com/2026/03/23/meta-ais-new-hyperagents-dont-just-solve-tasks-they-rewrite-the-rules-of-how-they-learn/
 https://www.marktechpost.com/2026/03/24/this-ai-paper-introduces-tinylora-a-13-parameter-fine-tuning-method-that-reaches-91-8-percent-gsm8k-on-qwen2-5-7b/
+https://www.marktechpost.com/2026/03/25/google-introduces-turboquant-a-new-compression-algorithm-that-reduces-llm-key-value-cache-memory-by-6x-and-delivers-up-to-8x-speedup-all-with-zero-accuracy-loss/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
 https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html
