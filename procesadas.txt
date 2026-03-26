@@ -219,6 +219,8 @@ https://roboticsandautomationnews.com/2026/03/24/saving-the-planet-from-humans-h
 https://roboticsandautomationnews.com/2026/03/24/southern-glazers-expands-use-of-corvus-robotics-drone-inventory-system-across-its-distribution-network/100113/
 https://roboticsandautomationnews.com/2026/03/25/automation-in-legal-operations-a-hybrid-approach-to-modern-practice/100127/
 https://roboticsandautomationnews.com/2026/03/25/san-jose-airport-introduces-ai-powered-intbot-humanoid-to-assist-passengers/100117/
+https://roboticsandautomationnews.com/2026/03/26/how-explosion-proof-visual-monitoring-is-transforming-safety-in-hazardous-industrial-automation/100135/
+https://roboticsandautomationnews.com/2026/03/26/melania-trump-presents-humanoid-robot-at-white-house-highlights-role-of-ai-in-education-and-careers/100142/
 https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/
 https://singularityhub.com/2026/03/09/hackers-are-automating-cyberattacks-with-ai-defenders-are-using-it-to-fight-back/
 https://singularityhub.com/2026/03/19/tech-companies-are-blaming-massive-layoffs-on-ai-whats-really-going-on/
@@ -358,6 +360,7 @@ https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-in
 https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/
 https://techcrunch.com/2026/03/25/waymo-relies-on-firefighters-and-police-to-bail-out-stuck-robotaxis/
 https://techcrunch.com/2026/03/25/with-sift-stack-two-ex-spacex-engineers-are-bringing-the-software-that-helped-launch-rockets-to-the-factory-floor/
+https://techcrunch.com/2026/03/26/a-little-known-croatian-startup-is-coming-for-the-robotaxi-market-with-help-from-uber/
 https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/
 https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/
 https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/
@@ -533,6 +536,8 @@ https://www.bloomberg.com/news/articles/2026-03-25/private-credit-pitched-by-sof
 https://www.bloomberg.com/news/articles/2026-03-25/thai-ai-startup-amity-raises-100-million-in-push-toward-ipo
 https://www.bloomberg.com/news/articles/2026-03-26/cxmt-potentially-challenges-sk-hynix-samsung-micron-in-hbm-supply-for-ai
 https://www.bloomberg.com/news/articles/2026-03-26/memory-stock-boom-seen-resilient-to-threat-from-new-google-tech
+https://www.bloomberg.com/news/articles/2026-03-26/moonshot-is-said-to-consider-hong-kong-ipo-as-ai-stocks-flourish
+https://www.bloomberg.com/news/articles/2026-03-26/pony-ai-uber-to-launch-robotaxis-in-croatia-in-europe-push
 https://www.bloomberg.com/news/features/2026-03-19/new-york-city-office-leases-rebound-as-ai-companies-move-in
 https://www.bloomberg.com/news/newsletters/2026-03-16/zoox-test-with-uber-in-las-vegas-pushes-the-definition-of-robotaxi
 https://www.bloomberg.com/news/newsletters/2026-03-17/alibaba-ai-targets-early-detection-of-widespread-liver-disease
@@ -659,6 +664,7 @@ https://www.marktechpost.com/2026/03/24/this-ai-paper-introduces-tinylora-a-13-p
 https://www.marktechpost.com/2026/03/25/google-introduces-turboquant-a-new-compression-algorithm-that-reduces-llm-key-value-cache-memory-by-6x-and-delivers-up-to-8x-speedup-all-with-zero-accuracy-loss/
 https://www.marktechpost.com/2026/03/25/how-to-build-a-vision-guided-web-ai-agent-with-molmoweb-4b-using-multimodal-reasoning-and-action-prediction/
 https://www.marktechpost.com/2026/03/25/nvidia-ai-introduces-pivotrl-a-new-ai-framework-achieving-high-agentic-accuracy-with-4x-fewer-rollout-turns-efficiently/
+https://www.marktechpost.com/2026/03/26/tencent-ai-open-sources-covo-audio-a-7b-speech-language-model-and-inference-pipeline-for-real-time-audio-conversations-and-reasoning/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
 https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html
@@ -743,6 +749,7 @@ https://www.theverge.com/tech/899799/apple-ios-26-4-ai-playlist-purchase-sharing
 https://www.theverge.com/tech/900428/seiko-rotocall-digital-watch-retro-nasa-astronauts
 https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees
 https://www.theverge.com/transportation/897105/uber-rivian-robotaxi-investment-deal
+https://www.theverge.com/transportation/900656/uber-pony-ai-verne-robotaxi-europe
 https://www.wired.com/review/aiper-scuba-v3-pool-robot/
 https://www.wired.com/story/a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/
 https://www.wired.com/story/a-new-study-details-how-cats-almost-always-land-on-their-feet/
