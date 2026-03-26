@@ -366,6 +366,11 @@ https://techcrunch.com/2026/03/25/waymo-relies-on-firefighters-and-police-to-bai
 https://techcrunch.com/2026/03/25/with-sift-stack-two-ex-spacex-engineers-are-bringing-the-software-that-helped-launch-rockets-to-the-factory-floor/
 https://techcrunch.com/2026/03/26/a-little-known-croatian-startup-is-coming-for-the-robotaxi-market-with-help-from-uber/
 https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/
+https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/
+https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/
+https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/
+https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/
+https://techcrunch.com/2026/03/26/whatsapp-can-now-draft-ai-generated-responses-based-on-your-conversations/
 https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/
 https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/
 https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/
@@ -391,6 +396,7 @@ https://venturebeat.com/orchestration/mistral-ai-just-released-a-text-to-speech-
 https://venturebeat.com/orchestration/nvidia-shrinks-llm-memory-20x-without-changing-model-weights
 https://venturebeat.com/orchestration/nvidias-nemotron-cascade-2-wins-math-and-coding-gold-medals-with-3b-active
 https://venturebeat.com/orchestration/testing-autonomous-agents-or-how-i-learned-to-stop-worrying-and-embrace
+https://venturebeat.com/orchestration/the-consequential-ai-work-that-actually-moves-the-needle-for-enterprises
 https://venturebeat.com/orchestration/the-three-disciplines-separating-ai-agent-demos-from-real-world-deployment
 https://venturebeat.com/orchestration/what-is-deerflow-and-what-should-enterprises-know-about-this-new-local-ai
 https://venturebeat.com/orchestration/y-combinator-backed-random-labs-launches-slate-v1-claiming-the-first-swarm
@@ -403,6 +409,7 @@ https://venturebeat.com/technology/calling-all-gen-ai-disruptors-of-the-enterpri
 https://venturebeat.com/technology/cursors-composer-2-was-secretly-built-on-a-chinese-ai-model-and-it-exposes-a
 https://venturebeat.com/technology/cursors-new-coding-model-composer-2-is-here-it-beats-claude-opus-4-6-but
 https://venturebeat.com/technology/fixing-ai-failure-three-changes-enterprises-should-make-now
+https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6
 https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai
 https://venturebeat.com/technology/luma-ai-launches-uni-1-a-model-that-outscores-google-and-openai-while
 https://venturebeat.com/technology/new-minimax-m2-7-proprietary-ai-model-is-self-evolving-and-can-perform-30-50
@@ -674,6 +681,7 @@ https://www.marktechpost.com/2026/03/24/this-ai-paper-introduces-tinylora-a-13-p
 https://www.marktechpost.com/2026/03/25/google-introduces-turboquant-a-new-compression-algorithm-that-reduces-llm-key-value-cache-memory-by-6x-and-delivers-up-to-8x-speedup-all-with-zero-accuracy-loss/
 https://www.marktechpost.com/2026/03/25/how-to-build-a-vision-guided-web-ai-agent-with-molmoweb-4b-using-multimodal-reasoning-and-action-prediction/
 https://www.marktechpost.com/2026/03/25/nvidia-ai-introduces-pivotrl-a-new-ai-framework-achieving-high-agentic-accuracy-with-4x-fewer-rollout-turns-efficiently/
+https://www.marktechpost.com/2026/03/26/cohere-ai-releases-cohere-transcribe-a-sota-automatic-speech-recognition-asr-model-powering-enterprise-speech-intelligence/
 https://www.marktechpost.com/2026/03/26/tencent-ai-open-sources-covo-audio-a-7b-speech-language-model-and-inference-pipeline-for-real-time-audio-conversations-and-reasoning/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
@@ -716,6 +724,7 @@ https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to
 https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/
 https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/
 https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/
+https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/
 https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data
 https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk
 https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence
@@ -725,10 +734,12 @@ https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-f
 https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant
 https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest
 https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi
+https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim
 https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features
 https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta
 https://www.theverge.com/ai-artificial-intelligence/900425/google-lyria-3-pro-ai-music
 https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely
+https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses
 https://www.theverge.com/entertainment/895435/oeuf-review
 https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing
 https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview
@@ -747,6 +758,7 @@ https://www.theverge.com/podcast/897900/ai-trust-gap-killer-app-vergecast
 https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation
 https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran
 https://www.theverge.com/policy/900341/senator-schiff-anthropic-autonomous-weapons-mass-surveillance
+https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers
 https://www.theverge.com/science/899891/nasa-moon-base-mars-nuclear-power-jared-isaacman
 https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse
 https://www.theverge.com/streaming/900910/spotify-artist-profile-protection-ai-clones
@@ -761,7 +773,9 @@ https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-
 https://www.theverge.com/tech/899799/apple-ios-26-4-ai-playlist-purchase-sharing-update
 https://www.theverge.com/tech/900428/seiko-rotocall-digital-watch-retro-nasa-astronauts
 https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees
+https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban
 https://www.theverge.com/transportation/897105/uber-rivian-robotaxi-investment-deal
+https://www.theverge.com/transportation/900559/robotaxi-two-seater-tesla-lucid-drag-cost
 https://www.theverge.com/transportation/900656/uber-pony-ai-verne-robotaxi-europe
 https://www.wired.com/review/aiper-scuba-v3-pool-robot/
 https://www.wired.com/story/a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/
