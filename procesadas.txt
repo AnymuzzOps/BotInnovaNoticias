@@ -110,6 +110,7 @@ https://news.crunchbase.com/venture/hype-outcomes-vcs-recalibrate-agentic-ai-kap
 https://news.crunchbase.com/venture/interesting-startup-deals-robots-ai-agent-inboxes-defense-space-tech/
 https://news.crunchbase.com/venture/kleiner-perkins-raises-ai-focused-funds/
 https://news.crunchbase.com/venture/robotics-semiconductor-led-unicorns-february-2026/
+https://news.crunchbase.com/venture/seed-funding-skewing-larger-ai-competitive-data/
 https://news.crunchbase.com/venture/unicorn-legal-tech-ai-startup-legora-triples-valuation/
 https://news.crunchbase.com/venture/world-model-ai-lab-ami-raises-europes-largest-seed-round/
 https://phys.org/news/2026-03-ai-boost-productivity-maximizing-output.html
@@ -219,8 +220,11 @@ https://roboticsandautomationnews.com/2026/03/24/saving-the-planet-from-humans-h
 https://roboticsandautomationnews.com/2026/03/24/southern-glazers-expands-use-of-corvus-robotics-drone-inventory-system-across-its-distribution-network/100113/
 https://roboticsandautomationnews.com/2026/03/25/automation-in-legal-operations-a-hybrid-approach-to-modern-practice/100127/
 https://roboticsandautomationnews.com/2026/03/25/san-jose-airport-introduces-ai-powered-intbot-humanoid-to-assist-passengers/100117/
+https://roboticsandautomationnews.com/2026/03/26/comau-and-reis-robotics-partner-to-deliver-advanced-automation-systems-across-key-industrial-sectors/100168/
 https://roboticsandautomationnews.com/2026/03/26/how-explosion-proof-visual-monitoring-is-transforming-safety-in-hazardous-industrial-automation/100135/
+https://roboticsandautomationnews.com/2026/03/26/maximo-completes-100-mw-of-robotic-solar-installation-in-california/100157/
 https://roboticsandautomationnews.com/2026/03/26/melania-trump-presents-humanoid-robot-at-white-house-highlights-role-of-ai-in-education-and-careers/100142/
+https://roboticsandautomationnews.com/2026/03/26/uber-pony-ai-and-verne-partner-to-launch-europes-first-commercial-robotaxi-service/100153/
 https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/
 https://singularityhub.com/2026/03/09/hackers-are-automating-cyberattacks-with-ai-defenders-are-using-it-to-fight-back/
 https://singularityhub.com/2026/03/19/tech-companies-are-blaming-massive-layoffs-on-ai-whats-really-going-on/
@@ -361,6 +365,7 @@ https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-
 https://techcrunch.com/2026/03/25/waymo-relies-on-firefighters-and-police-to-bail-out-stuck-robotaxis/
 https://techcrunch.com/2026/03/25/with-sift-stack-two-ex-spacex-engineers-are-bringing-the-software-that-helped-launch-rockets-to-the-factory-floor/
 https://techcrunch.com/2026/03/26/a-little-known-croatian-startup-is-coming-for-the-robotaxi-market-with-help-from-uber/
+https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/
 https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/
 https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/
 https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/
@@ -382,6 +387,7 @@ https://venturebeat.com/infrastructure/why-enterprises-are-replacing-generic-ai-
 https://venturebeat.com/orchestration/anthropic-gives-claude-shared-context-across-microsoft-excel-and-powerpoint
 https://venturebeat.com/orchestration/how-linkedin-replaced-five-feed-retrieval-systems-with-one-llm-model-at-1-3
 https://venturebeat.com/orchestration/how-xmemory-cuts-token-costs-and-context-bloat-in-ai-agents
+https://venturebeat.com/orchestration/mistral-ai-just-released-a-text-to-speech-model-it-says-beats-elevenlabs-and
 https://venturebeat.com/orchestration/nvidia-shrinks-llm-memory-20x-without-changing-model-weights
 https://venturebeat.com/orchestration/nvidias-nemotron-cascade-2-wins-math-and-coding-gold-medals-with-3b-active
 https://venturebeat.com/orchestration/testing-autonomous-agents-or-how-i-learned-to-stop-worrying-and-embrace
@@ -534,10 +540,14 @@ https://www.bloomberg.com/news/articles/2026-03-25/meta-is-cutting-several-hundr
 https://www.bloomberg.com/news/articles/2026-03-25/meta-offers-top-execs-stock-options-for-first-time-since-ipo
 https://www.bloomberg.com/news/articles/2026-03-25/private-credit-pitched-by-software-firm-planview-to-refinance
 https://www.bloomberg.com/news/articles/2026-03-25/thai-ai-startup-amity-raises-100-million-in-push-toward-ipo
+https://www.bloomberg.com/news/articles/2026-03-26/aligned-data-centers-closes-on-2-58-billion-credit-facility
+https://www.bloomberg.com/news/articles/2026-03-26/canadian-oil-firm-new-west-weighs-us-ipo-to-fund-advanced-computing-pivot
 https://www.bloomberg.com/news/articles/2026-03-26/cxmt-potentially-challenges-sk-hynix-samsung-micron-in-hbm-supply-for-ai
+https://www.bloomberg.com/news/articles/2026-03-26/defense-startup-shield-ai-nabs-2-billion-at-12-7-billion-value
 https://www.bloomberg.com/news/articles/2026-03-26/memory-stock-boom-seen-resilient-to-threat-from-new-google-tech
 https://www.bloomberg.com/news/articles/2026-03-26/moonshot-is-said-to-consider-hong-kong-ipo-as-ai-stocks-flourish
 https://www.bloomberg.com/news/articles/2026-03-26/pony-ai-uber-to-launch-robotaxis-in-croatia-in-europe-push
+https://www.bloomberg.com/news/articles/2026-03-26/private-credit-flows-falter-amid-defaults-ai-disruption-fears
 https://www.bloomberg.com/news/features/2026-03-19/new-york-city-office-leases-rebound-as-ai-companies-move-in
 https://www.bloomberg.com/news/newsletters/2026-03-16/zoox-test-with-uber-in-las-vegas-pushes-the-definition-of-robotaxi
 https://www.bloomberg.com/news/newsletters/2026-03-17/alibaba-ai-targets-early-detection-of-widespread-liver-disease
@@ -673,6 +683,8 @@ https://www.nytimes.com/2026/03/17/technology/trapped-inside-a-self-driving-car-
 https://www.nytimes.com/2026/03/18/movies/val-kilmer-ai-movie.html
 https://www.nytimes.com/2026/03/18/technology/turing-award-winners-quantum-cryptography.html
 https://www.nytimes.com/2026/03/24/technology/arm-holdings-sell-chips.html
+https://www.nytimes.com/2026/03/26/business/dealbook/shield-ai-drones-aechelon-fund-raising.html
+https://www.nytimes.com/2026/03/26/movies/the-ai-doc-movie-anthropic-openai-claude-chatgpt.html
 https://www.sciencedaily.com/releases/2026/01/260129080418.htm
 https://www.sciencedaily.com/releases/2026/01/260131084555.htm
 https://www.sciencedaily.com/releases/2026/02/260201223737.htm
@@ -716,6 +728,7 @@ https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-a
 https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features
 https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta
 https://www.theverge.com/ai-artificial-intelligence/900425/google-lyria-3-pro-ai-music
+https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely
 https://www.theverge.com/entertainment/895435/oeuf-review
 https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing
 https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview
@@ -770,6 +783,8 @@ https://www.wired.com/story/new-bernie-sanders-ai-safety-bill-would-halt-data-ce
 https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/
 https://www.wired.com/story/project-maven-katrina-manson-book-excerpt/
 https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/
+https://www.wired.com/story/senators-demand-to-know-how-much-energy-data-centers-use/
+https://www.wired.com/story/shes-never-going-to-age-porn-stars-are-embracing-ai-clones-to-stay-forever-young/
 https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/
 https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/
 https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/
@@ -779,6 +794,7 @@ https://www.zdnet.com/article/best-early-amazon-spring-sale-2026-robot-vacuum-de
 https://www.zdnet.com/article/caio-chief-ai-officer-alternative-director-of-ai-productivity/
 https://www.zdnet.com/article/chatgpt-voice-mode-tricks/
 https://www.zdnet.com/article/cisco-defenseclaw-to-govern-agentic-ai/
+https://www.zdnet.com/article/claude-ai-control-computer-hands-on-results/
 https://www.zdnet.com/article/fitbit-medical-google-ai/
 https://www.zdnet.com/article/former-tesla-president-explains-where-ai-will-accelerate-job-growth/
 https://www.zdnet.com/article/gpt-5-4-mini-and-nano/
