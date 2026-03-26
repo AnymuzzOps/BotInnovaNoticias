@@ -22,11 +22,13 @@ https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-s
 https://arstechnica.com/space/2026/03/a-mission-nasa-might-kill-is-still-returning-fascinating-science-from-jupiter/
 https://arstechnica.com/space/2026/03/a-unique-nasa-satellite-is-falling-out-of-orbit-this-team-is-trying-to-rescue-it/
 https://arstechnica.com/space/2026/03/flying-to-the-moon-for-the-first-time-in-54-years-is-risky-but-how-risky/
+https://arstechnica.com/space/2026/03/here-is-nasas-plan-for-nuking-gateway-and-sending-it-to-mars/
 https://arstechnica.com/space/2026/03/jeff-bezos-throws-his-hat-in-the-ring-for-an-orbital-data-center-megaconstellation-too/
 https://arstechnica.com/space/2026/03/nasa-is-blowing-stuff-up-to-study-the-explosive-potential-of-methalox-rockets/
 https://arstechnica.com/space/2026/03/nasa-issues-draft-request-for-moving-space-shuttle-discovery-or-orion-capsule/
 https://arstechnica.com/space/2026/03/nasa-kills-lunar-space-station-to-focus-on-ambitious-moon-base/
 https://arstechnica.com/space/2026/03/orbital-data-centers-part-1-theres-no-way-this-is-economically-viable-right/
+https://arstechnica.com/space/2026/03/we-got-an-audience-with-the-lunar-viceroy-to-talk-how-nasa-will-build-a-moon-base/
 https://arstechnica.com/tech-policy/2026/03/cloudflare-appeals-piracy-shield-fine-hopes-to-kill-italys-site-blocking-law/
 https://arstechnica.com/tech-policy/2026/03/elon-musks-xai-sued-for-turning-three-girls-real-photos-into-ai-csam/
 https://arstechnica.com/tech-policy/2026/03/trump-made-opposing-government-spying-cool-again-effs-departing-chief-says/
@@ -116,6 +118,7 @@ https://phys.org/news/2026-03-ai-higher-accuracy-current-methods.html
 https://phys.org/news/2026-03-ai-rebuilds-molecules-fragments.html
 https://phys.org/news/2026-03-ai-scarce-regions.html
 https://phys.org/news/2026-03-ai-social-entrepreneurs-sources.html
+https://phys.org/news/2026-03-ai-tool-wildfire-danger-faster.html
 https://phys.org/news/2026-03-analysis-million-interactions-employees-sophisticated.html
 https://phys.org/news/2026-03-atca-probe-peculiar-pulsar-nebula.html
 https://phys.org/news/2026-03-biosensor-early-fungal-outbreaks-advances.html
@@ -345,10 +348,14 @@ https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-
 https://techcrunch.com/2026/03/25/apple-overhauls-its-app-developer-platform-with-100-new-metrics-more-tools/
 https://techcrunch.com/2026/03/25/arinna-4-million-seed-round-solar-energy-space-power-problem/
 https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/
+https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/
+https://techcrunch.com/2026/03/25/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/
+https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/
 https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/
 https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/
 https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/
 https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/
+https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/
 https://techcrunch.com/2026/03/25/waymo-relies-on-firefighters-and-police-to-bail-out-stuck-robotaxis/
 https://techcrunch.com/2026/03/25/with-sift-stack-two-ex-spacex-engineers-are-bringing-the-software-that-helped-launch-rockets-to-the-factory-floor/
 https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/
@@ -564,6 +571,7 @@ https://www.bloomberg.com/news/videos/2026-03-23/nextera-ceo-ketchum-on-energy-d
 https://www.bloomberg.com/news/videos/2026-03-23/spacex-investor-fidelity-likes-musk-s-data-in-space-plan-video
 https://www.bloomberg.com/news/videos/2026-03-25/bloomberg-tech-3-25-2026-video
 https://www.bloomberg.com/news/videos/2026-03-25/kleiner-perkins-raises-3-5-billion-to-back-ai-boom-video
+https://www.bloomberg.com/news/videos/2026-03-25/prologis-ceo-sees-prolonged-ai-data-center-tailwinds-video
 https://www.cnet.com/culture/entertainment/ai-set-to-create-val-kilmers-likeness-for-film-one-year-after-his-death/
 https://www.cnet.com/home/kitchen-and-household/dyson-launched-first-ever-robot-mop-vacuum-i-saw-it/
 https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/
@@ -574,6 +582,7 @@ https://www.cnet.com/roadshow/news/zoox-expands-service-brings-robotaxi-to-two-n
 https://www.cnet.com/science/space/mars-spaceship-sr-1-freedom-nasa/
 https://www.cnet.com/science/space/nasas-ignition-program-skips-lunar-orbiter-goes-straight-for-moon-base/
 https://www.cnet.com/tech/computing/elon-musk-25-billion-terafab-chip-building-project/
+https://www.cnet.com/tech/first-lady-melania-trump-humanoid-robot-childrens-technology-educational-summit/
 https://www.cnet.com/tech/gaming/generative-ai-gaming-pushback/
 https://www.cnet.com/tech/gaming/nvidia-teases-dlss-5-gamers-arent-impressed/
 https://www.cnet.com/tech/mobile/amazon-plans-alexa-focused-transformer-phone/
@@ -645,6 +654,7 @@ https://www.marktechpost.com/2026/03/23/how-to-design-a-production-ready-ai-agen
 https://www.marktechpost.com/2026/03/23/meta-ais-new-hyperagents-dont-just-solve-tasks-they-rewrite-the-rules-of-how-they-learn/
 https://www.marktechpost.com/2026/03/24/this-ai-paper-introduces-tinylora-a-13-parameter-fine-tuning-method-that-reaches-91-8-percent-gsm8k-on-qwen2-5-7b/
 https://www.marktechpost.com/2026/03/25/google-introduces-turboquant-a-new-compression-algorithm-that-reduces-llm-key-value-cache-memory-by-6x-and-delivers-up-to-8x-speedup-all-with-zero-accuracy-loss/
+https://www.marktechpost.com/2026/03/25/how-to-build-a-vision-guided-web-ai-agent-with-molmoweb-4b-using-multimodal-reasoning-and-action-prediction/
 https://www.marktechpost.com/2026/03/25/nvidia-ai-introduces-pivotrl-a-new-ai-framework-achieving-high-agentic-accuracy-with-4x-fewer-rollout-turns-efficiently/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
@@ -700,6 +710,7 @@ https://www.theverge.com/ai-artificial-intelligence/900425/google-lyria-3-pro-ai
 https://www.theverge.com/entertainment/895435/oeuf-review
 https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing
 https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview
+https://www.theverge.com/gadgets/900518/razers-new-blade-16-gaming-laptop-has-an-intel-panther-lake-chip-and-very-fast-ram
 https://www.theverge.com/games/894610/capcom-pragmata-ai-preview-interview
 https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles
 https://www.theverge.com/games/895396/playstation-pssr-upscaling-cyberpunk-2077-silent-hill
@@ -716,6 +727,7 @@ https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran
 https://www.theverge.com/policy/900341/senator-schiff-anthropic-autonomous-weapons-mass-surveillance
 https://www.theverge.com/science/899891/nasa-moon-base-mars-nuclear-power-jared-isaacman
 https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse
+https://www.theverge.com/streaming/900910/spotify-artist-profile-protection-ai-clones
 https://www.theverge.com/tech/894803/digg-beta-shutdown-layoffs-ai
 https://www.theverge.com/tech/895301/nvidia-robotaxi-byd-geely-hyperion-lyft-halos
 https://www.theverge.com/tech/895369/olaf-disney-imagineering-frozen-robot-up-close
@@ -726,6 +738,7 @@ https://www.theverge.com/tech/898162/vidabay-classic-plus-nfc-e-ink-fridge-magne
 https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on
 https://www.theverge.com/tech/899799/apple-ios-26-4-ai-playlist-purchase-sharing-update
 https://www.theverge.com/tech/900428/seiko-rotocall-digital-watch-retro-nasa-astronauts
+https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees
 https://www.theverge.com/transportation/897105/uber-rivian-robotaxi-investment-deal
 https://www.wired.com/review/aiper-scuba-v3-pool-robot/
 https://www.wired.com/story/a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/
