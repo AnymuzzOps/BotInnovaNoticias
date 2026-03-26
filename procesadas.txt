@@ -414,6 +414,7 @@ https://www.bbc.com/news/articles/c3ewe7v7gpgo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4g7k7zdd0zo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4gjyg0g78vo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5y7374x9n4o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c5y8d721q18o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5y9d44jj24o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c74721xyd1wo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c7474004g01o?at_medium=RSS&at_campaign=rss
@@ -530,6 +531,8 @@ https://www.bloomberg.com/news/articles/2026-03-25/meta-is-cutting-several-hundr
 https://www.bloomberg.com/news/articles/2026-03-25/meta-offers-top-execs-stock-options-for-first-time-since-ipo
 https://www.bloomberg.com/news/articles/2026-03-25/private-credit-pitched-by-software-firm-planview-to-refinance
 https://www.bloomberg.com/news/articles/2026-03-25/thai-ai-startup-amity-raises-100-million-in-push-toward-ipo
+https://www.bloomberg.com/news/articles/2026-03-26/cxmt-potentially-challenges-sk-hynix-samsung-micron-in-hbm-supply-for-ai
+https://www.bloomberg.com/news/articles/2026-03-26/memory-stock-boom-seen-resilient-to-threat-from-new-google-tech
 https://www.bloomberg.com/news/features/2026-03-19/new-york-city-office-leases-rebound-as-ai-companies-move-in
 https://www.bloomberg.com/news/newsletters/2026-03-16/zoox-test-with-uber-in-las-vegas-pushes-the-definition-of-robotaxi
 https://www.bloomberg.com/news/newsletters/2026-03-17/alibaba-ai-targets-early-detection-of-widespread-liver-disease
