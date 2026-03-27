@@ -142,6 +142,7 @@ https://phys.org/news/2026-03-invisible-choreography-quantum-noise.html
 https://phys.org/news/2026-03-magnetic-microbots-quantum-sensors-cells.html
 https://phys.org/news/2026-03-microwave-quantum-network-resilience-disturbances.html
 https://phys.org/news/2026-03-musk-twitter-takeover-highlights-danger.html
+https://phys.org/news/2026-03-nasa-artemis-ii-mission-astronaut.html
 https://phys.org/news/2026-03-nasa-artemis-missions-moon.html
 https://phys.org/news/2026-03-nasa-experimental-technology-tsunami.html
 https://phys.org/news/2026-03-nasa-moon-rocket-pad-eyeing.html
@@ -384,6 +385,7 @@ https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dream
 https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/
 https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/
 https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/
+https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/
 https://techcrunch.com/2026/03/26/defense-startup-shield-ai-lands-12-7b-valuation-up-140-after-u-s-air-force-deal/
 https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/
 https://techcrunch.com/2026/03/26/whatsapp-can-now-draft-ai-generated-responses-based-on-your-conversations/
@@ -578,6 +580,7 @@ https://www.bloomberg.com/news/articles/2026-03-26/memory-stock-boom-seen-resili
 https://www.bloomberg.com/news/articles/2026-03-26/meta-increases-investment-in-el-paso-data-center-to-10-billion
 https://www.bloomberg.com/news/articles/2026-03-26/moonshot-is-said-to-consider-hong-kong-ipo-as-ai-stocks-flourish
 https://www.bloomberg.com/news/articles/2026-03-26/nvidia-sees-first-bout-of-retail-investor-selling-since-july
+https://www.bloomberg.com/news/articles/2026-03-26/pony-ai-swings-to-profit-aims-to-launch-robotaxis-in-20-cities
 https://www.bloomberg.com/news/articles/2026-03-26/pony-ai-uber-to-launch-robotaxis-in-croatia-in-europe-push
 https://www.bloomberg.com/news/articles/2026-03-26/private-credit-flows-falter-amid-defaults-ai-disruption-fears
 https://www.bloomberg.com/news/articles/2026-03-26/spacex-lines-up-april-investor-briefings-as-ipo-questions-swirl
@@ -625,6 +628,8 @@ https://www.bloomberg.com/news/videos/2026-03-23/spacex-investor-fidelity-likes-
 https://www.bloomberg.com/news/videos/2026-03-25/bloomberg-tech-3-25-2026-video
 https://www.bloomberg.com/news/videos/2026-03-25/kleiner-perkins-raises-3-5-billion-to-back-ai-boom-video
 https://www.bloomberg.com/news/videos/2026-03-25/prologis-ceo-sees-prolonged-ai-data-center-tailwinds-video
+https://www.bloomberg.com/news/videos/2026-03-27/bloomberg-tech-asia-3-27-2026-video
+https://www.bloomberg.com/news/videos/2026-03-27/pony-ai-ceo-middle-east-market-remains-a-priority-video
 https://www.cnet.com/culture/entertainment/ai-set-to-create-val-kilmers-likeness-for-film-one-year-after-his-death/
 https://www.cnet.com/home/kitchen-and-household/dyson-launched-first-ever-robot-mop-vacuum-i-saw-it/
 https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/
@@ -714,6 +719,7 @@ https://www.marktechpost.com/2026/03/25/google-introduces-turboquant-a-new-compr
 https://www.marktechpost.com/2026/03/25/how-to-build-a-vision-guided-web-ai-agent-with-molmoweb-4b-using-multimodal-reasoning-and-action-prediction/
 https://www.marktechpost.com/2026/03/25/nvidia-ai-introduces-pivotrl-a-new-ai-framework-achieving-high-agentic-accuracy-with-4x-fewer-rollout-turns-efficiently/
 https://www.marktechpost.com/2026/03/26/cohere-ai-releases-cohere-transcribe-a-sota-automatic-speech-recognition-asr-model-powering-enterprise-speech-intelligence/
+https://www.marktechpost.com/2026/03/26/google-releases-gemini-3-1-flash-live-a-real-time-multimodal-voice-model-for-low-latency-audio-video-and-tool-use-for-ai-agents/
 https://www.marktechpost.com/2026/03/26/tencent-ai-open-sources-covo-audio-a-7b-speech-language-model-and-inference-pipeline-for-real-time-audio-conversations-and-reasoning/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
@@ -725,6 +731,7 @@ https://www.nytimes.com/2026/03/18/technology/turing-award-winners-quantum-crypt
 https://www.nytimes.com/2026/03/24/technology/arm-holdings-sell-chips.html
 https://www.nytimes.com/2026/03/26/business/dealbook/shield-ai-drones-aechelon-fund-raising.html
 https://www.nytimes.com/2026/03/26/movies/the-ai-doc-movie-anthropic-openai-claude-chatgpt.html
+https://www.nytimes.com/2026/03/27/business/helium-chips-iran-war.html
 https://www.sciencedaily.com/releases/2026/01/260129080418.htm
 https://www.sciencedaily.com/releases/2026/01/260131084555.htm
 https://www.sciencedaily.com/releases/2026/02/260201223737.htm
