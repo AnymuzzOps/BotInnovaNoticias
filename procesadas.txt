@@ -109,6 +109,7 @@ https://news.crunchbase.com/ma/most-active-startup-acquirers-3-years-crm-openai-
 https://news.crunchbase.com/public/pwc-bellin-qa-2026-ipo-timing-secondary-boom/
 https://news.crunchbase.com/real-estate-property-tech/ai-generated-hvac-quotes-rebar-seriesa/
 https://news.crunchbase.com/startups/missed-state-federal-tax-credits-garba-burkland/
+https://news.crunchbase.com/venture/all-time-high-funding-to-austin-startups-2025-ai-robotics-manufacturing/
 https://news.crunchbase.com/venture/biggest-funding-rounds-ai-robotics-ecommerce-quince/
 https://news.crunchbase.com/venture/biggest-funding-rounds-security-ai-cloaked-frore/
 https://news.crunchbase.com/venture/building-startup-reputation-trust-vcs-sabitova-cloee/
@@ -239,6 +240,8 @@ https://roboticsandautomationnews.com/2026/03/26/how-explosion-proof-visual-moni
 https://roboticsandautomationnews.com/2026/03/26/maximo-completes-100-mw-of-robotic-solar-installation-in-california/100157/
 https://roboticsandautomationnews.com/2026/03/26/melania-trump-presents-humanoid-robot-at-white-house-highlights-role-of-ai-in-education-and-careers/100142/
 https://roboticsandautomationnews.com/2026/03/26/uber-pony-ai-and-verne-partner-to-launch-europes-first-commercial-robotaxi-service/100153/
+https://roboticsandautomationnews.com/2026/03/27/from-standards-to-the-shop-floor-practical-robot-safety-steps-operators-can-apply/100184/
+https://roboticsandautomationnews.com/2026/03/27/heavy-equipment-manufacturers-are-using-robotics-to-change-crane-trucks/100187/
 https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/
 https://singularityhub.com/2026/03/09/hackers-are-automating-cyberattacks-with-ai-defenders-are-using-it-to-fight-back/
 https://singularityhub.com/2026/03/19/tech-companies-are-blaming-massive-layoffs-on-ai-whats-really-going-on/
@@ -257,6 +260,7 @@ https://spectrum.ieee.org/ieee-global-virtual-career-fairs
 https://spectrum.ieee.org/legged-modular-robot
 https://spectrum.ieee.org/level-4-autonomous-trucks
 https://spectrum.ieee.org/nvidia-rtx-pro-6000-pny
+https://spectrum.ieee.org/nyu-quantum-institute
 https://spectrum.ieee.org/robert-goddard-leadership
 https://syncedreview.com/2025/04/16/zhipu-ais-open-source-power-play-blazing-fast-glm-models-global-expansion-ahead-of-potential-ipo/
 https://syncedreview.com/2025/04/23/can-grpo-be-10x-efficient-kwai-ais-srpo-suggests-yes-with-srpo/
@@ -585,8 +589,11 @@ https://www.bloomberg.com/news/articles/2026-03-26/pony-ai-uber-to-launch-robota
 https://www.bloomberg.com/news/articles/2026-03-26/private-credit-flows-falter-amid-defaults-ai-disruption-fears
 https://www.bloomberg.com/news/articles/2026-03-26/spacex-lines-up-april-investor-briefings-as-ipo-questions-swirl
 https://www.bloomberg.com/news/articles/2026-03-27/ai-breakthrough-from-google-exposes-divide-in-memory-stocks
+https://www.bloomberg.com/news/articles/2026-03-27/canada-ex-defense-minister-s-startup-juno-sees-anduril-type-role
 https://www.bloomberg.com/news/articles/2026-03-27/chip-hub-taiwan-keeps-power-prices-unchanged-despite-iran-war
 https://www.bloomberg.com/news/articles/2026-03-27/claude-ai-maker-anthropic-said-to-weigh-ipo-as-soon-as-october
+https://www.bloomberg.com/news/articles/2026-03-27/microsoft-set-for-worst-quarter-since-2008-as-ai-takes-two-bites
+https://www.bloomberg.com/news/articles/2026-03-27/spotify-co-founder-is-behind-body-scan-startup-competing-with-prenuvo
 https://www.bloomberg.com/news/features/2026-03-19/new-york-city-office-leases-rebound-as-ai-companies-move-in
 https://www.bloomberg.com/news/newsletters/2026-03-16/zoox-test-with-uber-in-las-vegas-pushes-the-definition-of-robotaxi
 https://www.bloomberg.com/news/newsletters/2026-03-17/alibaba-ai-targets-early-detection-of-widespread-liver-disease
@@ -597,6 +604,7 @@ https://www.bloomberg.com/news/newsletters/2026-03-24/americans-aren-t-afraid-of
 https://www.bloomberg.com/news/newsletters/2026-03-25/ai-tools-are-upending-typical-software-contracts
 https://www.bloomberg.com/news/newsletters/2026-03-25/as-us-strikes-hit-iran-ai-warfare-is-debated-at-washington-forum
 https://www.bloomberg.com/news/newsletters/2026-03-26/openclaw-creator-says-us-can-learn-from-china-s-ai-adoption
+https://www.bloomberg.com/news/newsletters/2026-03-27/nvidia-arm-return-the-cpu-to-prominence-for-the-ai-age
 https://www.bloomberg.com/news/videos/2026-03-14/rattner-cooling-jobs-market-tariffs-and-ai-video
 https://www.bloomberg.com/news/videos/2026-03-16/bloomberg-tech-3-16-2026-video
 https://www.bloomberg.com/news/videos/2026-03-16/china-s-ai-boom-risks-job-losses-regulatory-concerns-video
@@ -661,6 +669,7 @@ https://www.cnet.com/tech/services-and-software/generative-ai-music-experiment-c
 https://www.cnet.com/tech/services-and-software/grok-ai-deepfake-porn-teen-girls-lawsuit-march-2026/
 https://www.cnet.com/tech/services-and-software/i-asked-ai-to-help-me-choose-a-hobby-ranking-its-suggestions-from-beekeeping-to-astronomy/
 https://www.cnet.com/tech/services-and-software/i-tried-internxt-an-encrypted-secure-cloud-storage-built-for-the-post-quantum-era/
+https://www.cnet.com/tech/services-and-software/i-tried-to-find-job-ads-directly-in-a-chatbot-heres-what-happened/
 https://www.cnet.com/tech/services-and-software/meeting-every-robot-at-nvidia-gtc-what-the-future-may-bring/
 https://www.cnet.com/tech/services-and-software/meta-ray-ban-smart-glasses-ai-privacy-policy/
 https://www.cnet.com/tech/services-and-software/nvidia-gtc-2026-3-things-you-should-know-about/
@@ -826,6 +835,7 @@ https://www.theverge.com/transportation/900559/robotaxi-two-seater-tesla-lucid-d
 https://www.theverge.com/transportation/900656/uber-pony-ai-verne-robotaxi-europe
 https://www.wired.com/review/aiper-scuba-v3-pool-robot/
 https://www.wired.com/story/a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/
+https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/
 https://www.wired.com/story/a-new-study-details-how-cats-almost-always-land-on-their-feet/
 https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/
 https://www.wired.com/story/china-approves-first-brain-chips-for-sale-plan-to-dominate-industry/
@@ -835,6 +845,7 @@ https://www.wired.com/story/europe-squeeze-power-energy-grid-ai-data-center/
 https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/
 https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/
 https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/
+https://www.wired.com/story/how-to-backup-your-iphone/
 https://www.wired.com/story/i-tried-doordashs-tasks-app-and-saw-the-bleak-future-of-ai-gig-work/
 https://www.wired.com/story/irestore-deals-amazon-spring-sale-2026/
 https://www.wired.com/story/linkedin-invited-my-ai-cofounder-to-give-a-corporate-talk-then-banned-it/
