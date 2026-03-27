@@ -47,6 +47,7 @@ https://futurism.com/artificial-intelligence/ai-economy-gdp-2025
 https://futurism.com/artificial-intelligence/ai-grandmother-jail-mistake
 https://futurism.com/artificial-intelligence/ai-lawsuits-chaos-courts-lawyers
 https://futurism.com/artificial-intelligence/ai-military-civil-liberty
+https://futurism.com/artificial-intelligence/analysis-new-york-times-ai-articles
 https://futurism.com/artificial-intelligence/atlassian-ai-layoffs
 https://futurism.com/artificial-intelligence/ceo-ai-gen-z-unemployment
 https://futurism.com/artificial-intelligence/ceo-hire-anyone-vibe-code
@@ -54,6 +55,8 @@ https://futurism.com/artificial-intelligence/doctor-reels-son-becomes-plumber-ai
 https://futurism.com/artificial-intelligence/educational-youtube-ai-slop-play-in-traffic
 https://futurism.com/artificial-intelligence/elon-musk-terafab-finances
 https://futurism.com/artificial-intelligence/man-pleads-guilty-music-ai-bot-streams
+https://futurism.com/artificial-intelligence/meta-court-defeat-ai-industry
+https://futurism.com/artificial-intelligence/meta-layoffs-zuckerberg-ai
 https://futurism.com/artificial-intelligence/microsoft-copilot-ai-friday
 https://futurism.com/artificial-intelligence/microsoft-screwed-up-windows-11-copilot
 https://futurism.com/artificial-intelligence/netflix-buys-ai-startup-ben-afleck
@@ -62,8 +65,10 @@ https://futurism.com/artificial-intelligence/novel-pulled-author-accused-ai
 https://futurism.com/artificial-intelligence/nvidia-ceo-hates-ai-slop
 https://futurism.com/artificial-intelligence/nvidia-ceo-says-gamers-wrong-ai
 https://futurism.com/artificial-intelligence/nvidia-ridiculed-yassify-video-games
+https://futurism.com/artificial-intelligence/openai-cancels-spicy-chatbot
 https://futurism.com/artificial-intelligence/openai-cofounder-analysis-jobs-ai
 https://futurism.com/artificial-intelligence/openai-killing-sora-video-ai-slop
+https://futurism.com/artificial-intelligence/protestors-anthropic-ai
 https://futurism.com/artificial-intelligence/reaction-buzzfeed-new-ai-apps
 https://futurism.com/artificial-intelligence/rogue-ai-agent-triggers-emergency-at-meta
 https://futurism.com/artificial-intelligence/study-chats-delusional-users-ai
@@ -76,6 +81,7 @@ https://futurism.com/future-society/detroit-blockchain-realt-collapse
 https://futurism.com/future-society/meta-firing-percentage-staff-zuckerberg
 https://futurism.com/future-society/nvidia-ai-yassification-feature-giga-nostril
 https://futurism.com/health-medicine/mental-health-workers-ai-strike
+https://futurism.com/robots-and-machines/coco-delivery-robot-smash-bus-shelter
 https://futurism.com/robots-and-machines/delivery-robot-philadelphia
 https://futurism.com/robots-and-machines/delivery-robot-smashes-bus-station
 https://futurism.com/robots-and-machines/mcdonalds-isnt-deploying-humanoid-robots-workers
@@ -115,6 +121,7 @@ https://news.crunchbase.com/venture/robotics-semiconductor-led-unicorns-february
 https://news.crunchbase.com/venture/seed-funding-skewing-larger-ai-competitive-data/
 https://news.crunchbase.com/venture/unicorn-legal-tech-ai-startup-legora-triples-valuation/
 https://news.crunchbase.com/venture/world-model-ai-lab-ami-raises-europes-largest-seed-round/
+https://phys.org/news/2026-03-ai-agent-catalyst-discovery-sustainable.html
 https://phys.org/news/2026-03-ai-boost-productivity-maximizing-output.html
 https://phys.org/news/2026-03-ai-gene-tool-precise-safer.html
 https://phys.org/news/2026-03-ai-higher-accuracy-current-methods.html
@@ -380,6 +387,8 @@ https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see
 https://techcrunch.com/2026/03/26/defense-startup-shield-ai-lands-12-7b-valuation-up-140-after-u-s-air-force-deal/
 https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/
 https://techcrunch.com/2026/03/26/whatsapp-can-now-draft-ai-generated-responses-based-on-your-conversations/
+https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/
+https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/
 https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/
 https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/
 https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/
@@ -557,6 +566,8 @@ https://www.bloomberg.com/news/articles/2026-03-25/meta-offers-top-execs-stock-o
 https://www.bloomberg.com/news/articles/2026-03-25/private-credit-pitched-by-software-firm-planview-to-refinance
 https://www.bloomberg.com/news/articles/2026-03-25/thai-ai-startup-amity-raises-100-million-in-push-toward-ipo
 https://www.bloomberg.com/news/articles/2026-03-26/aligned-data-centers-closes-on-2-58-billion-credit-facility
+https://www.bloomberg.com/news/articles/2026-03-26/anthropic-wins-court-order-blocking-trump-ban-on-use-of-ai-tool
+https://www.bloomberg.com/news/articles/2026-03-26/antitrust-agencies-should-be-wary-of-ai-scrutiny-official-says
 https://www.bloomberg.com/news/articles/2026-03-26/apple-plans-to-open-up-siri-to-rival-ai-assistants-beyond-chatgpt-in-ios-27
 https://www.bloomberg.com/news/articles/2026-03-26/canadian-oil-firm-new-west-weighs-us-ipo-to-fund-advanced-computing-pivot
 https://www.bloomberg.com/news/articles/2026-03-26/chip-security-bill-advances-in-house-following-super-micro-case
@@ -570,6 +581,7 @@ https://www.bloomberg.com/news/articles/2026-03-26/nvidia-sees-first-bout-of-ret
 https://www.bloomberg.com/news/articles/2026-03-26/pony-ai-uber-to-launch-robotaxis-in-croatia-in-europe-push
 https://www.bloomberg.com/news/articles/2026-03-26/private-credit-flows-falter-amid-defaults-ai-disruption-fears
 https://www.bloomberg.com/news/articles/2026-03-26/spacex-lines-up-april-investor-briefings-as-ipo-questions-swirl
+https://www.bloomberg.com/news/articles/2026-03-27/claude-ai-maker-anthropic-said-to-weigh-ipo-as-soon-as-october
 https://www.bloomberg.com/news/features/2026-03-19/new-york-city-office-leases-rebound-as-ai-companies-move-in
 https://www.bloomberg.com/news/newsletters/2026-03-16/zoox-test-with-uber-in-las-vegas-pushes-the-definition-of-robotaxi
 https://www.bloomberg.com/news/newsletters/2026-03-17/alibaba-ai-targets-early-detection-of-widespread-liver-disease
@@ -634,6 +646,7 @@ https://www.cnet.com/tech/services-and-software/ai-relationship-advice-harmful-s
 https://www.cnet.com/tech/services-and-software/ai-toys-for-toddlers-study/
 https://www.cnet.com/tech/services-and-software/anthropics-ai-piracy-settlement-is-getting-close-to-final-approval/
 https://www.cnet.com/tech/services-and-software/apple-may-give-siri-a-big-ai-overhaul-in-ios-27-report-says/
+https://www.cnet.com/tech/services-and-software/apple-siri-voice-assistant-may-link-with-chatbots/
 https://www.cnet.com/tech/services-and-software/doordash-new-tasks-app-pay-for-training-ai/
 https://www.cnet.com/tech/services-and-software/embo-olaf-droid-combines-disney-and-nvidia-robotics-and-ai/
 https://www.cnet.com/tech/services-and-software/fi-launches-ai-powered-dog-health-chatbot/
@@ -647,11 +660,13 @@ https://www.cnet.com/tech/services-and-software/nvidia-gtc-2026-3-things-you-sho
 https://www.cnet.com/tech/services-and-software/nvidia-is-building-a-computer-for-data-centers-in-space/
 https://www.cnet.com/tech/services-and-software/nvidia-wants-to-make-it-easier-to-create-an-openclaw-ai-agent/
 https://www.cnet.com/tech/services-and-software/openai-is-planning-to-combine-its-ai-tools-in-a-desktop-superapp/
+https://www.cnet.com/tech/services-and-software/senators-warren-hawley-push-data-center-energy-transparency/
 https://www.cnet.com/tech/services-and-software/snapchat-ai-clips/
 https://www.cnet.com/tech/services-and-software/this-book-just-became-the-first-to-get-canceled-for-ai/
 https://www.cnet.com/tech/services-and-software/trump-national-ai-legislation-plan-march-2026-news/
 https://www.cnet.com/tech/services-and-software/turo-chatgpt-launch-ai-powered-rental-car-search/
 https://www.cnet.com/tech/services-and-software/understanding-ai-copyright-fair-use-legal-explainer/
+https://www.cnet.com/tech/services-and-software/wikipedia-bans-ai-generated-content-in-new-policy-change-with-only-two-exceptions/
 https://www.cnet.com/tech/tim-cook-retirement-good-morning-america/
 https://www.ex-ante.cl/balance-de-la-reforma-de-pensiones-mitos-y-realidades-por-christian-larrain/
 https://www.ex-ante.cl/cuales-son-los-principales-proyectos-de-inversion-que-el-gobierno-de-kast-buscara-agilizar/
@@ -756,11 +771,13 @@ https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-
 https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta
 https://www.theverge.com/ai-artificial-intelligence/900425/google-lyria-3-pro-ai-music
 https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely
+https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history
 https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses
 https://www.theverge.com/entertainment/895435/oeuf-review
 https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing
 https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview
 https://www.theverge.com/gadgets/900518/razers-new-blade-16-gaming-laptop-has-an-intel-panther-lake-chip-and-very-fast-ram
+https://www.theverge.com/gadgets/901792/best-robot-vacuum-mops-amazon-big-spring-sale-2026-deals
 https://www.theverge.com/games/894610/capcom-pragmata-ai-preview-interview
 https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles
 https://www.theverge.com/games/895396/playstation-pssr-upscaling-cyberpunk-2077-silent-hill
@@ -776,6 +793,8 @@ https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shish
 https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran
 https://www.theverge.com/policy/900341/senator-schiff-anthropic-autonomous-weapons-mass-surveillance
 https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers
+https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar
+https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music
 https://www.theverge.com/science/899891/nasa-moon-base-mars-nuclear-power-jared-isaacman
 https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse
 https://www.theverge.com/streaming/900910/spotify-artist-profile-protection-ai-clones
@@ -792,6 +811,7 @@ https://www.theverge.com/tech/900428/seiko-rotocall-digital-watch-retro-nasa-ast
 https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees
 https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban
 https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion
+https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27
 https://www.theverge.com/transportation/897105/uber-rivian-robotaxi-investment-deal
 https://www.theverge.com/transportation/900559/robotaxi-two-seater-tesla-lucid-drag-cost
 https://www.theverge.com/transportation/900656/uber-pony-ai-verne-robotaxi-europe
@@ -842,6 +862,7 @@ https://www.zdnet.com/article/nvidia-openclaw-nemoclaw-security-stack-gtc-2026/
 https://www.zdnet.com/article/nvidia-physical-ai-gtc-2026/
 https://www.zdnet.com/article/nvidia-wants-to-own-your-ai-data-center-end-to-end/
 https://www.zdnet.com/article/security-leaders-not-ready-for-ai-attacks-4-actions-to-take/
+https://www.zdnet.com/article/segway-navimow-x3-series-robot-mower-review/
 https://www.zdnet.com/article/snowflake-it-executive-survey-ai-job-loss-and-gains/
 https://www.zdnet.com/article/state-ai-safety-laws-california-new-york/
 https://www.zdnet.com/article/what-is-antivirus/
