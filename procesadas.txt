@@ -20,6 +20,7 @@ https://arstechnica.com/gaming/2026/03/slay-the-spire-2-is-a-bit-too-familiar-fo
 https://arstechnica.com/health/2026/03/woman-sneezes-out-maggots-after-fly-larvae-get-trapped-in-her-deviated-septum/
 https://arstechnica.com/information-technology/2026/03/cloud-service-providers-ask-eu-regulator-to-reinstate-vmware-partner-program/
 https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/
+https://arstechnica.com/science/2026/03/getting-formal-about-quantum-mechanics-lack-of-causality/
 https://arstechnica.com/science/2026/03/study-sycophantic-ai-can-undermine-human-judgment/
 https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/
 https://arstechnica.com/space/2026/03/a-mission-nasa-might-kill-is-still-returning-fascinating-science-from-jupiter/
@@ -79,6 +80,7 @@ https://futurism.com/artificial-intelligence/study-chats-delusional-users-ai
 https://futurism.com/artificial-intelligence/surreal-footage-melania-trump-white-house-robot
 https://futurism.com/artificial-intelligence/teens-ai-slander-videos-teachers
 https://futurism.com/artificial-intelligence/trump-ai-slop-model
+https://futurism.com/artificial-intelligence/trump-economy-recession-ai
 https://futurism.com/artificial-intelligence/washington-post-price-ai
 https://futurism.com/artificial-intelligence/zuckerberg-training-an-ai-agent-ceo
 https://futurism.com/future-society/detroit-blockchain-realt-collapse
@@ -94,6 +96,7 @@ https://futurism.com/robots-and-machines/robot-berserk-restaurant-tableware
 https://futurism.com/robots-and-machines/robot-worker-factory-digit
 https://futurism.com/robots-and-machines/staff-brain-data-center-spine-fluid
 https://futurism.com/robots-and-machines/video-humanoid-robot-playing-tennis
+https://futurism.com/science-energy/data-centers-protests-electricity
 https://futurism.com/science-energy/engineer-twin-towers-lasers
 https://futurism.com/space/astronaut-mike-fincke-medical-evacuation-details
 https://futurism.com/space/nasa-announces-moon-launches-base
@@ -410,6 +413,7 @@ https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-arti
 https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/
 https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/
 https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/
+https://techcrunch.com/2026/03/28/from-moon-hotels-to-cattle-herding-8-startups-investors-chased-at-yc-demo-day/
 https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/
 https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/
 https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/
