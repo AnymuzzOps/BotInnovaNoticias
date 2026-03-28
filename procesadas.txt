@@ -70,6 +70,7 @@ https://futurism.com/artificial-intelligence/novel-pulled-author-accused-ai
 https://futurism.com/artificial-intelligence/nvidia-ceo-hates-ai-slop
 https://futurism.com/artificial-intelligence/nvidia-ceo-says-gamers-wrong-ai
 https://futurism.com/artificial-intelligence/nvidia-ridiculed-yassify-video-games
+https://futurism.com/artificial-intelligence/nyc-bodegas-ai-slop
 https://futurism.com/artificial-intelligence/openai-cancels-spicy-chatbot
 https://futurism.com/artificial-intelligence/openai-cofounder-analysis-jobs-ai
 https://futurism.com/artificial-intelligence/openai-killing-sora-video-ai-slop
@@ -86,10 +87,12 @@ https://futurism.com/artificial-intelligence/zuckerberg-training-an-ai-agent-ceo
 https://futurism.com/future-society/detroit-blockchain-realt-collapse
 https://futurism.com/future-society/meta-firing-percentage-staff-zuckerberg
 https://futurism.com/future-society/nvidia-ai-yassification-feature-giga-nostril
+https://futurism.com/future-society/terrified-nasa-potato
 https://futurism.com/health-medicine/mental-health-workers-ai-strike
 https://futurism.com/robots-and-machines/coco-delivery-robot-smash-bus-shelter
 https://futurism.com/robots-and-machines/delivery-robot-philadelphia
 https://futurism.com/robots-and-machines/delivery-robot-smashes-bus-station
+https://futurism.com/robots-and-machines/google-quantum-armageddon
 https://futurism.com/robots-and-machines/mcdonalds-isnt-deploying-humanoid-robots-workers
 https://futurism.com/robots-and-machines/restaurant-re-deploys-robot-freakout
 https://futurism.com/robots-and-machines/robot-berserk-restaurant-tableware
@@ -99,6 +102,7 @@ https://futurism.com/robots-and-machines/video-humanoid-robot-playing-tennis
 https://futurism.com/science-energy/data-centers-protests-electricity
 https://futurism.com/science-energy/engineer-twin-towers-lasers
 https://futurism.com/space/astronaut-mike-fincke-medical-evacuation-details
+https://futurism.com/space/elon-musks-orbital-data-centers-huge
 https://futurism.com/space/nasa-announces-moon-launches-base
 https://futurism.com/space/nasa-sending-nuclear-reactor-rocket-mars
 https://futurism.com/space/satellite-china-fuel-arm
@@ -134,6 +138,7 @@ https://news.crunchbase.com/venture/unicorn-legal-tech-ai-startup-legora-triples
 https://news.crunchbase.com/venture/world-model-ai-lab-ami-raises-europes-largest-seed-round/
 https://phys.org/news/2026-03-ai-agent-catalyst-discovery-sustainable.html
 https://phys.org/news/2026-03-ai-boost-productivity-maximizing-output.html
+https://phys.org/news/2026-03-ai-driven-framework-uncovers-carbon.html
 https://phys.org/news/2026-03-ai-gene-tool-precise-safer.html
 https://phys.org/news/2026-03-ai-higher-accuracy-current-methods.html
 https://phys.org/news/2026-03-ai-personality.html
@@ -145,6 +150,7 @@ https://phys.org/news/2026-03-ai-tool-wildfire-danger-faster.html
 https://phys.org/news/2026-03-analysis-million-interactions-employees-sophisticated.html
 https://phys.org/news/2026-03-atca-probe-peculiar-pulsar-nebula.html
 https://phys.org/news/2026-03-biosensor-early-fungal-outbreaks-advances.html
+https://phys.org/news/2026-03-college-students-ai-theyre-simply.html
 https://phys.org/news/2026-03-entanglement-quantum-scheme.html
 https://phys.org/news/2026-03-expert-opinion-ai-automation-future.html
 https://phys.org/news/2026-03-eyes-food-packaging-seagulls-chips.html
@@ -624,8 +630,10 @@ https://www.bloomberg.com/news/articles/2026-03-27/moon-bound-astronauts-arrive-
 https://www.bloomberg.com/news/articles/2026-03-27/oracle-s-credit-risk-measure-nears-record-high-on-ai-debt-fears
 https://www.bloomberg.com/news/articles/2026-03-27/quantum-firm-xanadu-jumps-after-rollercoaster-debut-trading
 https://www.bloomberg.com/news/articles/2026-03-27/spotify-co-founder-is-behind-body-scan-startup-competing-with-prenuvo
+https://www.bloomberg.com/news/articles/2026-03-28/ai-schism-grips-washington-as-tech-labor-vie-for-upper-hand
 https://www.bloomberg.com/news/articles/2026-03-28/anthropic-s-fight-with-us-military-over-future-of-autonomous-weapons
 https://www.bloomberg.com/news/articles/2026-03-28/goldman-s-new-adviser-rishi-sunak-urges-small-firms-to-adopt-ai
+https://www.bloomberg.com/news/articles/2026-03-28/sag-aftra-actors-union-bargaining-for-tilly-tax-on-ai-film-characters
 https://www.bloomberg.com/news/audio/2026-03-28/odd-lots-ai-and-the-future-of-autonomous-weapons-podcast
 https://www.bloomberg.com/news/features/2026-03-19/new-york-city-office-leases-rebound-as-ai-companies-move-in
 https://www.bloomberg.com/news/newsletters/2026-03-16/zoox-test-with-uber-in-las-vegas-pushes-the-definition-of-robotaxi
@@ -833,6 +841,7 @@ https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-a
 https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim
 https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features
 https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta
+https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure
 https://www.theverge.com/ai-artificial-intelligence/900425/google-lyria-3-pro-ai-music
 https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely
 https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history
@@ -911,6 +920,7 @@ https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-vira
 https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/
 https://www.zdnet.com/article/4-tips-for-building-better-ai-agents-business-can-count-on/
 https://www.zdnet.com/article/6-reasons-you-should-be-more-tight-lipped-with-your-chatbot/
+https://www.zdnet.com/article/best-amazon-spring-sale-2026-robot-vacuum-deals/
 https://www.zdnet.com/article/best-early-amazon-spring-sale-2026-robot-vacuum-deals/
 https://www.zdnet.com/article/caio-chief-ai-officer-alternative-director-of-ai-productivity/
 https://www.zdnet.com/article/chatgpt-voice-mode-tricks/
