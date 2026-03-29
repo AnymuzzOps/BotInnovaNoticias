@@ -86,6 +86,7 @@ https://futurism.com/artificial-intelligence/teens-ai-slander-videos-teachers
 https://futurism.com/artificial-intelligence/trump-ai-slop-model
 https://futurism.com/artificial-intelligence/trump-economy-recession-ai
 https://futurism.com/artificial-intelligence/washington-post-price-ai
+https://futurism.com/artificial-intelligence/wikipedia-editors-ban-ai-content
 https://futurism.com/artificial-intelligence/zuckerberg-training-an-ai-agent-ceo
 https://futurism.com/future-society/detroit-blockchain-realt-collapse
 https://futurism.com/future-society/meta-firing-percentage-staff-zuckerberg
@@ -166,6 +167,7 @@ https://phys.org/news/2026-03-generative-ai-polymer-lab-dielectric.html
 https://phys.org/news/2026-03-invisible-choreography-quantum-noise.html
 https://phys.org/news/2026-03-magnetic-microbots-quantum-sensors-cells.html
 https://phys.org/news/2026-03-microwave-quantum-network-resilience-disturbances.html
+https://phys.org/news/2026-03-million-spacex-satellites-destroy-night.html
 https://phys.org/news/2026-03-musk-twitter-takeover-highlights-danger.html
 https://phys.org/news/2026-03-nasa-artemis-ii-mission-astronaut.html
 https://phys.org/news/2026-03-nasa-artemis-missions-moon.html
@@ -173,12 +175,15 @@ https://phys.org/news/2026-03-nasa-experimental-technology-tsunami.html
 https://phys.org/news/2026-03-nasa-moon-rocket-pad-eyeing.html
 https://phys.org/news/2026-03-nasa-ray-mission-fresh-year.html
 https://phys.org/news/2026-03-physicists-electronic-agents-flat-band.html
+https://phys.org/news/2026-03-quadratic-gravity-theory-reshapes-quantum.html
 https://phys.org/news/2026-03-quantum-fundamental-limit.html
 https://phys.org/news/2026-03-revealing-polarity-inversion-polymer-semiconductors.html
 https://phys.org/news/2026-03-suddenly-couldnt-space-nasa-astronaut.html
 https://phys.org/news/2026-03-superconducting-chip-generates-tunable-terahertz.html
 https://phys.org/news/2026-03-teachers-students-ai-good.html
 https://phys.org/news/2026-03-team-ethical-methodological-generative-artificial.html
+https://phys.org/news/2026-03-universal-scheme-quantum-state.html
+https://phys.org/news/2026-03-whisker-movement-underwater-trails-approach.html
 https://roboticsandautomationnews.com/2026/03/13/abb-robotics-survey-shows-ev-confidence-as-production-shifts-from-disruption-to-delivery/99662/
 https://roboticsandautomationnews.com/2026/03/13/highres-and-opentrons-showcase-industrys-first-ai-agent-to-agent-lab-automation-workflow/99637/
 https://roboticsandautomationnews.com/2026/03/13/infineon-and-bmw-partner-to-shape-the-future-of-software-defined-vehicles-with-neue-klasse-range/99655/
@@ -433,6 +438,7 @@ https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-op
 https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/
 https://techcrunch.com/2026/03/28/from-moon-hotels-to-cattle-herding-8-startups-investors-chased-at-yc-demo-day/
 https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/
+https://techcrunch.com/2026/03/29/techcrunch-mobility-when-a-robotaxi-has-to-call-911/
 https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/
 https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/
 https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/
@@ -648,6 +654,7 @@ https://www.bloomberg.com/news/articles/2026-03-28/ai-schism-grips-washington-as
 https://www.bloomberg.com/news/articles/2026-03-28/anthropic-s-fight-with-us-military-over-future-of-autonomous-weapons
 https://www.bloomberg.com/news/articles/2026-03-28/goldman-s-new-adviser-rishi-sunak-urges-small-firms-to-adopt-ai
 https://www.bloomberg.com/news/articles/2026-03-28/sag-aftra-actors-union-bargaining-for-tilly-tax-on-ai-film-characters
+https://www.bloomberg.com/news/articles/2026-03-29/nasa-s-return-to-the-moon-is-100-billion-bet-on-agency-s-future
 https://www.bloomberg.com/news/audio/2026-03-28/odd-lots-ai-and-the-future-of-autonomous-weapons-podcast
 https://www.bloomberg.com/news/features/2026-03-19/new-york-city-office-leases-rebound-as-ai-companies-move-in
 https://www.bloomberg.com/news/newsletters/2026-03-16/zoox-test-with-uber-in-las-vegas-pushes-the-definition-of-robotaxi
@@ -702,6 +709,7 @@ https://www.bloomberg.com/news/videos/2026-03-27/calls-for-national-ai-regulatio
 https://www.bloomberg.com/news/videos/2026-03-27/fed-s-paulson-ai-gains-uncertain-war-creating-risks-video
 https://www.bloomberg.com/news/videos/2026-03-27/pony-ai-ceo-middle-east-market-remains-a-priority-video
 https://www.bloomberg.com/news/videos/2026-03-27/rasgon-memory-chips-having-mini-deepseek-moment-video
+https://www.bloomberg.com/news/videos/2026-03-29/the-ai-revolution-and-the-90s-internet-boom-video
 https://www.cnet.com/culture/entertainment/ai-set-to-create-val-kilmers-likeness-for-film-one-year-after-his-death/
 https://www.cnet.com/home/kitchen-and-household/dyson-launched-first-ever-robot-mop-vacuum-i-saw-it/
 https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/
@@ -710,10 +718,12 @@ https://www.cnet.com/news/ai-cooking-robots-have-flopped-will-the-nosh-one-be-an
 https://www.cnet.com/news/social-media/dancing-robot-california-hot-pot-restaurant/
 https://www.cnet.com/roadshow/news/zoox-expands-service-brings-robotaxi-to-two-new-cities/
 https://www.cnet.com/science/space/mars-spaceship-sr-1-freedom-nasa/
+https://www.cnet.com/science/space/nasa-artemis-ii-moon-mission-launch-itinerary/
 https://www.cnet.com/science/space/nasas-ignition-program-skips-lunar-orbiter-goes-straight-for-moon-base/
 https://www.cnet.com/tech/computing/elon-musk-25-billion-terafab-chip-building-project/
 https://www.cnet.com/tech/computing/four-different-futures-for-quantum-computing-converge-at-nvidia-gtc/
 https://www.cnet.com/tech/computing/which-m5-chip-do-you-need-macbook-pro-buying-guide/
+https://www.cnet.com/tech/computing/why-most-quantum-computers-need-to-be-colder-than-space/
 https://www.cnet.com/tech/computing/work-smarter-with-acers-new-ai-powered-swift-laptops/
 https://www.cnet.com/tech/first-lady-melania-trump-humanoid-robot-childrens-technology-educational-summit/
 https://www.cnet.com/tech/gaming/generative-ai-gaming-pushback/
@@ -869,6 +879,7 @@ https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoo
 https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview
 https://www.theverge.com/gadgets/900518/razers-new-blade-16-gaming-laptop-has-an-intel-panther-lake-chip-and-very-fast-ram
 https://www.theverge.com/gadgets/901792/best-robot-vacuum-mops-amazon-big-spring-sale-2026-deals
+https://www.theverge.com/gadgets/902829/birdbuddy-netvue-smart-bird-feeders-amazon-big-spring-sale-2026-deals
 https://www.theverge.com/games/894610/capcom-pragmata-ai-preview-interview
 https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles
 https://www.theverge.com/games/895396/playstation-pssr-upscaling-cyberpunk-2077-silent-hill
