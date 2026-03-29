@@ -266,6 +266,9 @@ https://roboticsandautomationnews.com/2026/03/27/from-standards-to-the-shop-floo
 https://roboticsandautomationnews.com/2026/03/27/heavy-equipment-manufacturers-are-using-robotics-to-change-crane-trucks/100187/
 https://roboticsandautomationnews.com/2026/03/27/how-structured-content-powers-ai-workflows-and-automation-in-2026/100130/
 https://roboticsandautomationnews.com/2026/03/27/where-drivers-still-beat-autonomous-systems-and-why-it-matters/100190/
+https://roboticsandautomationnews.com/2026/03/29/emerging-trends-in-robotics-and-ai-for-high-risk-industries-construction-oil-and-gas-and-mining/100200/
+https://roboticsandautomationnews.com/2026/03/29/how-to-improve-customer-retention-using-marketing-automation/100194/
+https://roboticsandautomationnews.com/2026/03/29/what-robotics-teams-really-need-from-a-3d-printing-partner/100197/
 https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/
 https://singularityhub.com/2026/03/09/hackers-are-automating-cyberattacks-with-ai-defenders-are-using-it-to-fight-back/
 https://singularityhub.com/2026/03/19/tech-companies-are-blaming-massive-layoffs-on-ai-whats-really-going-on/
@@ -793,6 +796,7 @@ https://www.marktechpost.com/2026/03/26/tencent-ai-open-sources-covo-audio-a-7b-
 https://www.marktechpost.com/2026/03/27/an-implementation-of-iwes-context-bridge-as-an-ai-powered-knowledge-graph-with-agentic-rag-openai-function-calling-and-graph-traversal/
 https://www.marktechpost.com/2026/03/27/nvidia-ai-unveils-prorl-agent-a-decoupled-rollout-as-a-service-infrastructure-for-reinforcement-learning-of-multi-turn-llm-agents-at-scale/
 https://www.marktechpost.com/2026/03/27/openjiuwen-community-releases-jiuwenclaw-a-self-evolving-ai-agent-for-task-management/
+https://www.marktechpost.com/2026/03/28/google-agent-vs-googlebot-google-defines-the-technical-boundary-between-user-triggered-ai-access-and-search-crawling-systems-today/
 https://www.marktechpost.com/2026/03/28/mistral-ai-releases-voxtral-tts-a-4b-open-weight-streaming-speech-model-for-low-latency-multilingual-voice-generation/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
