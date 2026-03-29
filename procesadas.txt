@@ -44,6 +44,7 @@ https://events.bizzabo.com/823847
 https://futurism.com/artificial-intelligence/ai-agent-job-could-be-replaced-by-ai
 https://futurism.com/artificial-intelligence/ai-agent-lobster-stunt
 https://futurism.com/artificial-intelligence/ai-ceo-grammarly-clone
+https://futurism.com/artificial-intelligence/ai-ceos-resign
 https://futurism.com/artificial-intelligence/ai-chatbot-social-offloading
 https://futurism.com/artificial-intelligence/ai-coding-error-debt
 https://futurism.com/artificial-intelligence/ai-data-center-security-guards-robot-dogs
@@ -73,6 +74,7 @@ https://futurism.com/artificial-intelligence/nvidia-ridiculed-yassify-video-game
 https://futurism.com/artificial-intelligence/nyc-bodegas-ai-slop
 https://futurism.com/artificial-intelligence/openai-cancels-spicy-chatbot
 https://futurism.com/artificial-intelligence/openai-cofounder-analysis-jobs-ai
+https://futurism.com/artificial-intelligence/openai-data-centers-trouble
 https://futurism.com/artificial-intelligence/openai-killing-sora-video-ai-slop
 https://futurism.com/artificial-intelligence/protestors-anthropic-ai
 https://futurism.com/artificial-intelligence/reaction-buzzfeed-new-ai-apps
@@ -90,6 +92,7 @@ https://futurism.com/future-society/meta-firing-percentage-staff-zuckerberg
 https://futurism.com/future-society/nvidia-ai-yassification-feature-giga-nostril
 https://futurism.com/future-society/terrified-nasa-potato
 https://futurism.com/health-medicine/mental-health-workers-ai-strike
+https://futurism.com/health-medicine/neuralink-patient-brain-chip-world-of-warcraft
 https://futurism.com/robots-and-machines/coco-delivery-robot-smash-bus-shelter
 https://futurism.com/robots-and-machines/delivery-robot-philadelphia
 https://futurism.com/robots-and-machines/delivery-robot-smashes-bus-station
@@ -140,6 +143,7 @@ https://news.crunchbase.com/venture/unicorn-legal-tech-ai-startup-legora-triples
 https://news.crunchbase.com/venture/world-model-ai-lab-ami-raises-europes-largest-seed-round/
 https://phys.org/news/2026-03-ai-agent-catalyst-discovery-sustainable.html
 https://phys.org/news/2026-03-ai-boost-productivity-maximizing-output.html
+https://phys.org/news/2026-03-ai-chatbots.html
 https://phys.org/news/2026-03-ai-driven-framework-uncovers-carbon.html
 https://phys.org/news/2026-03-ai-english-human-differ-artificial.html
 https://phys.org/news/2026-03-ai-gene-tool-precise-safer.html
@@ -656,6 +660,7 @@ https://www.bloomberg.com/news/newsletters/2026-03-25/ai-tools-are-upending-typi
 https://www.bloomberg.com/news/newsletters/2026-03-25/as-us-strikes-hit-iran-ai-warfare-is-debated-at-washington-forum
 https://www.bloomberg.com/news/newsletters/2026-03-26/openclaw-creator-says-us-can-learn-from-china-s-ai-adoption
 https://www.bloomberg.com/news/newsletters/2026-03-27/nvidia-arm-return-the-cpu-to-prominence-for-the-ai-age
+https://www.bloomberg.com/news/newsletters/2026-03-29/apple-doubles-down-on-hardware-services-with-revamped-ai-strategy-rare-bonuses-mnbpiwon
 https://www.bloomberg.com/news/videos/2026-03-14/rattner-cooling-jobs-market-tariffs-and-ai-video
 https://www.bloomberg.com/news/videos/2026-03-16/bloomberg-tech-3-16-2026-video
 https://www.bloomberg.com/news/videos/2026-03-16/china-s-ai-boom-risks-job-losses-regulatory-concerns-video
