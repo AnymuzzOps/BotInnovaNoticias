@@ -175,6 +175,7 @@ https://phys.org/news/2026-03-nasa-experimental-technology-tsunami.html
 https://phys.org/news/2026-03-nasa-moon-rocket-pad-eyeing.html
 https://phys.org/news/2026-03-nasa-ray-mission-fresh-year.html
 https://phys.org/news/2026-03-physicists-electronic-agents-flat-band.html
+https://phys.org/news/2026-03-protocol-reconstructs-quantum-states-large.html
 https://phys.org/news/2026-03-quadratic-gravity-theory-reshapes-quantum.html
 https://phys.org/news/2026-03-quantum-fundamental-limit.html
 https://phys.org/news/2026-03-revealing-polarity-inversion-polymer-semiconductors.html
@@ -494,6 +495,7 @@ https://venturebeat.com/technology/rethinking-aeo-when-software-agents-navigate-
 https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and
 https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are
 https://venturebeat.com/technology/three-ways-ai-is-learning-to-understand-the-physical-world
+https://venturebeat.com/technology/when-product-managers-ship-code-ai-just-broke-the-software-org-chart
 https://venturebeat.com/technology/xiaomi-stuns-with-new-mimo-v2-pro-llm-nearing-gpt-5-2-opus-4-6-performance
 https://venturebeat.com/technology/z-ai-debuts-faster-cheaper-glm-5-turbo-model-for-agents-and-claws-but-its
 https://www.bbc.com/news/articles/c070e283k8vo?at_medium=RSS&at_campaign=rss
@@ -813,6 +815,7 @@ https://www.marktechpost.com/2026/03/27/nvidia-ai-unveils-prorl-agent-a-decouple
 https://www.marktechpost.com/2026/03/27/openjiuwen-community-releases-jiuwenclaw-a-self-evolving-ai-agent-for-task-management/
 https://www.marktechpost.com/2026/03/28/google-agent-vs-googlebot-google-defines-the-technical-boundary-between-user-triggered-ai-access-and-search-crawling-systems-today/
 https://www.marktechpost.com/2026/03/28/mistral-ai-releases-voxtral-tts-a-4b-open-weight-streaming-speech-model-for-low-latency-multilingual-voice-generation/
+https://www.marktechpost.com/2026/03/29/meet-a-evolve-the-pytorch-moment-for-agentic-ai-systems-replacing-manual-tuning-with-automated-state-mutation-and-self-correction/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
 https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html
