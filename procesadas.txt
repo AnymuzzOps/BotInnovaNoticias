@@ -25,6 +25,7 @@ https://arstechnica.com/science/2026/03/study-sycophantic-ai-can-undermine-human
 https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/
 https://arstechnica.com/space/2026/03/a-mission-nasa-might-kill-is-still-returning-fascinating-science-from-jupiter/
 https://arstechnica.com/space/2026/03/a-unique-nasa-satellite-is-falling-out-of-orbit-this-team-is-trying-to-rescue-it/
+https://arstechnica.com/space/2026/03/after-16-years-and-8-billion-the-militarys-new-gps-software-still-doesnt-work/
 https://arstechnica.com/space/2026/03/flying-to-the-moon-for-the-first-time-in-54-years-is-risky-but-how-risky/
 https://arstechnica.com/space/2026/03/here-is-nasas-plan-for-nuking-gateway-and-sending-it-to-mars/
 https://arstechnica.com/space/2026/03/jeff-bezos-throws-his-hat-in-the-ring-for-an-orbital-data-center-megaconstellation-too/
@@ -36,6 +37,7 @@ https://arstechnica.com/space/2026/03/we-got-an-audience-with-the-lunar-viceroy-
 https://arstechnica.com/space/2026/03/what-happens-next-with-nasas-plan-to-replace-the-iss-source-it-could-get-ugly/
 https://arstechnica.com/tech-policy/2026/03/cloudflare-appeals-piracy-shield-fine-hopes-to-kill-italys-site-blocking-law/
 https://arstechnica.com/tech-policy/2026/03/elon-musks-xai-sued-for-turning-three-girls-real-photos-into-ai-csam/
+https://arstechnica.com/tech-policy/2026/03/meta-hopes-scotus-piracy-ruling-will-help-it-beat-lawsuit-over-torrenting-ai-data/
 https://arstechnica.com/tech-policy/2026/03/senators-want-us-energy-information-agency-to-monitor-data-center-electricity-usage/
 https://arstechnica.com/tech-policy/2026/03/trump-made-opposing-government-spying-cool-again-effs-departing-chief-says/
 https://content.knowledgehub.wiley.com/engineering-challenges-and-component-strategies-in-humanoid-robotics-from-prototype-to-production/
@@ -54,6 +56,7 @@ https://futurism.com/artificial-intelligence/ai-lawsuits-chaos-courts-lawyers
 https://futurism.com/artificial-intelligence/ai-military-civil-liberty
 https://futurism.com/artificial-intelligence/analysis-new-york-times-ai-articles
 https://futurism.com/artificial-intelligence/atlassian-ai-layoffs
+https://futurism.com/artificial-intelligence/bluesky-users-disgust-new-ai
 https://futurism.com/artificial-intelligence/ceo-ai-gen-z-unemployment
 https://futurism.com/artificial-intelligence/ceo-hire-anyone-vibe-code
 https://futurism.com/artificial-intelligence/cooking-actual-ai-generated-recipes
@@ -76,6 +79,7 @@ https://futurism.com/artificial-intelligence/openai-cancels-spicy-chatbot
 https://futurism.com/artificial-intelligence/openai-cofounder-analysis-jobs-ai
 https://futurism.com/artificial-intelligence/openai-data-centers-trouble
 https://futurism.com/artificial-intelligence/openai-killing-sora-video-ai-slop
+https://futurism.com/artificial-intelligence/paper-ai-chatbots-chatgpt-claude-sycophantic
 https://futurism.com/artificial-intelligence/protestors-anthropic-ai
 https://futurism.com/artificial-intelligence/reaction-buzzfeed-new-ai-apps
 https://futurism.com/artificial-intelligence/rogue-ai-agent-triggers-emergency-at-meta
@@ -450,12 +454,15 @@ https://techcrunch.com/2026/03/28/from-moon-hotels-to-cattle-herding-8-startups-
 https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/
 https://techcrunch.com/2026/03/29/techcrunch-mobility-when-a-robotaxi-has-to-call-911/
 https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/
+https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/
+https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/
 https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/
 https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/
 https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/
 https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/
 https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/
 https://techcrunch.com/2026/03/30/uber-is-buying-berlin-startup-blacklane-to-bolster-its-elite-offering/
+https://techcrunch.com/2026/03/30/what-were-looking-for-in-startup-battlefield-2026-and-how-to-put-your-best-application-forward/
 https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/
 https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/
 https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/
@@ -681,6 +688,7 @@ https://www.bloomberg.com/news/articles/2026-03-30/goldman-cio-marco-argenti-on-
 https://www.bloomberg.com/news/articles/2026-03-30/inside-the-odd-and-oddly-human-work-of-teaching-ai-to-talk
 https://www.bloomberg.com/news/articles/2026-03-30/jx-metals-plans-to-expand-investment-as-chip-demand-surges
 https://www.bloomberg.com/news/articles/2026-03-30/meta-s-310-billion-tailspin-sparks-tobacco-moment-questions
+https://www.bloomberg.com/news/articles/2026-03-30/more-than-half-of-us-says-ai-likely-to-harm-them-poll-finds
 https://www.bloomberg.com/news/articles/2026-03-30/robot-maker-inovance-said-to-hire-banks-for-up-to-2-billion-hong-kong-listing
 https://www.bloomberg.com/news/audio/2026-03-28/odd-lots-ai-and-the-future-of-autonomous-weapons-podcast
 https://www.bloomberg.com/news/audio/2026-03-30/odd-lots-goldman-sachs-cio-marco-argenti-on-the-improvements-in-ai
@@ -739,6 +747,7 @@ https://www.bloomberg.com/news/videos/2026-03-27/fed-s-paulson-ai-gains-uncertai
 https://www.bloomberg.com/news/videos/2026-03-27/pony-ai-ceo-middle-east-market-remains-a-priority-video
 https://www.bloomberg.com/news/videos/2026-03-27/rasgon-memory-chips-having-mini-deepseek-moment-video
 https://www.bloomberg.com/news/videos/2026-03-29/the-ai-revolution-and-the-90s-internet-boom-video
+https://www.bloomberg.com/news/videos/2026-03-30/dan-niles-nowhere-near-the-bottom-in-software-video
 https://www.bloomberg.com/news/videos/2026-03-30/ex-openai-s-kass-ai-is-going-to-make-a-lot-of-winners-video
 https://www.bloomberg.com/news/videos/2026-03-30/forterro-ceo-ai-driven-fears-an-overreaction-video
 https://www.bloomberg.com/news/videos/2026-03-30/goldman-cio-on-the-warp-speed-improvements-in-ai-video
@@ -1019,4 +1028,5 @@ https://www.zdnet.com/article/security-leaders-not-ready-for-ai-attacks-4-action
 https://www.zdnet.com/article/segway-navimow-x3-series-robot-mower-review/
 https://www.zdnet.com/article/snowflake-it-executive-survey-ai-job-loss-and-gains/
 https://www.zdnet.com/article/state-ai-safety-laws-california-new-york/
+https://www.zdnet.com/article/what-googles-turboquant-can-and-cant-do-for-ais-spiraling-cost/
 https://www.zdnet.com/article/what-is-antivirus/
