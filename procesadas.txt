@@ -507,6 +507,7 @@ https://www.bbc.com/news/articles/c5y8d721q18o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5y9d44jj24o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c74721xyd1wo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c7474004g01o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cdxg15eyv5ko?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj0d6el50ppo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/clyg4wx6nxgo?at_medium=RSS&at_campaign=rss
@@ -657,6 +658,7 @@ https://www.bloomberg.com/news/articles/2026-03-28/anthropic-s-fight-with-us-mil
 https://www.bloomberg.com/news/articles/2026-03-28/goldman-s-new-adviser-rishi-sunak-urges-small-firms-to-adopt-ai
 https://www.bloomberg.com/news/articles/2026-03-28/sag-aftra-actors-union-bargaining-for-tilly-tax-on-ai-film-characters
 https://www.bloomberg.com/news/articles/2026-03-29/nasa-s-return-to-the-moon-is-100-billion-bet-on-agency-s-future
+https://www.bloomberg.com/news/articles/2026-03-30/jx-metals-plans-to-expand-investment-as-chip-demand-surges
 https://www.bloomberg.com/news/audio/2026-03-28/odd-lots-ai-and-the-future-of-autonomous-weapons-podcast
 https://www.bloomberg.com/news/features/2026-03-19/new-york-city-office-leases-rebound-as-ai-companies-move-in
 https://www.bloomberg.com/news/newsletters/2026-03-16/zoox-test-with-uber-in-las-vegas-pushes-the-definition-of-robotaxi
@@ -815,6 +817,8 @@ https://www.marktechpost.com/2026/03/27/nvidia-ai-unveils-prorl-agent-a-decouple
 https://www.marktechpost.com/2026/03/27/openjiuwen-community-releases-jiuwenclaw-a-self-evolving-ai-agent-for-task-management/
 https://www.marktechpost.com/2026/03/28/google-agent-vs-googlebot-google-defines-the-technical-boundary-between-user-triggered-ai-access-and-search-crawling-systems-today/
 https://www.marktechpost.com/2026/03/28/mistral-ai-releases-voxtral-tts-a-4b-open-weight-streaming-speech-model-for-low-latency-multilingual-voice-generation/
+https://www.marktechpost.com/2026/03/29/agent-infra-releases-aio-sandbox-an-all-in-one-runtime-for-ai-agents-with-browser-shell-shared-filesystem-and-mcp/
+https://www.marktechpost.com/2026/03/29/how-to-build-advanced-cybersecurity-ai-agents-with-cai-using-tools-guardrails-handoffs-and-multi-agent-workflows/
 https://www.marktechpost.com/2026/03/29/meet-a-evolve-the-pytorch-moment-for-agentic-ai-systems-replacing-manual-tuning-with-automated-state-mutation-and-self-correction/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
@@ -876,6 +880,7 @@ https://www.theverge.com/ai-artificial-intelligence/900425/google-lyria-3-pro-ai
 https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely
 https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history
 https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy
+https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds
 https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses
 https://www.theverge.com/entertainment/895435/oeuf-review
 https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing
