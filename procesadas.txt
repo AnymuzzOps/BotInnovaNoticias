@@ -156,9 +156,11 @@ https://phys.org/news/2026-03-ai-social-entrepreneurs-sources.html
 https://phys.org/news/2026-03-ai-tool-screen-unknown-bacteria.html
 https://phys.org/news/2026-03-ai-tool-wildfire-danger-faster.html
 https://phys.org/news/2026-03-analysis-million-interactions-employees-sophisticated.html
+https://phys.org/news/2026-03-apollo-artemis-nasa-moon.html
 https://phys.org/news/2026-03-atca-probe-peculiar-pulsar-nebula.html
 https://phys.org/news/2026-03-biosensor-early-fungal-outbreaks-advances.html
 https://phys.org/news/2026-03-college-students-ai-theyre-simply.html
+https://phys.org/news/2026-03-dog-chatgpt-australia-ai-vaccine.html
 https://phys.org/news/2026-03-entanglement-quantum-scheme.html
 https://phys.org/news/2026-03-expert-opinion-ai-automation-future.html
 https://phys.org/news/2026-03-eyes-food-packaging-seagulls-chips.html
@@ -279,6 +281,7 @@ https://roboticsandautomationnews.com/2026/03/27/where-drivers-still-beat-autono
 https://roboticsandautomationnews.com/2026/03/29/emerging-trends-in-robotics-and-ai-for-high-risk-industries-construction-oil-and-gas-and-mining/100200/
 https://roboticsandautomationnews.com/2026/03/29/how-to-improve-customer-retention-using-marketing-automation/100194/
 https://roboticsandautomationnews.com/2026/03/29/what-robotics-teams-really-need-from-a-3d-printing-partner/100197/
+https://roboticsandautomationnews.com/2026/03/30/positronic-robotics-launches-phail-benchmark-to-test-real-world-performance-of-physical-ai-systems/100214/
 https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/
 https://singularityhub.com/2026/03/09/hackers-are-automating-cyberattacks-with-ai-defenders-are-using-it-to-fight-back/
 https://singularityhub.com/2026/03/19/tech-companies-are-blaming-massive-layoffs-on-ai-whats-really-going-on/
@@ -658,9 +661,12 @@ https://www.bloomberg.com/news/articles/2026-03-28/anthropic-s-fight-with-us-mil
 https://www.bloomberg.com/news/articles/2026-03-28/goldman-s-new-adviser-rishi-sunak-urges-small-firms-to-adopt-ai
 https://www.bloomberg.com/news/articles/2026-03-28/sag-aftra-actors-union-bargaining-for-tilly-tax-on-ai-film-characters
 https://www.bloomberg.com/news/articles/2026-03-29/nasa-s-return-to-the-moon-is-100-billion-bet-on-agency-s-future
+https://www.bloomberg.com/news/articles/2026-03-30/european-bank-stocks-to-snap-record-quarterly-run-on-iran-ai
+https://www.bloomberg.com/news/articles/2026-03-30/goldman-cio-marco-argenti-on-changes-in-corporate-ai-use
 https://www.bloomberg.com/news/articles/2026-03-30/jx-metals-plans-to-expand-investment-as-chip-demand-surges
 https://www.bloomberg.com/news/articles/2026-03-30/robot-maker-inovance-said-to-hire-banks-for-up-to-2-billion-hong-kong-listing
 https://www.bloomberg.com/news/audio/2026-03-28/odd-lots-ai-and-the-future-of-autonomous-weapons-podcast
+https://www.bloomberg.com/news/audio/2026-03-30/odd-lots-goldman-sachs-cio-marco-argenti-on-the-improvements-in-ai
 https://www.bloomberg.com/news/features/2026-03-19/new-york-city-office-leases-rebound-as-ai-companies-move-in
 https://www.bloomberg.com/news/newsletters/2026-03-16/zoox-test-with-uber-in-las-vegas-pushes-the-definition-of-robotaxi
 https://www.bloomberg.com/news/newsletters/2026-03-17/alibaba-ai-targets-early-detection-of-widespread-liver-disease
@@ -716,6 +722,7 @@ https://www.bloomberg.com/news/videos/2026-03-27/pony-ai-ceo-middle-east-market-
 https://www.bloomberg.com/news/videos/2026-03-27/rasgon-memory-chips-having-mini-deepseek-moment-video
 https://www.bloomberg.com/news/videos/2026-03-29/the-ai-revolution-and-the-90s-internet-boom-video
 https://www.bloomberg.com/news/videos/2026-03-30/ex-openai-s-kass-ai-is-going-to-make-a-lot-of-winners-video
+https://www.bloomberg.com/news/videos/2026-03-30/warp-speed-improvements-in-ai-video
 https://www.cnet.com/culture/entertainment/ai-set-to-create-val-kilmers-likeness-for-film-one-year-after-his-death/
 https://www.cnet.com/home/kitchen-and-household/dyson-launched-first-ever-robot-mop-vacuum-i-saw-it/
 https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/
