@@ -164,10 +164,12 @@ https://phys.org/news/2026-03-dog-chatgpt-australia-ai-vaccine.html
 https://phys.org/news/2026-03-entanglement-quantum-scheme.html
 https://phys.org/news/2026-03-expert-opinion-ai-automation-future.html
 https://phys.org/news/2026-03-eyes-food-packaging-seagulls-chips.html
+https://phys.org/news/2026-03-framework-classical-quantum-mpemba-effects.html
 https://phys.org/news/2026-03-future-quantum.html
 https://phys.org/news/2026-03-generative-ai-polymer-lab-dielectric.html
 https://phys.org/news/2026-03-invisible-choreography-quantum-noise.html
 https://phys.org/news/2026-03-magnetic-microbots-quantum-sensors-cells.html
+https://phys.org/news/2026-03-masterpiece-laser-scans-ai-layers.html
 https://phys.org/news/2026-03-microwave-quantum-network-resilience-disturbances.html
 https://phys.org/news/2026-03-million-spacex-satellites-destroy-night.html
 https://phys.org/news/2026-03-musk-twitter-takeover-highlights-danger.html
@@ -181,6 +183,7 @@ https://phys.org/news/2026-03-protocol-reconstructs-quantum-states-large.html
 https://phys.org/news/2026-03-quadratic-gravity-theory-reshapes-quantum.html
 https://phys.org/news/2026-03-quantum-fundamental-limit.html
 https://phys.org/news/2026-03-revealing-polarity-inversion-polymer-semiconductors.html
+https://phys.org/news/2026-03-silicon-quantum-logical.html
 https://phys.org/news/2026-03-suddenly-couldnt-space-nasa-astronaut.html
 https://phys.org/news/2026-03-superconducting-chip-generates-tunable-terahertz.html
 https://phys.org/news/2026-03-teachers-students-ai-good.html
@@ -446,8 +449,13 @@ https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-bu
 https://techcrunch.com/2026/03/28/from-moon-hotels-to-cattle-herding-8-startups-investors-chased-at-yc-demo-day/
 https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/
 https://techcrunch.com/2026/03/29/techcrunch-mobility-when-a-robotaxi-has-to-call-911/
+https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/
+https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/
+https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/
 https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/
+https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/
 https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/
+https://techcrunch.com/2026/03/30/uber-is-buying-berlin-startup-blacklane-to-bolster-its-elite-offering/
 https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/
 https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/
 https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/
@@ -666,6 +674,8 @@ https://www.bloomberg.com/news/articles/2026-03-28/anthropic-s-fight-with-us-mil
 https://www.bloomberg.com/news/articles/2026-03-28/goldman-s-new-adviser-rishi-sunak-urges-small-firms-to-adopt-ai
 https://www.bloomberg.com/news/articles/2026-03-28/sag-aftra-actors-union-bargaining-for-tilly-tax-on-ai-film-characters
 https://www.bloomberg.com/news/articles/2026-03-29/nasa-s-return-to-the-moon-is-100-billion-bet-on-agency-s-future
+https://www.bloomberg.com/news/articles/2026-03-30/ai-startup-mistral-raises-830-million-in-data-center-debt-rush
+https://www.bloomberg.com/news/articles/2026-03-30/biren-tech-s-revenue-triples-on-china-s-demand-for-ai-chips
 https://www.bloomberg.com/news/articles/2026-03-30/european-bank-stocks-to-snap-record-quarterly-run-on-iran-ai
 https://www.bloomberg.com/news/articles/2026-03-30/goldman-cio-marco-argenti-on-changes-in-corporate-ai-use
 https://www.bloomberg.com/news/articles/2026-03-30/inside-the-odd-and-oddly-human-work-of-teaching-ai-to-talk
@@ -731,6 +741,7 @@ https://www.bloomberg.com/news/videos/2026-03-27/rasgon-memory-chips-having-mini
 https://www.bloomberg.com/news/videos/2026-03-29/the-ai-revolution-and-the-90s-internet-boom-video
 https://www.bloomberg.com/news/videos/2026-03-30/ex-openai-s-kass-ai-is-going-to-make-a-lot-of-winners-video
 https://www.bloomberg.com/news/videos/2026-03-30/forterro-ceo-ai-driven-fears-an-overreaction-video
+https://www.bloomberg.com/news/videos/2026-03-30/goldman-cio-on-the-warp-speed-improvements-in-ai-video
 https://www.bloomberg.com/news/videos/2026-03-30/warp-speed-improvements-in-ai-video
 https://www.cnet.com/culture/entertainment/ai-set-to-create-val-kilmers-likeness-for-film-one-year-after-his-death/
 https://www.cnet.com/home/kitchen-and-household/dyson-launched-first-ever-robot-mop-vacuum-i-saw-it/
@@ -753,6 +764,7 @@ https://www.cnet.com/tech/gaming/nvidia-teases-dlss-5-gamers-arent-impressed/
 https://www.cnet.com/tech/mobile/amazon-plans-alexa-focused-transformer-phone/
 https://www.cnet.com/tech/mobile/ankers-upcoming-liberty-5-pro-max-buds-will-have-an-ai-voice-recorder-in-charging-case/
 https://www.cnet.com/tech/mobile/apple-airpods-max-2-headphones-are-available-march-25-powered-by-h2-chip/
+https://www.cnet.com/tech/services-and-software/ai-agents-are-getting-more-and-more-devious-study-finds/
 https://www.cnet.com/tech/services-and-software/ai-art-games-creativity-chaos-sxsw-2026/
 https://www.cnet.com/tech/services-and-software/ai-relationship-advice-harmful-science-sycophancy-study-news/
 https://www.cnet.com/tech/services-and-software/ai-toys-for-toddlers-study/
@@ -884,6 +896,7 @@ https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change
 https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/
 https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/
 https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/
+https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/
 https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data
 https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk
 https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence
@@ -922,6 +935,7 @@ https://www.theverge.com/news/895963/microsoft-copilot-leadership-changes-consum
 https://www.theverge.com/news/898283/future-sony-playstation-games-will-use-ai-to-imagine-new-frames
 https://www.theverge.com/podcast/897900/ai-trust-gap-killer-app-vergecast
 https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation
+https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity
 https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran
 https://www.theverge.com/policy/900341/senator-schiff-anthropic-autonomous-weapons-mass-surveillance
 https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers
