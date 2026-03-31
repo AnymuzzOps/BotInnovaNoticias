@@ -138,6 +138,7 @@ https://news.crunchbase.com/venture/biggest-funding-rounds-ai-robotics-ecommerce
 https://news.crunchbase.com/venture/biggest-funding-rounds-security-ai-cloaked-frore/
 https://news.crunchbase.com/venture/building-startup-reputation-trust-vcs-sabitova-cloee/
 https://news.crunchbase.com/venture/construction-tech-automation-trayd-ai-seriesa/
+https://news.crunchbase.com/venture/data-largest-seed-rounds-ai-startups/
 https://news.crunchbase.com/venture/founder-first-investing-ai-khosla-choi/
 https://news.crunchbase.com/venture/hype-outcomes-vcs-recalibrate-agentic-ai-kapre-snowflake/
 https://news.crunchbase.com/venture/interesting-startup-deals-robots-ai-agent-inboxes-defense-space-tech/
@@ -301,6 +302,8 @@ https://roboticsandautomationnews.com/2026/03/30/nature-robots-secures-e4-millio
 https://roboticsandautomationnews.com/2026/03/30/positronic-robotics-launches-phail-benchmark-to-test-real-world-performance-of-physical-ai-systems/100214/
 https://roboticsandautomationnews.com/2026/03/30/the-strategic-value-of-legacy-components-in-automation-2/100244/
 https://roboticsandautomationnews.com/2026/03/31/from-glass-to-metal-japanese-scientists-invent-new-vision-system-that-enables-robots-reliably-grasp-hard-to-see-objects/100253/
+https://roboticsandautomationnews.com/2026/03/31/unitree-robotics-files-for-610-million-ipo-as-humanoid-robot-sales-surge/100272/
+https://roboticsandautomationnews.com/2026/03/31/why-chinas-new-humanoid-robot-standards-could-change-the-industry/100263/
 https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/
 https://singularityhub.com/2026/03/09/hackers-are-automating-cyberattacks-with-ai-defenders-are-using-it-to-fight-back/
 https://singularityhub.com/2026/03/19/tech-companies-are-blaming-massive-layoffs-on-ai-whats-really-going-on/
@@ -490,6 +493,7 @@ https://venturebeat.com/infrastructure/googles-new-turboquant-algorithm-speeds-u
 https://venturebeat.com/infrastructure/liquid-cooled-ai-systems-expose-the-limits-of-traditional-storage
 https://venturebeat.com/infrastructure/mistral-ai-launches-forge-to-help-companies-build-proprietary-ai-models
 https://venturebeat.com/infrastructure/nanoclaw-and-docker-partner-to-make-sandboxes-the-safest-way-for-enterprises
+https://venturebeat.com/infrastructure/nvidia-backed-thinklabs-ai-raises-usd28-million-to-tackle-a-growing-power
 https://venturebeat.com/infrastructure/nvidia-introduces-vera-rubin-a-seven-chip-ai-platform-with-openai-anthropic
 https://venturebeat.com/infrastructure/nvidias-dgx-station-is-a-desktop-supercomputer-that-runs-trillion-parameter
 https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud
@@ -530,6 +534,7 @@ https://venturebeat.com/technology/open-source-mamba-3-arrives-to-surpass-transf
 https://venturebeat.com/technology/openai-is-shutting-down-sora-its-powerful-ai-video-app
 https://venturebeat.com/technology/rethinking-aeo-when-software-agents-navigate-the-web-on-behalf-of-users
 https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and
+https://venturebeat.com/technology/softr-launches-ai-native-platform-to-help-nontechnical-teams-build-business
 https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are
 https://venturebeat.com/technology/three-ways-ai-is-learning-to-understand-the-physical-world
 https://venturebeat.com/technology/when-product-managers-ship-code-ai-just-broke-the-software-org-chart
@@ -705,11 +710,17 @@ https://www.bloomberg.com/news/articles/2026-03-30/meta-s-310-billion-tailspin-s
 https://www.bloomberg.com/news/articles/2026-03-30/more-than-half-of-us-says-ai-likely-to-harm-them-poll-finds
 https://www.bloomberg.com/news/articles/2026-03-30/robot-maker-inovance-said-to-hire-banks-for-up-to-2-billion-hong-kong-listing
 https://www.bloomberg.com/news/articles/2026-03-30/trump-ai-agenda-backers-plan-100-million-midterm-effort
+https://www.bloomberg.com/news/articles/2026-03-31/a-tribal-group-in-california-vies-for-a-piece-of-the-ai-boom
 https://www.bloomberg.com/news/articles/2026-03-31/activist-palliser-targets-msg-maker-ajinomoto-in-ai-value-hunt
 https://www.bloomberg.com/news/articles/2026-03-31/china-s-top-private-insurer-taps-ai-to-unlock-174-billion-value
+https://www.bloomberg.com/news/articles/2026-03-31/coreweave-crwv-raises-8-5-billion-gpu-loan-backed-by-meta-deal
 https://www.bloomberg.com/news/articles/2026-03-31/equinix-plans-more-south-african-data-centers-as-local-ai-booms
+https://www.bloomberg.com/news/articles/2026-03-31/google-partner-tenex-raises-250-million-for-ai-security-tools
 https://www.bloomberg.com/news/articles/2026-03-31/high-flying-chip-stocks-bear-brunt-of-iran-war-risk-off-trade
+https://www.bloomberg.com/news/articles/2026-03-31/huawei-growth-stalls-after-apple-comeback-offsets-china-ai-push
 https://www.bloomberg.com/news/articles/2026-03-31/japan-s-mitsubishi-smbc-pile-into-novastar-147-milllion-venture-capital-fund
+https://www.bloomberg.com/news/articles/2026-03-31/microsoft-business-software-ecosystem-faces-uk-competition-probe
+https://www.bloomberg.com/news/articles/2026-03-31/nvidia-invests-2-billion-in-marvell-announces-partnership
 https://www.bloomberg.com/news/audio/2026-03-28/odd-lots-ai-and-the-future-of-autonomous-weapons-podcast
 https://www.bloomberg.com/news/audio/2026-03-30/odd-lots-goldman-sachs-cio-marco-argenti-on-the-improvements-in-ai
 https://www.bloomberg.com/news/features/2026-03-19/new-york-city-office-leases-rebound-as-ai-companies-move-in
@@ -928,6 +939,8 @@ https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses
 https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/
 https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/
 https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/
+https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/
+https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/
 https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data
 https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk
 https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence
@@ -1005,6 +1018,7 @@ https://www.wired.com/story/europe-squeeze-power-energy-grid-ai-data-center/
 https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/
 https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/
 https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/
+https://www.wired.com/story/how-to-back-up-your-digital-life/
 https://www.wired.com/story/how-to-backup-your-iphone/
 https://www.wired.com/story/i-tried-doordashs-tasks-app-and-saw-the-bleak-future-of-ai-gig-work/
 https://www.wired.com/story/irestore-deals-amazon-spring-sale-2026/
