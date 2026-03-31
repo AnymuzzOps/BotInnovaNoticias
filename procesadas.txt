@@ -182,11 +182,15 @@ https://phys.org/news/2026-03-nasa-artemis-missions-moon.html
 https://phys.org/news/2026-03-nasa-experimental-technology-tsunami.html
 https://phys.org/news/2026-03-nasa-moon-rocket-pad-eyeing.html
 https://phys.org/news/2026-03-nasa-ray-mission-fresh-year.html
+https://phys.org/news/2026-03-panicking-scientists-canceled-federal-funding.html
 https://phys.org/news/2026-03-physicists-electronic-agents-flat-band.html
+https://phys.org/news/2026-03-prairie-watersheds-unpredictable-ai.html
 https://phys.org/news/2026-03-protocol-reconstructs-quantum-states-large.html
 https://phys.org/news/2026-03-quadratic-gravity-theory-reshapes-quantum.html
 https://phys.org/news/2026-03-quantum-fundamental-limit.html
+https://phys.org/news/2026-03-quantum-microscope-reveals-electron-interactions.html
 https://phys.org/news/2026-03-revealing-polarity-inversion-polymer-semiconductors.html
+https://phys.org/news/2026-03-shield-safety-stakes-nasa-artemis.html
 https://phys.org/news/2026-03-silicon-quantum-logical.html
 https://phys.org/news/2026-03-suddenly-couldnt-space-nasa-astronaut.html
 https://phys.org/news/2026-03-superconducting-chip-generates-tunable-terahertz.html
@@ -289,9 +293,11 @@ https://roboticsandautomationnews.com/2026/03/29/emerging-trends-in-robotics-and
 https://roboticsandautomationnews.com/2026/03/29/how-to-improve-customer-retention-using-marketing-automation/100194/
 https://roboticsandautomationnews.com/2026/03/29/what-robotics-teams-really-need-from-a-3d-printing-partner/100197/
 https://roboticsandautomationnews.com/2026/03/30/agibot-reaches-10000-humanoid-units-built-as-real-world-demand-for-robots-accelerates/100218/
+https://roboticsandautomationnews.com/2026/03/30/energy-efficient-robotics-designing-greener-automation-systems-for-a-power-constrained-future/100240/
 https://roboticsandautomationnews.com/2026/03/30/measuring-roi-from-intranet-investments-as-organizations-scale-advanced-automation/100224/
 https://roboticsandautomationnews.com/2026/03/30/nature-robots-secures-e4-million-seed-funding-to-scale-software-for-autonomous-farming/100221/
 https://roboticsandautomationnews.com/2026/03/30/positronic-robotics-launches-phail-benchmark-to-test-real-world-performance-of-physical-ai-systems/100214/
+https://roboticsandautomationnews.com/2026/03/30/the-strategic-value-of-legacy-components-in-automation-2/100244/
 https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/
 https://singularityhub.com/2026/03/09/hackers-are-automating-cyberattacks-with-ai-defenders-are-using-it-to-fight-back/
 https://singularityhub.com/2026/03/19/tech-companies-are-blaming-massive-layoffs-on-ai-whats-really-going-on/
@@ -455,9 +461,12 @@ https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-c
 https://techcrunch.com/2026/03/29/techcrunch-mobility-when-a-robotaxi-has-to-call-911/
 https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/
 https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/
+https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/
 https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/
+https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/
 https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/
 https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/
+https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/
 https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/
 https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/
 https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/
@@ -507,6 +516,7 @@ https://venturebeat.com/technology/indexcache-a-new-sparse-attention-optimizer-d
 https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6
 https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai
 https://venturebeat.com/technology/luma-ai-launches-uni-1-a-model-that-outscores-google-and-openai-while
+https://venturebeat.com/technology/midjourney-engineer-debuts-new-vibe-coded-open-source-standard-pretext-to
 https://venturebeat.com/technology/new-minimax-m2-7-proprietary-ai-model-is-self-evolving-and-can-perform-30-50
 https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in
 https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among
@@ -690,6 +700,10 @@ https://www.bloomberg.com/news/articles/2026-03-30/jx-metals-plans-to-expand-inv
 https://www.bloomberg.com/news/articles/2026-03-30/meta-s-310-billion-tailspin-sparks-tobacco-moment-questions
 https://www.bloomberg.com/news/articles/2026-03-30/more-than-half-of-us-says-ai-likely-to-harm-them-poll-finds
 https://www.bloomberg.com/news/articles/2026-03-30/robot-maker-inovance-said-to-hire-banks-for-up-to-2-billion-hong-kong-listing
+https://www.bloomberg.com/news/articles/2026-03-30/trump-ai-agenda-backers-plan-100-million-midterm-effort
+https://www.bloomberg.com/news/articles/2026-03-31/activist-palliser-targets-msg-maker-ajinomoto-in-ai-value-hunt
+https://www.bloomberg.com/news/articles/2026-03-31/china-s-top-private-insurer-taps-ai-to-unlock-174-billion-value
+https://www.bloomberg.com/news/articles/2026-03-31/high-flying-chip-stocks-bear-brunt-of-iran-war-risk-off-trade
 https://www.bloomberg.com/news/audio/2026-03-28/odd-lots-ai-and-the-future-of-autonomous-weapons-podcast
 https://www.bloomberg.com/news/audio/2026-03-30/odd-lots-goldman-sachs-cio-marco-argenti-on-the-improvements-in-ai
 https://www.bloomberg.com/news/features/2026-03-19/new-york-city-office-leases-rebound-as-ai-companies-move-in
@@ -860,6 +874,7 @@ https://www.marktechpost.com/2026/03/28/mistral-ai-releases-voxtral-tts-a-4b-ope
 https://www.marktechpost.com/2026/03/29/agent-infra-releases-aio-sandbox-an-all-in-one-runtime-for-ai-agents-with-browser-shell-shared-filesystem-and-mcp/
 https://www.marktechpost.com/2026/03/29/how-to-build-advanced-cybersecurity-ai-agents-with-cai-using-tools-guardrails-handoffs-and-multi-agent-workflows/
 https://www.marktechpost.com/2026/03/29/meet-a-evolve-the-pytorch-moment-for-agentic-ai-systems-replacing-manual-tuning-with-automated-state-mutation-and-self-correction/
+https://www.marktechpost.com/2026/03/30/microsoft-ai-releases-harrier-oss-v1-a-new-family-of-multilingual-embedding-models-hitting-sota-on-multilingual-mteb-v2/
 https://www.marktechpost.com/2026/03/30/salesforce-ai-research-releases-voiceagentrag-a-dual-agent-memory-router-that-cuts-voice-rag-retrieval-latency-by-316x/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
@@ -1024,6 +1039,7 @@ https://www.zdnet.com/article/norton-antivirus-deal-amazon-big-spring-sale-2026/
 https://www.zdnet.com/article/nvidia-openclaw-nemoclaw-security-stack-gtc-2026/
 https://www.zdnet.com/article/nvidia-physical-ai-gtc-2026/
 https://www.zdnet.com/article/nvidia-wants-to-own-your-ai-data-center-end-to-end/
+https://www.zdnet.com/article/project-nomad-self-contained-offline-linux-distribution/
 https://www.zdnet.com/article/security-leaders-not-ready-for-ai-attacks-4-actions-to-take/
 https://www.zdnet.com/article/segway-navimow-x3-series-robot-mower-review/
 https://www.zdnet.com/article/snowflake-it-executive-survey-ai-job-loss-and-gains/
