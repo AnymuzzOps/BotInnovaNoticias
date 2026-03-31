@@ -180,6 +180,7 @@ https://phys.org/news/2026-03-million-spacex-satellites-destroy-night.html
 https://phys.org/news/2026-03-musk-twitter-takeover-highlights-danger.html
 https://phys.org/news/2026-03-nasa-artemis-ii-mission-astronaut.html
 https://phys.org/news/2026-03-nasa-artemis-missions-moon.html
+https://phys.org/news/2026-03-nasa-countdown-humanity-moon-years.html
 https://phys.org/news/2026-03-nasa-experimental-technology-tsunami.html
 https://phys.org/news/2026-03-nasa-moon-rocket-pad-eyeing.html
 https://phys.org/news/2026-03-nasa-ray-mission-fresh-year.html
@@ -299,6 +300,7 @@ https://roboticsandautomationnews.com/2026/03/30/measuring-roi-from-intranet-inv
 https://roboticsandautomationnews.com/2026/03/30/nature-robots-secures-e4-million-seed-funding-to-scale-software-for-autonomous-farming/100221/
 https://roboticsandautomationnews.com/2026/03/30/positronic-robotics-launches-phail-benchmark-to-test-real-world-performance-of-physical-ai-systems/100214/
 https://roboticsandautomationnews.com/2026/03/30/the-strategic-value-of-legacy-components-in-automation-2/100244/
+https://roboticsandautomationnews.com/2026/03/31/from-glass-to-metal-japanese-scientists-invent-new-vision-system-that-enables-robots-reliably-grasp-hard-to-see-objects/100253/
 https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/
 https://singularityhub.com/2026/03/09/hackers-are-automating-cyberattacks-with-ai-defenders-are-using-it-to-fight-back/
 https://singularityhub.com/2026/03/19/tech-companies-are-blaming-massive-layoffs-on-ai-whats-really-going-on/
@@ -705,7 +707,9 @@ https://www.bloomberg.com/news/articles/2026-03-30/robot-maker-inovance-said-to-
 https://www.bloomberg.com/news/articles/2026-03-30/trump-ai-agenda-backers-plan-100-million-midterm-effort
 https://www.bloomberg.com/news/articles/2026-03-31/activist-palliser-targets-msg-maker-ajinomoto-in-ai-value-hunt
 https://www.bloomberg.com/news/articles/2026-03-31/china-s-top-private-insurer-taps-ai-to-unlock-174-billion-value
+https://www.bloomberg.com/news/articles/2026-03-31/equinix-plans-more-south-african-data-centers-as-local-ai-booms
 https://www.bloomberg.com/news/articles/2026-03-31/high-flying-chip-stocks-bear-brunt-of-iran-war-risk-off-trade
+https://www.bloomberg.com/news/articles/2026-03-31/japan-s-mitsubishi-smbc-pile-into-novastar-147-milllion-venture-capital-fund
 https://www.bloomberg.com/news/audio/2026-03-28/odd-lots-ai-and-the-future-of-autonomous-weapons-podcast
 https://www.bloomberg.com/news/audio/2026-03-30/odd-lots-goldman-sachs-cio-marco-argenti-on-the-improvements-in-ai
 https://www.bloomberg.com/news/features/2026-03-19/new-york-city-office-leases-rebound-as-ai-companies-move-in
