@@ -2,6 +2,7 @@ https://arstechnica.com/ai/2026/03/ai-is-beginning-to-change-the-business-of-law
 https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/
 https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/
 https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/
+https://arstechnica.com/ai/2026/03/how-did-anthropic-measure-ais-theoretical-capabilities-in-the-job-market/
 https://arstechnica.com/ai/2026/03/kagi-translates-ai-answers-the-question-what-would-horny-margaret-thatcher-say/
 https://arstechnica.com/ai/2026/03/mozilla-dev-introduces-cq-a-stack-overflow-for-agents/
 https://arstechnica.com/ai/2026/03/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community/
@@ -115,6 +116,7 @@ https://futurism.com/space/astronaut-mike-fincke-medical-evacuation-details
 https://futurism.com/space/elon-musks-orbital-data-centers-huge
 https://futurism.com/space/nasa-announces-moon-launches-base
 https://futurism.com/space/nasa-sending-nuclear-reactor-rocket-mars
+https://futurism.com/space/nasa-spacecraft-psyche-core-planet
 https://futurism.com/space/satellite-china-fuel-arm
 https://futurism.com/space/spacex-one-million-orbital-data-centers-astronomy
 https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026
@@ -184,6 +186,7 @@ https://phys.org/news/2026-03-nasa-artemis-missions-moon.html
 https://phys.org/news/2026-03-nasa-countdown-humanity-moon-years.html
 https://phys.org/news/2026-03-nasa-experimental-technology-tsunami.html
 https://phys.org/news/2026-03-nasa-moon-rocket-pad-eyeing.html
+https://phys.org/news/2026-03-nasa-narrows-artemis-sites-key.html
 https://phys.org/news/2026-03-nasa-ray-mission-fresh-year.html
 https://phys.org/news/2026-03-panicking-scientists-canceled-federal-funding.html
 https://phys.org/news/2026-03-physicists-electronic-agents-flat-band.html
@@ -302,7 +305,10 @@ https://roboticsandautomationnews.com/2026/03/30/nature-robots-secures-e4-millio
 https://roboticsandautomationnews.com/2026/03/30/positronic-robotics-launches-phail-benchmark-to-test-real-world-performance-of-physical-ai-systems/100214/
 https://roboticsandautomationnews.com/2026/03/30/the-strategic-value-of-legacy-components-in-automation-2/100244/
 https://roboticsandautomationnews.com/2026/03/31/from-glass-to-metal-japanese-scientists-invent-new-vision-system-that-enables-robots-reliably-grasp-hard-to-see-objects/100253/
+https://roboticsandautomationnews.com/2026/03/31/humanoid-robot-prices-fall-from-85000-to-25000-as-global-market-splits-into-tiers/100276/
+https://roboticsandautomationnews.com/2026/03/31/positronic-robotics-launches-phail-benchmark-to-test-real-world-performance-of-physical-ai-systems/100214/
 https://roboticsandautomationnews.com/2026/03/31/unitree-robotics-files-for-610-million-ipo-as-humanoid-robot-sales-surge/100272/
+https://roboticsandautomationnews.com/2026/03/31/vecna-robotics-adds-voice-control-to-case-picking-automation-with-caseflow-voice/100282/
 https://roboticsandautomationnews.com/2026/03/31/why-chinas-new-humanoid-robot-standards-could-change-the-industry/100263/
 https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/
 https://singularityhub.com/2026/03/09/hackers-are-automating-cyberattacks-with-ai-defenders-are-using-it-to-fight-back/
@@ -479,11 +485,19 @@ https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-a
 https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/
 https://techcrunch.com/2026/03/30/uber-is-buying-berlin-startup-blacklane-to-bolster-its-elite-offering/
 https://techcrunch.com/2026/03/30/what-were-looking-for-in-startup-battlefield-2026-and-how-to-put-your-best-application-forward/
+https://techcrunch.com/2026/03/31/carecloud-breach-hackers-accessed-patients-medical-records-ehr/
+https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/
+https://techcrunch.com/2026/03/31/fedex-chooses-partnerships-over-proprietary-tech-for-its-automation-strategy/
+https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/
+https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/
+https://techcrunch.com/2026/03/31/rivian-spinoff-also-will-build-autonomous-delivery-vehicles-for-doordash/
+https://techcrunch.com/2026/03/31/uber-increases-stake-in-weride-as-robotaxi-partnership-ramps-up-in-dubai/
 https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/
 https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/
 https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/
 https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/
 https://venturebeat.com/data/googles-gemini-embedding-2-arrives-with-native-multimodal-support-to-cut
+https://venturebeat.com/data/imagine-if-your-teams-or-slack-messages-automatically-turned-into-secure
 https://venturebeat.com/data/nvidia-bluefield-4-stx-adds-a-context-memory-layer-to-storage-to-close-the
 https://venturebeat.com/data/oracle-converges-the-ai-data-stack-to-give-enterprise-agents-a-single
 https://venturebeat.com/data/scale-ai-launches-voice-showdown-the-first-real-world-benchmark-for-voice-ai
@@ -712,6 +726,7 @@ https://www.bloomberg.com/news/articles/2026-03-30/robot-maker-inovance-said-to-
 https://www.bloomberg.com/news/articles/2026-03-30/trump-ai-agenda-backers-plan-100-million-midterm-effort
 https://www.bloomberg.com/news/articles/2026-03-31/a-tribal-group-in-california-vies-for-a-piece-of-the-ai-boom
 https://www.bloomberg.com/news/articles/2026-03-31/activist-palliser-targets-msg-maker-ajinomoto-in-ai-value-hunt
+https://www.bloomberg.com/news/articles/2026-03-31/axios-software-tool-used-by-millions-compromised-in-hack
 https://www.bloomberg.com/news/articles/2026-03-31/china-s-top-private-insurer-taps-ai-to-unlock-174-billion-value
 https://www.bloomberg.com/news/articles/2026-03-31/coreweave-crwv-raises-8-5-billion-gpu-loan-backed-by-meta-deal
 https://www.bloomberg.com/news/articles/2026-03-31/equinix-plans-more-south-african-data-centers-as-local-ai-booms
@@ -939,6 +954,7 @@ https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses
 https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/
 https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/
 https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/
+https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/
 https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/
 https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/
 https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data
@@ -1002,6 +1018,7 @@ https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees
 https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban
 https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion
 https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27
+https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs
 https://www.theverge.com/transportation/897105/uber-rivian-robotaxi-investment-deal
 https://www.theverge.com/transportation/900559/robotaxi-two-seater-tesla-lucid-drag-cost
 https://www.theverge.com/transportation/900656/uber-pony-ai-verne-robotaxi-europe
