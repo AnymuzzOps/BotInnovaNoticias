@@ -172,6 +172,7 @@ https://phys.org/news/2026-03-framework-classical-quantum-mpemba-effects.html
 https://phys.org/news/2026-03-future-quantum.html
 https://phys.org/news/2026-03-generative-ai-polymer-lab-dielectric.html
 https://phys.org/news/2026-03-invisible-choreography-quantum-noise.html
+https://phys.org/news/2026-03-legged-robot-resource-prospecting-moon.html
 https://phys.org/news/2026-03-magnetic-microbots-quantum-sensors-cells.html
 https://phys.org/news/2026-03-masterpiece-laser-scans-ai-layers.html
 https://phys.org/news/2026-03-microwave-quantum-network-resilience-disturbances.html
@@ -462,6 +463,7 @@ https://techcrunch.com/2026/03/29/techcrunch-mobility-when-a-robotaxi-has-to-cal
 https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/
 https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/
 https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/
+https://techcrunch.com/2026/03/30/allbirds-is-selling-for-39-million-it-raised-nearly-10-times-that-amount-in-its-ipo/
 https://techcrunch.com/2026/03/30/blueskys-new-ai-tool-attie-is-already-the-most-blocked-account-other-than-j-d-vance/
 https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/
 https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/
@@ -787,6 +789,7 @@ https://www.cnet.com/tech/gaming/nvidia-teases-dlss-5-gamers-arent-impressed/
 https://www.cnet.com/tech/mobile/amazon-plans-alexa-focused-transformer-phone/
 https://www.cnet.com/tech/mobile/ankers-upcoming-liberty-5-pro-max-buds-will-have-an-ai-voice-recorder-in-charging-case/
 https://www.cnet.com/tech/mobile/apple-airpods-max-2-headphones-are-available-march-25-powered-by-h2-chip/
+https://www.cnet.com/tech/newsom-signs-executive-order-requiring-ai-companies-to-provide-safety-privacy-guardrails/
 https://www.cnet.com/tech/services-and-software/ai-agents-are-getting-more-and-more-devious-study-finds/
 https://www.cnet.com/tech/services-and-software/ai-art-games-creativity-chaos-sxsw-2026/
 https://www.cnet.com/tech/services-and-software/ai-relationship-advice-harmful-science-sycophancy-study-news/
@@ -1002,6 +1005,7 @@ https://www.wired.com/story/how-to-backup-your-iphone/
 https://www.wired.com/story/i-tried-doordashs-tasks-app-and-saw-the-bleak-future-of-ai-gig-work/
 https://www.wired.com/story/irestore-deals-amazon-spring-sale-2026/
 https://www.wired.com/story/linkedin-invited-my-ai-cofounder-to-give-a-corporate-talk-then-banned-it/
+https://www.wired.com/story/litter-robot-promo-code/
 https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/
 https://www.wired.com/story/mexico-city-xoli-chatbot-world-cup-tourists/
 https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/
@@ -1025,6 +1029,7 @@ https://www.zdnet.com/article/caio-chief-ai-officer-alternative-director-of-ai-p
 https://www.zdnet.com/article/chatgpt-voice-mode-tricks/
 https://www.zdnet.com/article/cisco-defenseclaw-to-govern-agentic-ai/
 https://www.zdnet.com/article/claude-ai-control-computer-hands-on-results/
+https://www.zdnet.com/article/duckai-popularity-government-surveillance-privacy-anthropic-openai/
 https://www.zdnet.com/article/fitbit-medical-google-ai/
 https://www.zdnet.com/article/former-tesla-president-explains-where-ai-will-accelerate-job-growth/
 https://www.zdnet.com/article/gpt-5-4-mini-and-nano/
