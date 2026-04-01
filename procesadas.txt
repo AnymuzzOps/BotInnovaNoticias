@@ -212,6 +212,7 @@ https://phys.org/news/2026-03-teachers-students-ai-good.html
 https://phys.org/news/2026-03-team-ethical-methodological-generative-artificial.html
 https://phys.org/news/2026-03-universal-scheme-quantum-state.html
 https://phys.org/news/2026-03-whisker-movement-underwater-trails-approach.html
+https://phys.org/news/2026-04-moon-rocket-weather-nasa-side.html
 https://roboticsandautomationnews.com/2026/03/13/abb-robotics-survey-shows-ev-confidence-as-production-shifts-from-disruption-to-delivery/99662/
 https://roboticsandautomationnews.com/2026/03/13/highres-and-opentrons-showcase-industrys-first-ai-agent-to-agent-lab-automation-workflow/99637/
 https://roboticsandautomationnews.com/2026/03/13/infineon-and-bmw-partner-to-shape-the-future-of-software-defined-vehicles-with-neue-klasse-range/99655/
@@ -942,6 +943,7 @@ https://www.marktechpost.com/2026/03/29/how-to-build-advanced-cybersecurity-ai-a
 https://www.marktechpost.com/2026/03/29/meet-a-evolve-the-pytorch-moment-for-agentic-ai-systems-replacing-manual-tuning-with-automated-state-mutation-and-self-correction/
 https://www.marktechpost.com/2026/03/30/microsoft-ai-releases-harrier-oss-v1-a-new-family-of-multilingual-embedding-models-hitting-sota-on-multilingual-mteb-v2/
 https://www.marktechpost.com/2026/03/30/salesforce-ai-research-releases-voiceagentrag-a-dual-agent-memory-router-that-cuts-voice-rag-retrieval-latency-by-316x/
+https://www.marktechpost.com/2026/03/31/google-ai-releases-veo-3-1-lite-giving-developers-low-cost-high-speed-video-generation-via-the-gemini-api/
 https://www.marktechpost.com/2026/03/31/liquid-ai-released-lfm2-5-350m-a-compact-350m-parameter-model-trained-on-28t-tokens-with-scaled-reinforcement-learning/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
