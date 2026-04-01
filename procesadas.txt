@@ -39,12 +39,14 @@ https://arstechnica.com/space/2026/03/orbital-data-centers-part-1-theres-no-way-
 https://arstechnica.com/space/2026/03/we-got-an-audience-with-the-lunar-viceroy-to-talk-how-nasa-will-build-a-moon-base/
 https://arstechnica.com/space/2026/03/what-happens-next-with-nasas-plan-to-replace-the-iss-source-it-could-get-ugly/
 https://arstechnica.com/space/2026/04/launch-day-has-arrived-for-nasas-artemis-ii-mission-heres-what-to-expect/
+https://arstechnica.com/space/2026/04/spacex-finally-files-for-ipo-targets-1-75-trillion-valuation/
 https://arstechnica.com/tech-policy/2026/03/cloudflare-appeals-piracy-shield-fine-hopes-to-kill-italys-site-blocking-law/
 https://arstechnica.com/tech-policy/2026/03/elon-musks-xai-sued-for-turning-three-girls-real-photos-into-ai-csam/
 https://arstechnica.com/tech-policy/2026/03/meta-hopes-scotus-piracy-ruling-will-help-it-beat-lawsuit-over-torrenting-ai-data/
 https://arstechnica.com/tech-policy/2026/03/senators-want-us-energy-information-agency-to-monitor-data-center-electricity-usage/
 https://arstechnica.com/tech-policy/2026/03/starlink-satellite-breaks-apart-into-tens-of-objects-spacex-confirms-anomaly/
 https://arstechnica.com/tech-policy/2026/03/trump-made-opposing-government-spying-cool-again-effs-departing-chief-says/
+https://arstechnica.com/tech-policy/2026/04/trump-defunding-of-npr-and-pbs-blocked-by-judge-but-damage-is-already-done/
 https://content.knowledgehub.wiley.com/engineering-challenges-and-component-strategies-in-humanoid-robotics-from-prototype-to-production/
 https://content.knowledgehub.wiley.com/heat-beneath-the-surface-thermal-metrology-for-advanced-semiconductor-materials-and-architectures/
 https://events.bizzabo.com/823847
@@ -125,10 +127,12 @@ https://futurism.com/science-energy/engineer-twin-towers-lasers
 https://futurism.com/space/astronaut-mike-fincke-medical-evacuation-details
 https://futurism.com/space/elon-musks-orbital-data-centers-huge
 https://futurism.com/space/nasa-announces-moon-launches-base
+https://futurism.com/space/nasa-launch-moon-mission-april-fools-day
 https://futurism.com/space/nasa-sending-nuclear-reactor-rocket-mars
 https://futurism.com/space/nasa-spacecraft-psyche-core-planet
 https://futurism.com/space/satellite-china-fuel-arm
 https://futurism.com/space/second-spacex-satellite-anomaly
+https://futurism.com/space/spacex-files-for-ipo
 https://futurism.com/space/spacex-one-million-orbital-data-centers-astronomy
 https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026
 https://huggingface.co/blog/lerobot-release-v050
@@ -217,6 +221,9 @@ https://phys.org/news/2026-03-teachers-students-ai-good.html
 https://phys.org/news/2026-03-team-ethical-methodological-generative-artificial.html
 https://phys.org/news/2026-03-universal-scheme-quantum-state.html
 https://phys.org/news/2026-03-whisker-movement-underwater-trails-approach.html
+https://phys.org/news/2026-04-accuracy-protein-language-ai-black.html
+https://phys.org/news/2026-04-explores-commerce-platforms-restrict-party.html
+https://phys.org/news/2026-04-free-software-laptops-simulate-aging.html
 https://phys.org/news/2026-04-moon-rocket-weather-nasa-side.html
 https://phys.org/news/2026-04-ultrafast-quantum-pulses.html
 https://roboticsandautomationnews.com/2026/03/13/abb-robotics-survey-shows-ev-confidence-as-production-shifts-from-disruption-to-delivery/99662/
@@ -328,6 +335,10 @@ https://roboticsandautomationnews.com/2026/03/31/reframe-systems-installs-roboti
 https://roboticsandautomationnews.com/2026/03/31/unitree-robotics-files-for-610-million-ipo-as-humanoid-robot-sales-surge/100272/
 https://roboticsandautomationnews.com/2026/03/31/vecna-robotics-adds-voice-control-to-case-picking-automation-with-caseflow-voice/100282/
 https://roboticsandautomationnews.com/2026/03/31/why-chinas-new-humanoid-robot-standards-could-change-the-industry/100263/
+https://roboticsandautomationnews.com/2026/04/01/agile-robots-closes-acquisition-of-thyssenkrupp-automation-engineering/100337/
+https://roboticsandautomationnews.com/2026/04/01/epson-and-clayton-controls-form-alliance-to-deliver-robotics-solutions-in-the-southwest-us/100344/
+https://roboticsandautomationnews.com/2026/04/01/tekpak-automation-to-showcase-pick-and-place-robotic-cell-at-interpack-2026/100341/
+https://roboticsandautomationnews.com/2026/04/01/what-skills-will-truck-techs-need-in-the-ai-era/100333/
 https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/
 https://singularityhub.com/2026/03/09/hackers-are-automating-cyberattacks-with-ai-defenders-are-using-it-to-fight-back/
 https://singularityhub.com/2026/03/19/tech-companies-are-blaming-massive-layoffs-on-ai-whats-really-going-on/
@@ -509,6 +520,7 @@ https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-pr
 https://techcrunch.com/2026/03/31/fedex-chooses-partnerships-over-proprietary-tech-for-its-automation-strategy/
 https://techcrunch.com/2026/03/31/hacker-hijacks-axios-open-source-project-used-by-millions-to-push-malware/
 https://techcrunch.com/2026/03/31/its-not-your-imagination-ai-seed-startups-are-commanding-higher-valuations/
+https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/
 https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/
 https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/
 https://techcrunch.com/2026/03/31/rivian-spinoff-also-will-build-autonomous-delivery-vehicles-for-doordash/
@@ -521,6 +533,7 @@ https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon
 https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/
 https://techcrunch.com/2026/04/01/nothings-ai-devices-plan-reportedly-contains-smart-glasses-and-earbuds/
 https://techcrunch.com/2026/04/01/spacex-files-confidentially-for-ipo-in-mega-listing-potentially-valued-at-1-75-trillion-report-says/
+https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/
 https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/
 https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/
 https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/
@@ -773,6 +786,7 @@ https://www.bloomberg.com/news/articles/2026-03-31/palmer-luckey-backed-nuclear-
 https://www.bloomberg.com/news/articles/2026-03-31/spacex-lead-ipo-banks-to-hold-kick-off-meeting-monday-ifr
 https://www.bloomberg.com/news/articles/2026-03-31/why-china-s-openclaw-craze-is-a-global-ai-experiment
 https://www.bloomberg.com/news/articles/2026-03-31/zhipu-s-losses-climb-60-after-chinese-ai-rivalry-worsens
+https://www.bloomberg.com/news/articles/2026-04-01/ai-boom-energy-risks-shape-m-a-landscape-morgan-stanley-says
 https://www.bloomberg.com/news/articles/2026-04-01/anthropic-accidentally-releases-source-code-for-claude-ai-agent
 https://www.bloomberg.com/news/articles/2026-04-01/baidu-robotaxis-freeze-in-wuhan-sparking-flurry-of-police-calls
 https://www.bloomberg.com/news/articles/2026-04-01/china-s-new-ai-stocks-drive-volatility-in-asia-as-hype-grows
@@ -848,7 +862,9 @@ https://www.bloomberg.com/news/videos/2026-03-30/goldman-cio-on-the-warp-speed-i
 https://www.bloomberg.com/news/videos/2026-03-30/warp-speed-improvements-in-ai-video
 https://www.bloomberg.com/news/videos/2026-04-01/former-baidu-president-on-ai-tokenization-in-china-video
 https://www.bloomberg.com/news/videos/2026-04-01/how-ai-is-reshaping-private-equity-strategy-video
+https://www.bloomberg.com/news/videos/2026-04-01/morgan-stanley-s-miles-discusses-m-a-ai-disruption-video
 https://www.bloomberg.com/news/videos/2026-04-01/spacex-said-to-file-confidentially-for-biggest-ever-ipo-video
+https://www.bloomberg.com/news/videos/2026-04-01/you-have-to-start-early-in-ai-axiom-founder-video
 https://www.cnet.com/culture/entertainment/ai-set-to-create-val-kilmers-likeness-for-film-one-year-after-his-death/
 https://www.cnet.com/home/kitchen-and-household/dyson-launched-first-ever-robot-mop-vacuum-i-saw-it/
 https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/
@@ -964,6 +980,7 @@ https://www.marktechpost.com/2026/03/30/microsoft-ai-releases-harrier-oss-v1-a-n
 https://www.marktechpost.com/2026/03/30/salesforce-ai-research-releases-voiceagentrag-a-dual-agent-memory-router-that-cuts-voice-rag-retrieval-latency-by-316x/
 https://www.marktechpost.com/2026/03/31/google-ai-releases-veo-3-1-lite-giving-developers-low-cost-high-speed-video-generation-via-the-gemini-api/
 https://www.marktechpost.com/2026/03/31/liquid-ai-released-lfm2-5-350m-a-compact-350m-parameter-model-trained-on-28t-tokens-with-scaled-reinforcement-learning/
+https://www.marktechpost.com/2026/04/01/how-to-build-a-production-ready-gemma-3-1b-instruct-generation-ai-pipeline-with-hugging-face-transformers-chat-templates-and-colab-inference/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
 https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html
@@ -976,6 +993,7 @@ https://www.nytimes.com/2026/03/26/business/dealbook/shield-ai-drones-aechelon-f
 https://www.nytimes.com/2026/03/26/movies/the-ai-doc-movie-anthropic-openai-claude-chatgpt.html
 https://www.nytimes.com/2026/03/27/business/helium-chips-iran-war.html
 https://www.nytimes.com/2026/03/31/technology/openai-12-billion-latest-funding-round.html
+https://www.nytimes.com/2026/04/01/technology/spacex-ipo-elon-musk.html
 https://www.sciencedaily.com/releases/2026/01/260129080418.htm
 https://www.sciencedaily.com/releases/2026/01/260131084555.htm
 https://www.sciencedaily.com/releases/2026/02/260201223737.htm
@@ -1090,6 +1108,7 @@ https://www.wired.com/story/a-billionaire-backed-startup-wants-to-grow-organ-sac
 https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/
 https://www.wired.com/story/a-new-study-details-how-cats-almost-always-land-on-their-feet/
 https://www.wired.com/story/ai-has-flooded-all-the-weather-apps/
+https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/
 https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/
 https://www.wired.com/story/china-approves-first-brain-chips-for-sale-plan-to-dominate-industry/
 https://www.wired.com/story/china-is-going-all-in-on-openclaw/
@@ -1117,6 +1136,7 @@ https://www.wired.com/story/shes-never-going-to-age-porn-stars-are-embracing-ai-
 https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/
 https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/
 https://www.wired.com/story/tesla-says-its-robotaxis-are-sometimes-driven-by-humans/
+https://www.wired.com/story/thank-you-for-generating-with-us-hollywoods-ai-acolytes-stay-on-the-hype-train/
 https://www.wired.com/story/the-us-militarys-gps-software-is-an-8-billion-mess/
 https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/
 https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/
@@ -1127,6 +1147,7 @@ https://www.zdnet.com/article/ai-job-apocalypse-not-happening-for-coders/
 https://www.zdnet.com/article/apple-music-playlist-playground/
 https://www.zdnet.com/article/best-amazon-spring-sale-2026-robot-vacuum-deals/
 https://www.zdnet.com/article/best-early-amazon-spring-sale-2026-robot-vacuum-deals/
+https://www.zdnet.com/article/best-last-minute-amazon-spring-sale-2026-robot-vacuum-deals/
 https://www.zdnet.com/article/caio-chief-ai-officer-alternative-director-of-ai-productivity/
 https://www.zdnet.com/article/chatgpt-voice-mode-tricks/
 https://www.zdnet.com/article/cisco-defenseclaw-to-govern-agentic-ai/
