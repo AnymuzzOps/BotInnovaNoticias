@@ -152,6 +152,7 @@ https://news.crunchbase.com/venture/founder-first-investing-ai-khosla-choi/
 https://news.crunchbase.com/venture/hype-outcomes-vcs-recalibrate-agentic-ai-kapre-snowflake/
 https://news.crunchbase.com/venture/interesting-startup-deals-robots-ai-agent-inboxes-defense-space-tech/
 https://news.crunchbase.com/venture/kleiner-perkins-raises-ai-focused-funds/
+https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/
 https://news.crunchbase.com/venture/robotics-semiconductor-led-unicorns-february-2026/
 https://news.crunchbase.com/venture/seed-funding-skewing-larger-ai-competitive-data/
 https://news.crunchbase.com/venture/unicorn-legal-tech-ai-startup-legora-triples-valuation/
@@ -512,6 +513,7 @@ https://techcrunch.com/2026/03/31/social-gaming-platform-rec-room-once-valued-at
 https://techcrunch.com/2026/03/31/uber-increases-stake-in-weride-as-robotaxi-partnership-ramps-up-in-dubai/
 https://techcrunch.com/2026/03/31/uber-weride-dubai-robotaxi-partnership-equity/
 https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/
+https://techcrunch.com/2026/04/01/nothings-ai-devices-plan-reportedly-contains-smart-glasses-and-earbuds/
 https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/
 https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/
 https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/
@@ -590,6 +592,7 @@ https://www.bbc.com/news/articles/cj0d6el50ppo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/clyg4wx6nxgo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cn48n18pg1eo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cvg1gr5v333o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cvge91r9j80o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cx28v08jpe7o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cx2g8888q53o?at_medium=RSS&at_campaign=rss
 https://www.bloomberg.com/en/news/thp/2026-03-24/urgent-new-mexico-jury-finds-meta-violated-consumer-protection-law-at-trial-about-child-safety
@@ -766,6 +769,9 @@ https://www.bloomberg.com/news/articles/2026-04-01/anthropic-accidentally-releas
 https://www.bloomberg.com/news/articles/2026-04-01/baidu-robotaxis-freeze-in-wuhan-sparking-flurry-of-police-calls
 https://www.bloomberg.com/news/articles/2026-04-01/china-s-new-ai-stocks-drive-volatility-in-asia-as-hype-grows
 https://www.bloomberg.com/news/articles/2026-04-01/fund-beating-99-of-peers-bets-big-on-taiwan-s-smaller-ai-stocks
+https://www.bloomberg.com/news/articles/2026-04-01/google-faces-demands-to-prohibit-ai-videos-for-kids-on-youtube
+https://www.bloomberg.com/news/articles/2026-04-01/kling-ai-runway-vidu-the-ai-video-generators-set-to-replace-openai-s-sora
+https://www.bloomberg.com/news/articles/2026-04-01/nasa-set-to-launch-astronauts-to-moon-for-first-time-in-50-years
 https://www.bloomberg.com/news/articles/2026-04-01/perplexity-ai-machine-accused-of-sharing-data-with-meta-google
 https://www.bloomberg.com/news/articles/2026-04-01/singapore-gets-robotaxis-as-grab-weride-launch-driverless-cars
 https://www.bloomberg.com/news/audio/2026-03-28/odd-lots-ai-and-the-future-of-autonomous-weapons-podcast
@@ -995,6 +1001,8 @@ https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-too
 https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/
 https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/
 https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/
+https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/
+https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/
 https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data
 https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk
 https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence
@@ -1014,6 +1022,7 @@ https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-
 https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy
 https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds
 https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit
+https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china
 https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses
 https://www.theverge.com/entertainment/895435/oeuf-review
 https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing
@@ -1057,6 +1066,7 @@ https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban
 https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion
 https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27
 https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs
+https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update
 https://www.theverge.com/transportation/897105/uber-rivian-robotaxi-investment-deal
 https://www.theverge.com/transportation/900559/robotaxi-two-seater-tesla-lucid-drag-cost
 https://www.theverge.com/transportation/900656/uber-pony-ai-verne-robotaxi-europe
