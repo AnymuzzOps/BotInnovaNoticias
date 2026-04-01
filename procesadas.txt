@@ -32,6 +32,7 @@ https://arstechnica.com/space/2026/03/flying-to-the-moon-for-the-first-time-in-5
 https://arstechnica.com/space/2026/03/here-is-nasas-plan-for-nuking-gateway-and-sending-it-to-mars/
 https://arstechnica.com/space/2026/03/jeff-bezos-throws-his-hat-in-the-ring-for-an-orbital-data-center-megaconstellation-too/
 https://arstechnica.com/space/2026/03/nasa-is-blowing-stuff-up-to-study-the-explosive-potential-of-methalox-rockets/
+https://arstechnica.com/space/2026/03/nasa-is-leading-the-way-to-the-moon-but-the-military-wont-be-far-behind/
 https://arstechnica.com/space/2026/03/nasa-issues-draft-request-for-moving-space-shuttle-discovery-or-orion-capsule/
 https://arstechnica.com/space/2026/03/nasa-kills-lunar-space-station-to-focus-on-ambitious-moon-base/
 https://arstechnica.com/space/2026/03/orbital-data-centers-part-1-theres-no-way-this-is-economically-viable-right/
@@ -759,8 +760,13 @@ https://www.bloomberg.com/news/articles/2026-03-31/nvidia-invests-2-billion-in-m
 https://www.bloomberg.com/news/articles/2026-03-31/palmer-luckey-backed-nuclear-startup-valar-lands-2-billion-valuation
 https://www.bloomberg.com/news/articles/2026-03-31/spacex-lead-ipo-banks-to-hold-kick-off-meeting-monday-ifr
 https://www.bloomberg.com/news/articles/2026-03-31/why-china-s-openclaw-craze-is-a-global-ai-experiment
+https://www.bloomberg.com/news/articles/2026-03-31/zhipu-s-losses-climb-60-after-chinese-ai-rivalry-worsens
+https://www.bloomberg.com/news/articles/2026-04-01/anthropic-accidentally-releases-source-code-for-claude-ai-agent
+https://www.bloomberg.com/news/articles/2026-04-01/baidu-robotaxis-freeze-in-wuhan-sparking-flurry-of-police-calls
 https://www.bloomberg.com/news/articles/2026-04-01/china-s-new-ai-stocks-drive-volatility-in-asia-as-hype-grows
 https://www.bloomberg.com/news/articles/2026-04-01/fund-beating-99-of-peers-bets-big-on-taiwan-s-smaller-ai-stocks
+https://www.bloomberg.com/news/articles/2026-04-01/perplexity-ai-machine-accused-of-sharing-data-with-meta-google
+https://www.bloomberg.com/news/articles/2026-04-01/singapore-gets-robotaxis-as-grab-weride-launch-driverless-cars
 https://www.bloomberg.com/news/audio/2026-03-28/odd-lots-ai-and-the-future-of-autonomous-weapons-podcast
 https://www.bloomberg.com/news/audio/2026-03-30/odd-lots-goldman-sachs-cio-marco-argenti-on-the-improvements-in-ai
 https://www.bloomberg.com/news/features/2026-03-19/new-york-city-office-leases-rebound-as-ai-companies-move-in
@@ -830,6 +836,7 @@ https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/
 https://www.cnet.com/news-live/sxsw-2026-updates-news-tech-culture/
 https://www.cnet.com/news/ai-cooking-robots-have-flopped-will-the-nosh-one-be-any-different-heres-my-take/
 https://www.cnet.com/news/social-media/dancing-robot-california-hot-pot-restaurant/
+https://www.cnet.com/roadshow/news/waymo-robotaxis-everything-to-know/
 https://www.cnet.com/roadshow/news/zoox-expands-service-brings-robotaxi-to-two-new-cities/
 https://www.cnet.com/science/space/mars-spaceship-sr-1-freedom-nasa/
 https://www.cnet.com/science/space/nasa-artemis-ii-moon-mission-launch-itinerary/
@@ -935,6 +942,7 @@ https://www.marktechpost.com/2026/03/29/how-to-build-advanced-cybersecurity-ai-a
 https://www.marktechpost.com/2026/03/29/meet-a-evolve-the-pytorch-moment-for-agentic-ai-systems-replacing-manual-tuning-with-automated-state-mutation-and-self-correction/
 https://www.marktechpost.com/2026/03/30/microsoft-ai-releases-harrier-oss-v1-a-new-family-of-multilingual-embedding-models-hitting-sota-on-multilingual-mteb-v2/
 https://www.marktechpost.com/2026/03/30/salesforce-ai-research-releases-voiceagentrag-a-dual-agent-memory-router-that-cuts-voice-rag-retrieval-latency-by-316x/
+https://www.marktechpost.com/2026/03/31/liquid-ai-released-lfm2-5-350m-a-compact-350m-parameter-model-trained-on-28t-tokens-with-scaled-reinforcement-learning/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
 https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html
@@ -956,6 +964,7 @@ https://www.sciencedaily.com/releases/2026/03/260302030642.htm
 https://www.sciencedaily.com/releases/2026/03/260313002650.htm
 https://www.sciencedaily.com/releases/2026/03/260315004355.htm
 https://www.sciencedaily.com/releases/2026/03/260317064512.htm
+https://www.sciencedaily.com/releases/2026/03/260331001104.htm
 https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/
 https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/
 https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/
@@ -1075,6 +1084,7 @@ https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/
 https://www.wired.com/story/new-bernie-sanders-ai-safety-bill-would-halt-data-center-construction/
 https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/
 https://www.wired.com/story/project-maven-katrina-manson-book-excerpt/
+https://www.wired.com/story/robotaxi-outage-in-china-leaves-passengers-stuck-in-cars-on-highways/
 https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/
 https://www.wired.com/story/senators-demand-to-know-how-much-energy-data-centers-use/
 https://www.wired.com/story/shes-never-going-to-age-porn-stars-are-embracing-ai-clones-to-stay-forever-young/
@@ -1103,6 +1113,7 @@ https://www.zdnet.com/article/how-to-get-free-ai-headshots-with-gemini-nano-bana
 https://www.zdnet.com/article/how-to-use-ai-on-a-budget-professonals/
 https://www.zdnet.com/article/husqvarna-automower-430x-review/
 https://www.zdnet.com/article/karakeep-cure-browser-tab-overload/
+https://www.zdnet.com/article/maybe-open-source-needs-ai/
 https://www.zdnet.com/article/medical-advice-ai-healthcare-microsoft-openai/
 https://www.zdnet.com/article/nanoclaw-docker-sandbox/
 https://www.zdnet.com/article/norton-antivirus-deal-amazon-big-spring-sale-2026/
