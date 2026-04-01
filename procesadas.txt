@@ -41,6 +41,7 @@ https://arstechnica.com/tech-policy/2026/03/cloudflare-appeals-piracy-shield-fin
 https://arstechnica.com/tech-policy/2026/03/elon-musks-xai-sued-for-turning-three-girls-real-photos-into-ai-csam/
 https://arstechnica.com/tech-policy/2026/03/meta-hopes-scotus-piracy-ruling-will-help-it-beat-lawsuit-over-torrenting-ai-data/
 https://arstechnica.com/tech-policy/2026/03/senators-want-us-energy-information-agency-to-monitor-data-center-electricity-usage/
+https://arstechnica.com/tech-policy/2026/03/starlink-satellite-breaks-apart-into-tens-of-objects-spacex-confirms-anomaly/
 https://arstechnica.com/tech-policy/2026/03/trump-made-opposing-government-spying-cool-again-effs-departing-chief-says/
 https://content.knowledgehub.wiley.com/engineering-challenges-and-component-strategies-in-humanoid-robotics-from-prototype-to-production/
 https://content.knowledgehub.wiley.com/heat-beneath-the-surface-thermal-metrology-for-advanced-semiconductor-materials-and-architectures/
@@ -101,6 +102,7 @@ https://futurism.com/future-society/nvidia-ai-yassification-feature-giga-nostril
 https://futurism.com/future-society/terrified-nasa-potato
 https://futurism.com/health-medicine/mental-health-workers-ai-strike
 https://futurism.com/health-medicine/neuralink-patient-brain-chip-world-of-warcraft
+https://futurism.com/health-medicine/startup-pitching-cloned-human-bodies
 https://futurism.com/robots-and-machines/coco-delivery-robot-smash-bus-shelter
 https://futurism.com/robots-and-machines/delivery-robot-philadelphia
 https://futurism.com/robots-and-machines/delivery-robot-smashes-bus-station
@@ -191,6 +193,7 @@ https://phys.org/news/2026-03-nasa-countdown-humanity-moon-years.html
 https://phys.org/news/2026-03-nasa-experimental-technology-tsunami.html
 https://phys.org/news/2026-03-nasa-moon-rocket-pad-eyeing.html
 https://phys.org/news/2026-03-nasa-narrows-artemis-sites-key.html
+https://phys.org/news/2026-03-nasa-probe-complex-sun-magnetic.html
 https://phys.org/news/2026-03-nasa-ray-mission-fresh-year.html
 https://phys.org/news/2026-03-panicking-scientists-canceled-federal-funding.html
 https://phys.org/news/2026-03-physicists-electronic-agents-flat-band.html
@@ -497,9 +500,12 @@ https://techcrunch.com/2026/03/31/carecloud-breach-hackers-accessed-patients-med
 https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/
 https://techcrunch.com/2026/03/31/fedex-chooses-partnerships-over-proprietary-tech-for-its-automation-strategy/
 https://techcrunch.com/2026/03/31/hacker-hijacks-axios-open-source-project-used-by-millions-to-push-malware/
+https://techcrunch.com/2026/03/31/its-not-your-imagination-ai-seed-startups-are-commanding-higher-valuations/
 https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/
 https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/
 https://techcrunch.com/2026/03/31/rivian-spinoff-also-will-build-autonomous-delivery-vehicles-for-doordash/
+https://techcrunch.com/2026/03/31/robotaxi-companies-refuse-to-say-how-often-their-avs-need-remote-help/
+https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/
 https://techcrunch.com/2026/03/31/social-gaming-platform-rec-room-once-valued-at-3-5b-is-shutting-down/
 https://techcrunch.com/2026/03/31/uber-increases-stake-in-weride-as-robotaxi-partnership-ramps-up-in-dubai/
 https://techcrunch.com/2026/03/31/uber-weride-dubai-robotaxi-partnership-equity/
@@ -742,6 +748,7 @@ https://www.bloomberg.com/news/articles/2026-03-31/activist-palliser-targets-msg
 https://www.bloomberg.com/news/articles/2026-03-31/axios-software-tool-used-by-millions-compromised-in-hack
 https://www.bloomberg.com/news/articles/2026-03-31/china-s-top-private-insurer-taps-ai-to-unlock-174-billion-value
 https://www.bloomberg.com/news/articles/2026-03-31/coreweave-crwv-raises-8-5-billion-gpu-loan-backed-by-meta-deal
+https://www.bloomberg.com/news/articles/2026-03-31/energy-shock-spurs-caution-as-asia-bankers-fund-data-center-boom
 https://www.bloomberg.com/news/articles/2026-03-31/equinix-plans-more-south-african-data-centers-as-local-ai-booms
 https://www.bloomberg.com/news/articles/2026-03-31/google-partner-tenex-raises-250-million-for-ai-security-tools
 https://www.bloomberg.com/news/articles/2026-03-31/high-flying-chip-stocks-bear-brunt-of-iran-war-risk-off-trade
@@ -749,7 +756,11 @@ https://www.bloomberg.com/news/articles/2026-03-31/huawei-growth-stalls-after-ap
 https://www.bloomberg.com/news/articles/2026-03-31/japan-s-mitsubishi-smbc-pile-into-novastar-147-milllion-venture-capital-fund
 https://www.bloomberg.com/news/articles/2026-03-31/microsoft-business-software-ecosystem-faces-uk-competition-probe
 https://www.bloomberg.com/news/articles/2026-03-31/nvidia-invests-2-billion-in-marvell-announces-partnership
+https://www.bloomberg.com/news/articles/2026-03-31/palmer-luckey-backed-nuclear-startup-valar-lands-2-billion-valuation
 https://www.bloomberg.com/news/articles/2026-03-31/spacex-lead-ipo-banks-to-hold-kick-off-meeting-monday-ifr
+https://www.bloomberg.com/news/articles/2026-03-31/why-china-s-openclaw-craze-is-a-global-ai-experiment
+https://www.bloomberg.com/news/articles/2026-04-01/china-s-new-ai-stocks-drive-volatility-in-asia-as-hype-grows
+https://www.bloomberg.com/news/articles/2026-04-01/fund-beating-99-of-peers-bets-big-on-taiwan-s-smaller-ai-stocks
 https://www.bloomberg.com/news/audio/2026-03-28/odd-lots-ai-and-the-future-of-autonomous-weapons-podcast
 https://www.bloomberg.com/news/audio/2026-03-30/odd-lots-goldman-sachs-cio-marco-argenti-on-the-improvements-in-ai
 https://www.bloomberg.com/news/features/2026-03-19/new-york-city-office-leases-rebound-as-ai-companies-move-in
@@ -812,6 +823,7 @@ https://www.bloomberg.com/news/videos/2026-03-30/ex-openai-s-kass-ai-is-going-to
 https://www.bloomberg.com/news/videos/2026-03-30/forterro-ceo-ai-driven-fears-an-overreaction-video
 https://www.bloomberg.com/news/videos/2026-03-30/goldman-cio-on-the-warp-speed-improvements-in-ai-video
 https://www.bloomberg.com/news/videos/2026-03-30/warp-speed-improvements-in-ai-video
+https://www.bloomberg.com/news/videos/2026-04-01/former-baidu-president-on-ai-tokenization-in-china-video
 https://www.cnet.com/culture/entertainment/ai-set-to-create-val-kilmers-likeness-for-film-one-year-after-his-death/
 https://www.cnet.com/home/kitchen-and-household/dyson-launched-first-ever-robot-mop-vacuum-i-saw-it/
 https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/
@@ -934,6 +946,7 @@ https://www.nytimes.com/2026/03/24/technology/arm-holdings-sell-chips.html
 https://www.nytimes.com/2026/03/26/business/dealbook/shield-ai-drones-aechelon-fund-raising.html
 https://www.nytimes.com/2026/03/26/movies/the-ai-doc-movie-anthropic-openai-claude-chatgpt.html
 https://www.nytimes.com/2026/03/27/business/helium-chips-iran-war.html
+https://www.nytimes.com/2026/03/31/technology/openai-12-billion-latest-funding-round.html
 https://www.sciencedaily.com/releases/2026/01/260129080418.htm
 https://www.sciencedaily.com/releases/2026/01/260131084555.htm
 https://www.sciencedaily.com/releases/2026/02/260201223737.htm
