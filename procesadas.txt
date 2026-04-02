@@ -48,6 +48,7 @@ https://arstechnica.com/tech-policy/2026/03/meta-hopes-scotus-piracy-ruling-will
 https://arstechnica.com/tech-policy/2026/03/senators-want-us-energy-information-agency-to-monitor-data-center-electricity-usage/
 https://arstechnica.com/tech-policy/2026/03/starlink-satellite-breaks-apart-into-tens-of-objects-spacex-confirms-anomaly/
 https://arstechnica.com/tech-policy/2026/03/trump-made-opposing-government-spying-cool-again-effs-departing-chief-says/
+https://arstechnica.com/tech-policy/2026/04/amazon-is-trying-to-buy-globalstar-to-compete-with-spacexs-starlink/
 https://arstechnica.com/tech-policy/2026/04/trump-defunding-of-npr-and-pbs-blocked-by-judge-but-damage-is-already-done/
 https://content.knowledgehub.wiley.com/engineering-challenges-and-component-strategies-in-humanoid-robotics-from-prototype-to-production/
 https://content.knowledgehub.wiley.com/heat-beneath-the-surface-thermal-metrology-for-advanced-semiconductor-materials-and-architectures/
@@ -124,6 +125,7 @@ https://futurism.com/robots-and-machines/robot-worker-factory-digit
 https://futurism.com/robots-and-machines/staff-brain-data-center-spine-fluid
 https://futurism.com/robots-and-machines/strange-modular-robots-writhing
 https://futurism.com/robots-and-machines/video-humanoid-robot-playing-tennis
+https://futurism.com/science-energy/data-centers-construction-supply
 https://futurism.com/science-energy/data-centers-protests-electricity
 https://futurism.com/science-energy/engineer-twin-towers-lasers
 https://futurism.com/space/astronaut-mike-fincke-medical-evacuation-details
@@ -150,7 +152,9 @@ https://news.crunchbase.com/ma/data-small-midsized-venture-backed-startup-acquis
 https://news.crunchbase.com/ma/most-active-startup-acquirers-3-years-crm-openai-snowflake/
 https://news.crunchbase.com/public/pwc-bellin-qa-2026-ipo-timing-secondary-boom/
 https://news.crunchbase.com/real-estate-property-tech/ai-generated-hvac-quotes-rebar-seriesa/
+https://news.crunchbase.com/robotics/physical-ai-custom-robot-builder-seed-funding-anvil/
 https://news.crunchbase.com/startups/missed-state-federal-tax-credits-garba-burkland/
+https://news.crunchbase.com/venture/ai-interviewer-miravoice-raises-seed-funding-unusual/
 https://news.crunchbase.com/venture/all-time-high-funding-to-austin-startups-2025-ai-robotics-manufacturing/
 https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-openai-shield/
 https://news.crunchbase.com/venture/biggest-funding-rounds-ai-robotics-ecommerce-quince/
@@ -228,12 +232,14 @@ https://phys.org/news/2026-03-universal-scheme-quantum-state.html
 https://phys.org/news/2026-03-whisker-movement-underwater-trails-approach.html
 https://phys.org/news/2026-04-accuracy-protein-language-ai-black.html
 https://phys.org/news/2026-04-ai-reveals-england-productivity-complex.html
+https://phys.org/news/2026-04-ai-seasonal-droughts.html
 https://phys.org/news/2026-04-ai-uptake-italian-firms-patchy.html
 https://phys.org/news/2026-04-europe-nasa-lunar-missions-esa.html
 https://phys.org/news/2026-04-explores-commerce-platforms-restrict-party.html
 https://phys.org/news/2026-04-free-software-laptops-simulate-aging.html
 https://phys.org/news/2026-04-moon-rocket-weather-nasa-side.html
 https://phys.org/news/2026-04-nasa-artemis-crew-crewed-lunar.html
+https://phys.org/news/2026-04-software-package-gene-easier-tweak.html
 https://phys.org/news/2026-04-ultrafast-quantum-pulses.html
 https://phys.org/news/2026-04-world-largest-quantum-circuit-simulation.html
 https://roboticsandautomationnews.com/2026/03/13/abb-robotics-survey-shows-ev-confidence-as-production-shifts-from-disruption-to-delivery/99662/
@@ -817,8 +823,11 @@ https://www.bloomberg.com/news/articles/2026-04-01/tiktok-abandons-plans-to-add-
 https://www.bloomberg.com/news/articles/2026-04-02/-market-s-latest-shiny-objects-optical-stocks-get-ai-momentum
 https://www.bloomberg.com/news/articles/2026-04-02/alibaba-unveils-third-closed-source-ai-model-in-focus-on-profit
 https://www.bloomberg.com/news/articles/2026-04-02/blackstone-s-airtrunk-is-said-to-pick-banks-for-singapore-reit-ipo
+https://www.bloomberg.com/news/articles/2026-04-02/doj-to-appeal-court-order-halting-trump-s-ban-on-anthropic-ai
 https://www.bloomberg.com/news/articles/2026-04-02/fund-beating-96-of-peers-says-buy-korean-chip-stocks-hit-by-war
 https://www.bloomberg.com/news/articles/2026-04-02/meet-the-new-ai-coworker-who-won-t-stop-snitching-to-your-boss
+https://www.bloomberg.com/news/articles/2026-04-02/microsoft-aims-to-create-large-cutting-edge-ai-models-by-2027
+https://www.bloomberg.com/news/articles/2026-04-02/startup-doctolib-s-valuation-slides-38-in-secondary-share-sale
 https://www.bloomberg.com/news/articles/2026-04-02/us-job-cut-announcements-in-tech-keep-rising-with-ai-adoption
 https://www.bloomberg.com/news/audio/2026-03-28/odd-lots-ai-and-the-future-of-autonomous-weapons-podcast
 https://www.bloomberg.com/news/audio/2026-03-30/odd-lots-goldman-sachs-cio-marco-argenti-on-the-improvements-in-ai
@@ -889,10 +898,12 @@ https://www.bloomberg.com/news/videos/2026-04-01/morgan-stanley-s-miles-discusse
 https://www.bloomberg.com/news/videos/2026-04-01/nasa-s-artemis-ii-lifts-off-in-landmark-moon-mission-video
 https://www.bloomberg.com/news/videos/2026-04-01/spacex-said-to-file-confidentially-for-biggest-ever-ipo-video
 https://www.bloomberg.com/news/videos/2026-04-01/you-have-to-start-early-in-ai-axiom-founder-video
+https://www.bloomberg.com/news/videos/2026-04-02/how-can-you-tell-if-a-piece-of-writing-was-ai-generated-video
 https://www.bloomberg.com/news/videos/2026-04-02/this-is-how-to-tell-if-writing-was-made-by-ai-video
 https://www.bloomberg.com/news/videos/2026-04-02/us-tech-job-cut-announcements-rise-as-ai-adoption-grows-video
 https://www.cnet.com/culture/entertainment/ai-set-to-create-val-kilmers-likeness-for-film-one-year-after-his-death/
 https://www.cnet.com/home/kitchen-and-household/dyson-launched-first-ever-robot-mop-vacuum-i-saw-it/
+https://www.cnet.com/home/smart-home/alexa-plus-ai-gains-the-ability-to-order-you-food-from-uber-eats-and-grubhub/
 https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/
 https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/
 https://www.cnet.com/news-live/sxsw-2026-updates-news-tech-culture/
@@ -937,6 +948,7 @@ https://www.cnet.com/tech/services-and-software/i-tried-internxt-an-encrypted-se
 https://www.cnet.com/tech/services-and-software/i-tried-to-find-job-ads-directly-in-a-chatbot-heres-what-happened/
 https://www.cnet.com/tech/services-and-software/meeting-every-robot-at-nvidia-gtc-what-the-future-may-bring/
 https://www.cnet.com/tech/services-and-software/meta-ray-ban-smart-glasses-ai-privacy-policy/
+https://www.cnet.com/tech/services-and-software/microsoft-ai-transcribe-image-2-voice-news/
 https://www.cnet.com/tech/services-and-software/nvidia-gtc-2026-3-things-you-should-know-about/
 https://www.cnet.com/tech/services-and-software/nvidia-is-building-a-computer-for-data-centers-in-space/
 https://www.cnet.com/tech/services-and-software/nvidia-wants-to-make-it-easier-to-create-an-openclaw-ai-agent/
@@ -1086,6 +1098,7 @@ https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energ
 https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds
 https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit
 https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china
+https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down
 https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses
 https://www.theverge.com/entertainment/895435/oeuf-review
 https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing
@@ -1189,6 +1202,7 @@ https://www.zdnet.com/article/duckai-popularity-government-surveillance-privacy-
 https://www.zdnet.com/article/fitbit-medical-google-ai/
 https://www.zdnet.com/article/former-tesla-president-explains-where-ai-will-accelerate-job-growth/
 https://www.zdnet.com/article/gmail-ai-workflow/
+https://www.zdnet.com/article/google-gemma-4-fully-open-source-powerful-local-ai/
 https://www.zdnet.com/article/gpt-5-4-mini-and-nano/
 https://www.zdnet.com/article/how-chainguard-is-fixing-trust-in-ai-built-software/
 https://www.zdnet.com/article/how-to-get-free-ai-headshots-with-gemini-nano-banana-2/
@@ -1199,11 +1213,13 @@ https://www.zdnet.com/article/karakeep-cure-browser-tab-overload/
 https://www.zdnet.com/article/maybe-open-source-needs-ai/
 https://www.zdnet.com/article/medical-advice-ai-healthcare-microsoft-openai/
 https://www.zdnet.com/article/nanoclaw-docker-sandbox/
+https://www.zdnet.com/article/new-mit-jobs-work-report-ai-impacts-2026/
 https://www.zdnet.com/article/norton-antivirus-deal-amazon-big-spring-sale-2026/
 https://www.zdnet.com/article/nvidia-openclaw-nemoclaw-security-stack-gtc-2026/
 https://www.zdnet.com/article/nvidia-physical-ai-gtc-2026/
 https://www.zdnet.com/article/nvidia-wants-to-own-your-ai-data-center-end-to-end/
 https://www.zdnet.com/article/project-nomad-self-contained-offline-linux-distribution/
+https://www.zdnet.com/article/raspberry-pi-price-increase-blame-ai-ram/
 https://www.zdnet.com/article/security-leaders-not-ready-for-ai-attacks-4-actions-to-take/
 https://www.zdnet.com/article/segway-navimow-x3-series-robot-mower-review/
 https://www.zdnet.com/article/snowflake-it-executive-survey-ai-job-loss-and-gains/
