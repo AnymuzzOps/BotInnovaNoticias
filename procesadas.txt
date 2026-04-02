@@ -158,6 +158,7 @@ https://news.crunchbase.com/venture/biggest-funding-rounds-security-ai-cloaked-f
 https://news.crunchbase.com/venture/building-startup-reputation-trust-vcs-sabitova-cloee/
 https://news.crunchbase.com/venture/construction-tech-automation-trayd-ai-seriesa/
 https://news.crunchbase.com/venture/data-largest-seed-rounds-ai-startups/
+https://news.crunchbase.com/venture/foundational-ai-startup-funding-doubled-openai-anthropic-xai-q1-2026/
 https://news.crunchbase.com/venture/founder-first-investing-ai-khosla-choi/
 https://news.crunchbase.com/venture/hype-outcomes-vcs-recalibrate-agentic-ai-kapre-snowflake/
 https://news.crunchbase.com/venture/interesting-startup-deals-robots-ai-agent-inboxes-defense-space-tech/
@@ -182,6 +183,7 @@ https://phys.org/news/2026-03-ai-tool-screen-unknown-bacteria.html
 https://phys.org/news/2026-03-ai-tool-wildfire-danger-faster.html
 https://phys.org/news/2026-03-analysis-million-interactions-employees-sophisticated.html
 https://phys.org/news/2026-03-apollo-artemis-nasa-moon.html
+https://phys.org/news/2026-03-approach-quantum-error-portends-scalable.html
 https://phys.org/news/2026-03-atca-probe-peculiar-pulsar-nebula.html
 https://phys.org/news/2026-03-biosensor-early-fungal-outbreaks-advances.html
 https://phys.org/news/2026-03-college-students-ai-theyre-simply.html
@@ -207,6 +209,7 @@ https://phys.org/news/2026-03-nasa-moon-rocket-pad-eyeing.html
 https://phys.org/news/2026-03-nasa-narrows-artemis-sites-key.html
 https://phys.org/news/2026-03-nasa-probe-complex-sun-magnetic.html
 https://phys.org/news/2026-03-nasa-ray-mission-fresh-year.html
+https://phys.org/news/2026-03-noise-limits-today-quantum-circuits.html
 https://phys.org/news/2026-03-panicking-scientists-canceled-federal-funding.html
 https://phys.org/news/2026-03-physicists-electronic-agents-flat-band.html
 https://phys.org/news/2026-03-prairie-watersheds-unpredictable-ai.html
@@ -593,6 +596,7 @@ https://venturebeat.com/technology/indexcache-a-new-sparse-attention-optimizer-d
 https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6
 https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai
 https://venturebeat.com/technology/luma-ai-launches-uni-1-a-model-that-outscores-google-and-openai-while
+https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google
 https://venturebeat.com/technology/midjourney-engineer-debuts-new-vibe-coded-open-source-standard-pretext-to
 https://venturebeat.com/technology/new-minimax-m2-7-proprietary-ai-model-is-self-evolving-and-can-perform-30-50
 https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in
@@ -810,9 +814,12 @@ https://www.bloomberg.com/news/articles/2026-04-01/perplexity-ai-machine-accused
 https://www.bloomberg.com/news/articles/2026-04-01/singapore-gets-robotaxis-as-grab-weride-launch-driverless-cars
 https://www.bloomberg.com/news/articles/2026-04-01/spacex-is-said-to-file-confidentially-for-ipo-ahead-of-ai-rivals
 https://www.bloomberg.com/news/articles/2026-04-01/tiktok-abandons-plans-to-add-second-data-center-in-ireland
+https://www.bloomberg.com/news/articles/2026-04-02/-market-s-latest-shiny-objects-optical-stocks-get-ai-momentum
 https://www.bloomberg.com/news/articles/2026-04-02/alibaba-unveils-third-closed-source-ai-model-in-focus-on-profit
+https://www.bloomberg.com/news/articles/2026-04-02/blackstone-s-airtrunk-is-said-to-pick-banks-for-singapore-reit-ipo
 https://www.bloomberg.com/news/articles/2026-04-02/fund-beating-96-of-peers-says-buy-korean-chip-stocks-hit-by-war
 https://www.bloomberg.com/news/articles/2026-04-02/meet-the-new-ai-coworker-who-won-t-stop-snitching-to-your-boss
+https://www.bloomberg.com/news/articles/2026-04-02/us-job-cut-announcements-in-tech-keep-rising-with-ai-adoption
 https://www.bloomberg.com/news/audio/2026-03-28/odd-lots-ai-and-the-future-of-autonomous-weapons-podcast
 https://www.bloomberg.com/news/audio/2026-03-30/odd-lots-goldman-sachs-cio-marco-argenti-on-the-improvements-in-ai
 https://www.bloomberg.com/news/features/2026-03-19/new-york-city-office-leases-rebound-as-ai-companies-move-in
@@ -828,6 +835,7 @@ https://www.bloomberg.com/news/newsletters/2026-03-26/openclaw-creator-says-us-c
 https://www.bloomberg.com/news/newsletters/2026-03-27/nvidia-arm-return-the-cpu-to-prominence-for-the-ai-age
 https://www.bloomberg.com/news/newsletters/2026-03-29/apple-doubles-down-on-hardware-services-with-revamped-ai-strategy-rare-bonuses-mnbpiwon
 https://www.bloomberg.com/news/newsletters/2026-03-30/trump-s-tech-group-ignores-leaders-of-top-ai-companies
+https://www.bloomberg.com/news/newsletters/2026-04-02/openclaw-is-helping-chinese-ai-firms-find-users-overseas
 https://www.bloomberg.com/news/videos/2026-03-14/rattner-cooling-jobs-market-tariffs-and-ai-video
 https://www.bloomberg.com/news/videos/2026-03-16/bloomberg-tech-3-16-2026-video
 https://www.bloomberg.com/news/videos/2026-03-16/china-s-ai-boom-risks-job-losses-regulatory-concerns-video
@@ -882,6 +890,7 @@ https://www.bloomberg.com/news/videos/2026-04-01/nasa-s-artemis-ii-lifts-off-in-
 https://www.bloomberg.com/news/videos/2026-04-01/spacex-said-to-file-confidentially-for-biggest-ever-ipo-video
 https://www.bloomberg.com/news/videos/2026-04-01/you-have-to-start-early-in-ai-axiom-founder-video
 https://www.bloomberg.com/news/videos/2026-04-02/this-is-how-to-tell-if-writing-was-made-by-ai-video
+https://www.bloomberg.com/news/videos/2026-04-02/us-tech-job-cut-announcements-rise-as-ai-adoption-grows-video
 https://www.cnet.com/culture/entertainment/ai-set-to-create-val-kilmers-likeness-for-film-one-year-after-his-death/
 https://www.cnet.com/home/kitchen-and-household/dyson-launched-first-ever-robot-mop-vacuum-i-saw-it/
 https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/
@@ -1056,6 +1065,7 @@ https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-her
 https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/
 https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/
 https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/
+https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/
 https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data
 https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk
 https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence
