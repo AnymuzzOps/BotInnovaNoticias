@@ -18,6 +18,7 @@ https://arstechnica.com/gadgets/2026/03/major-steamos-update-adds-support-for-st
 https://arstechnica.com/gaming/2026/03/gamers-react-with-overwhelming-disgust-to-dlss-5s-generative-ai-glow-ups/
 https://arstechnica.com/gaming/2026/03/nvidia-ceo-tries-to-explain-why-dlss-5-isnt-just-ai-slop/
 https://arstechnica.com/gaming/2026/03/slay-the-spire-2-is-a-bit-too-familiar-for-its-own-good/
+https://arstechnica.com/gaming/2026/04/nvidias-new-app-lets-you-precompile-gaming-shaders-during-machine-idle-time/
 https://arstechnica.com/health/2026/03/woman-sneezes-out-maggots-after-fly-larvae-get-trapped-in-her-deviated-septum/
 https://arstechnica.com/information-technology/2026/03/cloud-service-providers-ask-eu-regulator-to-reinstate-vmware-partner-program/
 https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/
@@ -38,6 +39,7 @@ https://arstechnica.com/space/2026/03/nasa-kills-lunar-space-station-to-focus-on
 https://arstechnica.com/space/2026/03/orbital-data-centers-part-1-theres-no-way-this-is-economically-viable-right/
 https://arstechnica.com/space/2026/03/we-got-an-audience-with-the-lunar-viceroy-to-talk-how-nasa-will-build-a-moon-base/
 https://arstechnica.com/space/2026/03/what-happens-next-with-nasas-plan-to-replace-the-iss-source-it-could-get-ugly/
+https://arstechnica.com/space/2026/04/four-astronauts-depart-for-the-moon-with-a-fiery-send-off-from-cape-canaveral/
 https://arstechnica.com/space/2026/04/launch-day-has-arrived-for-nasas-artemis-ii-mission-heres-what-to-expect/
 https://arstechnica.com/space/2026/04/spacex-finally-files-for-ipo-targets-1-75-trillion-valuation/
 https://arstechnica.com/tech-policy/2026/03/cloudflare-appeals-piracy-shield-fine-hopes-to-kill-italys-site-blocking-law/
@@ -226,6 +228,7 @@ https://phys.org/news/2026-04-explores-commerce-platforms-restrict-party.html
 https://phys.org/news/2026-04-free-software-laptops-simulate-aging.html
 https://phys.org/news/2026-04-moon-rocket-weather-nasa-side.html
 https://phys.org/news/2026-04-ultrafast-quantum-pulses.html
+https://phys.org/news/2026-04-world-largest-quantum-circuit-simulation.html
 https://roboticsandautomationnews.com/2026/03/13/abb-robotics-survey-shows-ev-confidence-as-production-shifts-from-disruption-to-delivery/99662/
 https://roboticsandautomationnews.com/2026/03/13/highres-and-opentrons-showcase-industrys-first-ai-agent-to-agent-lab-automation-workflow/99637/
 https://roboticsandautomationnews.com/2026/03/13/infineon-and-bmw-partner-to-shape-the-future-of-software-defined-vehicles-with-neue-klasse-range/99655/
@@ -531,9 +534,12 @@ https://techcrunch.com/2026/03/31/uber-increases-stake-in-weride-as-robotaxi-par
 https://techcrunch.com/2026/03/31/uber-weride-dubai-robotaxi-partnership-equity/
 https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/
 https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/
+https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/
 https://techcrunch.com/2026/04/01/nothings-ai-devices-plan-reportedly-contains-smart-glasses-and-earbuds/
 https://techcrunch.com/2026/04/01/spacex-files-confidentially-for-ipo-in-mega-listing-potentially-valued-at-1-75-trillion-report-says/
 https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/
+https://techcrunch.com/2026/04/01/system-failure-paralyzes-baidu-robotaxis-in-china/
+https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/
 https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/
 https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/
 https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/
@@ -558,6 +564,7 @@ https://venturebeat.com/infrastructure/why-enterprises-are-replacing-generic-ai-
 https://venturebeat.com/orchestration/anthropic-gives-claude-shared-context-across-microsoft-excel-and-powerpoint
 https://venturebeat.com/orchestration/how-linkedin-replaced-five-feed-retrieval-systems-with-one-llm-model-at-1-3
 https://venturebeat.com/orchestration/how-xmemory-cuts-token-costs-and-context-bloat-in-ai-agents
+https://venturebeat.com/orchestration/intuits-ai-agents-hit-85-repeat-usage-the-secret-was-keeping-humans-involved
 https://venturebeat.com/orchestration/mistral-ai-just-released-a-text-to-speech-model-it-says-beats-elevenlabs-and
 https://venturebeat.com/orchestration/nvidia-shrinks-llm-memory-20x-without-changing-model-weights
 https://venturebeat.com/orchestration/nvidias-nemotron-cascade-2-wins-math-and-coding-gold-medals-with-3b-active
@@ -599,6 +606,7 @@ https://venturebeat.com/technology/when-product-managers-ship-code-ai-just-broke
 https://venturebeat.com/technology/xiaomi-stuns-with-new-mimo-v2-pro-llm-nearing-gpt-5-2-opus-4-6-performance
 https://venturebeat.com/technology/z-ai-debuts-faster-cheaper-glm-5-turbo-model-for-agents-and-claws-but-its
 https://www.bbc.com/news/articles/c070e283k8vo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c3ewe7v7gpgo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4g7k7zdd0zo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4gjyg0g78vo?at_medium=RSS&at_campaign=rss
@@ -863,6 +871,7 @@ https://www.bloomberg.com/news/videos/2026-03-30/warp-speed-improvements-in-ai-v
 https://www.bloomberg.com/news/videos/2026-04-01/former-baidu-president-on-ai-tokenization-in-china-video
 https://www.bloomberg.com/news/videos/2026-04-01/how-ai-is-reshaping-private-equity-strategy-video
 https://www.bloomberg.com/news/videos/2026-04-01/morgan-stanley-s-miles-discusses-m-a-ai-disruption-video
+https://www.bloomberg.com/news/videos/2026-04-01/nasa-s-artemis-ii-lifts-off-in-landmark-moon-mission-video
 https://www.bloomberg.com/news/videos/2026-04-01/spacex-said-to-file-confidentially-for-biggest-ever-ipo-video
 https://www.bloomberg.com/news/videos/2026-04-01/you-have-to-start-early-in-ai-axiom-founder-video
 https://www.cnet.com/culture/entertainment/ai-set-to-create-val-kilmers-likeness-for-film-one-year-after-his-death/
@@ -872,8 +881,10 @@ https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/
 https://www.cnet.com/news-live/sxsw-2026-updates-news-tech-culture/
 https://www.cnet.com/news/ai-cooking-robots-have-flopped-will-the-nosh-one-be-any-different-heres-my-take/
 https://www.cnet.com/news/social-media/dancing-robot-california-hot-pot-restaurant/
+https://www.cnet.com/news/spacex-files-draft-for-potentially-stratospheric-ipo/
 https://www.cnet.com/roadshow/news/waymo-robotaxis-everything-to-know/
 https://www.cnet.com/roadshow/news/zoox-expands-service-brings-robotaxi-to-two-new-cities/
+https://www.cnet.com/science/space/how-robotscould-help-humans-find-resources-on-the-moon-and-mars/
 https://www.cnet.com/science/space/mars-spaceship-sr-1-freedom-nasa/
 https://www.cnet.com/science/space/nasa-artemis-ii-moon-mission-launch-itinerary/
 https://www.cnet.com/science/space/nasas-ignition-program-skips-lunar-orbiter-goes-straight-for-moon-base/
@@ -888,9 +899,11 @@ https://www.cnet.com/tech/gaming/nvidia-teases-dlss-5-gamers-arent-impressed/
 https://www.cnet.com/tech/mobile/amazon-plans-alexa-focused-transformer-phone/
 https://www.cnet.com/tech/mobile/ankers-upcoming-liberty-5-pro-max-buds-will-have-an-ai-voice-recorder-in-charging-case/
 https://www.cnet.com/tech/mobile/apple-airpods-max-2-headphones-are-available-march-25-powered-by-h2-chip/
+https://www.cnet.com/tech/mobile/fitbit-expands-personal-ai-health-coach-features-for-free-subscribers/
 https://www.cnet.com/tech/newsom-signs-executive-order-requiring-ai-companies-to-provide-safety-privacy-guardrails/
 https://www.cnet.com/tech/services-and-software/ai-agents-are-getting-more-and-more-devious-study-finds/
 https://www.cnet.com/tech/services-and-software/ai-art-games-creativity-chaos-sxsw-2026/
+https://www.cnet.com/tech/services-and-software/ai-doomer-versus-optimist-commentary/
 https://www.cnet.com/tech/services-and-software/ai-relationship-advice-harmful-science-sycophancy-study-news/
 https://www.cnet.com/tech/services-and-software/ai-toys-for-toddlers-study/
 https://www.cnet.com/tech/services-and-software/anthropics-ai-piracy-settlement-is-getting-close-to-final-approval/
@@ -981,6 +994,7 @@ https://www.marktechpost.com/2026/03/30/salesforce-ai-research-releases-voiceage
 https://www.marktechpost.com/2026/03/31/google-ai-releases-veo-3-1-lite-giving-developers-low-cost-high-speed-video-generation-via-the-gemini-api/
 https://www.marktechpost.com/2026/03/31/liquid-ai-released-lfm2-5-350m-a-compact-350m-parameter-model-trained-on-28t-tokens-with-scaled-reinforcement-learning/
 https://www.marktechpost.com/2026/04/01/how-to-build-a-production-ready-gemma-3-1b-instruct-generation-ai-pipeline-with-hugging-face-transformers-chat-templates-and-colab-inference/
+https://www.marktechpost.com/2026/04/01/z-ai-launches-glm-5v-turbo-a-native-multimodal-vision-coding-model-optimized-for-openclaw-and-high-capacity-agentic-engineering-workflows-everywhere/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
 https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html
@@ -1080,6 +1094,7 @@ https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-ce
 https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar
 https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music
 https://www.theverge.com/science/899891/nasa-moon-base-mars-nuclear-power-jared-isaacman
+https://www.theverge.com/science/904458/nasa-artemis-ii-mission-moon-astronauts
 https://www.theverge.com/science/904991/spacex-announces-ipo-but-its-keeping-the-numbers-secret-for-now
 https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse
 https://www.theverge.com/streaming/900910/spotify-artist-profile-protection-ai-clones
