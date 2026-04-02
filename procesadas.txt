@@ -10,6 +10,7 @@ https://arstechnica.com/ai/2026/03/openai-is-acquiring-open-source-python-tool-m
 https://arstechnica.com/ai/2026/03/staff-complain-that-xai-is-flailing-because-of-constant-upheaval/
 https://arstechnica.com/ai/2026/03/the-debut-of-gemini-3-1-flash-live-could-make-it-harder-to-know-if-youre-talking-to-a-robot/
 https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/
+https://arstechnica.com/ai/2026/04/google-announces-gemma-4-open-ai-models-switches-to-apache-2-0-license/
 https://arstechnica.com/gadgets/2026/03/amazon-is-reportedly-developing-an-ai-centric-smartphone/
 https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/
 https://arstechnica.com/gadgets/2026/03/apples-airpods-max-2-release-with-h2-chip-boosted-anc-in-april-for-549/
@@ -39,6 +40,7 @@ https://arstechnica.com/space/2026/03/nasa-kills-lunar-space-station-to-focus-on
 https://arstechnica.com/space/2026/03/orbital-data-centers-part-1-theres-no-way-this-is-economically-viable-right/
 https://arstechnica.com/space/2026/03/we-got-an-audience-with-the-lunar-viceroy-to-talk-how-nasa-will-build-a-moon-base/
 https://arstechnica.com/space/2026/03/what-happens-next-with-nasas-plan-to-replace-the-iss-source-it-could-get-ugly/
+https://arstechnica.com/space/2026/04/artemis-ii-is-unlikely-to-be-the-cultural-touchstone-apollo-8-was-and-thats-ok/
 https://arstechnica.com/space/2026/04/four-astronauts-depart-for-the-moon-with-a-fiery-send-off-from-cape-canaveral/
 https://arstechnica.com/space/2026/04/launch-day-has-arrived-for-nasas-artemis-ii-mission-heres-what-to-expect/
 https://arstechnica.com/space/2026/04/spacex-finally-files-for-ipo-targets-1-75-trillion-valuation/
@@ -67,6 +69,7 @@ https://futurism.com/artificial-intelligence/ai-lawsuits-chaos-courts-lawyers
 https://futurism.com/artificial-intelligence/ai-military-civil-liberty
 https://futurism.com/artificial-intelligence/analysis-new-york-times-ai-articles
 https://futurism.com/artificial-intelligence/atlassian-ai-layoffs
+https://futurism.com/artificial-intelligence/blinking-warning-sign-space-data-centers
 https://futurism.com/artificial-intelligence/bluesky-users-disgust-new-ai
 https://futurism.com/artificial-intelligence/ceo-ai-gen-z-unemployment
 https://futurism.com/artificial-intelligence/ceo-hire-anyone-vibe-code
@@ -116,6 +119,7 @@ https://futurism.com/health-medicine/startup-pitching-cloned-human-bodies
 https://futurism.com/robots-and-machines/coco-delivery-robot-smash-bus-shelter
 https://futurism.com/robots-and-machines/delivery-robot-philadelphia
 https://futurism.com/robots-and-machines/delivery-robot-smashes-bus-station
+https://futurism.com/robots-and-machines/delivery-robot-vandalism-problem
 https://futurism.com/robots-and-machines/disney-olaf-robot-wipe-out
 https://futurism.com/robots-and-machines/google-quantum-armageddon
 https://futurism.com/robots-and-machines/mcdonalds-isnt-deploying-humanoid-robots-workers
@@ -239,6 +243,7 @@ https://phys.org/news/2026-04-explores-commerce-platforms-restrict-party.html
 https://phys.org/news/2026-04-free-software-laptops-simulate-aging.html
 https://phys.org/news/2026-04-moon-rocket-weather-nasa-side.html
 https://phys.org/news/2026-04-nasa-artemis-crew-crewed-lunar.html
+https://phys.org/news/2026-04-quantum-entanglement-electrons-ions-captured.html
 https://phys.org/news/2026-04-software-package-gene-easier-tweak.html
 https://phys.org/news/2026-04-ultrafast-quantum-pulses.html
 https://phys.org/news/2026-04-world-largest-quantum-circuit-simulation.html
@@ -361,6 +366,7 @@ https://singularityhub.com/2026/03/19/tech-companies-are-blaming-massive-layoffs
 https://singularityhub.com/2026/03/27/nasa-unveils-its-20-billion-moon-base-plan-and-a-nuclear-spacecraft-for-mars/
 https://singularityhub.com/2026/03/31/chatbots-optimized-to-please-make-us-less-likely-to-admit-when-were-wrong/
 https://spectrum.ieee.org/5gw-data-center
+https://spectrum.ieee.org/abhishek-appaji-ai-diagnostic-tool
 https://spectrum.ieee.org/ai-community-engagement
 https://spectrum.ieee.org/ai-for-coding-intuition
 https://spectrum.ieee.org/ai-sycophancy
@@ -553,6 +559,10 @@ https://techcrunch.com/2026/04/01/spacex-files-confidentially-for-ipo-in-mega-li
 https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/
 https://techcrunch.com/2026/04/01/system-failure-paralyzes-baidu-robotaxis-in-china/
 https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/
+https://techcrunch.com/2026/04/02/artemis-ii-is-nasas-last-moon-mission-without-silicon-valley/
+https://techcrunch.com/2026/04/02/elevenlabs-releases-a-new-ai-powered-music-generation-app/
+https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/
+https://techcrunch.com/2026/04/02/nasa-artemis-microsoft-outlook-astronauts/
 https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/
 https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/
 https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/
@@ -827,8 +837,11 @@ https://www.bloomberg.com/news/articles/2026-04-02/doj-to-appeal-court-order-hal
 https://www.bloomberg.com/news/articles/2026-04-02/fund-beating-96-of-peers-says-buy-korean-chip-stocks-hit-by-war
 https://www.bloomberg.com/news/articles/2026-04-02/meet-the-new-ai-coworker-who-won-t-stop-snitching-to-your-boss
 https://www.bloomberg.com/news/articles/2026-04-02/microsoft-aims-to-create-large-cutting-edge-ai-models-by-2027
+https://www.bloomberg.com/news/articles/2026-04-02/microsoft-hit-audacious-copilot-goals-after-wall-street-input
+https://www.bloomberg.com/news/articles/2026-04-02/nasa-astronauts-gearing-up-for-final-engine-push-in-path-to-moon
 https://www.bloomberg.com/news/articles/2026-04-02/startup-doctolib-s-valuation-slides-38-in-secondary-share-sale
 https://www.bloomberg.com/news/articles/2026-04-02/us-job-cut-announcements-in-tech-keep-rising-with-ai-adoption
+https://www.bloomberg.com/news/articles/2026-04-02/us-lawmakers-propose-crackdown-on-sales-of-chip-tools-to-china
 https://www.bloomberg.com/news/audio/2026-03-28/odd-lots-ai-and-the-future-of-autonomous-weapons-podcast
 https://www.bloomberg.com/news/audio/2026-03-30/odd-lots-goldman-sachs-cio-marco-argenti-on-the-improvements-in-ai
 https://www.bloomberg.com/news/features/2026-03-19/new-york-city-office-leases-rebound-as-ai-companies-move-in
@@ -898,7 +911,9 @@ https://www.bloomberg.com/news/videos/2026-04-01/morgan-stanley-s-miles-discusse
 https://www.bloomberg.com/news/videos/2026-04-01/nasa-s-artemis-ii-lifts-off-in-landmark-moon-mission-video
 https://www.bloomberg.com/news/videos/2026-04-01/spacex-said-to-file-confidentially-for-biggest-ever-ipo-video
 https://www.bloomberg.com/news/videos/2026-04-01/you-have-to-start-early-in-ai-axiom-founder-video
+https://www.bloomberg.com/news/videos/2026-04-02/ai-needs-to-be-controlled-properly-kyndryl-ceo-video
 https://www.bloomberg.com/news/videos/2026-04-02/how-can-you-tell-if-a-piece-of-writing-was-ai-generated-video
+https://www.bloomberg.com/news/videos/2026-04-02/meet-the-new-ai-coworker-who-won-t-stop-snitching-video
 https://www.bloomberg.com/news/videos/2026-04-02/this-is-how-to-tell-if-writing-was-made-by-ai-video
 https://www.bloomberg.com/news/videos/2026-04-02/us-tech-job-cut-announcements-rise-as-ai-adoption-grows-video
 https://www.cnet.com/culture/entertainment/ai-set-to-create-val-kilmers-likeness-for-film-one-year-after-his-death/
@@ -942,6 +957,7 @@ https://www.cnet.com/tech/services-and-software/doordash-new-tasks-app-pay-for-t
 https://www.cnet.com/tech/services-and-software/embo-olaf-droid-combines-disney-and-nvidia-robotics-and-ai/
 https://www.cnet.com/tech/services-and-software/fi-launches-ai-powered-dog-health-chatbot/
 https://www.cnet.com/tech/services-and-software/generative-ai-music-experiment-culture/
+https://www.cnet.com/tech/services-and-software/google-cloud-ai-plan/
 https://www.cnet.com/tech/services-and-software/grok-ai-deepfake-porn-teen-girls-lawsuit-march-2026/
 https://www.cnet.com/tech/services-and-software/i-asked-ai-to-help-me-choose-a-hobby-ranking-its-suggestions-from-beekeeping-to-astronomy/
 https://www.cnet.com/tech/services-and-software/i-tried-internxt-an-encrypted-secure-cloud-storage-built-for-the-post-quantum-era/
@@ -1152,6 +1168,7 @@ https://www.wired.com/gallery/best-video-doorbells/
 https://www.wired.com/review/aiper-scuba-v3-pool-robot/
 https://www.wired.com/story/a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/
 https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/
+https://www.wired.com/story/a-new-google-funded-data-center-will-be-powered-by-a-massive-gas-plant/
 https://www.wired.com/story/a-new-study-details-how-cats-almost-always-land-on-their-feet/
 https://www.wired.com/story/ai-has-flooded-all-the-weather-apps/
 https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/
@@ -1159,6 +1176,7 @@ https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/
 https://www.wired.com/story/china-approves-first-brain-chips-for-sale-plan-to-dominate-industry/
 https://www.wired.com/story/china-is-going-all-in-on-openclaw/
 https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/
+https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/
 https://www.wired.com/story/europe-squeeze-power-energy-grid-ai-data-center/
 https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/
 https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/
