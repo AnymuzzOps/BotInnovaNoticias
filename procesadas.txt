@@ -224,9 +224,12 @@ https://phys.org/news/2026-03-team-ethical-methodological-generative-artificial.
 https://phys.org/news/2026-03-universal-scheme-quantum-state.html
 https://phys.org/news/2026-03-whisker-movement-underwater-trails-approach.html
 https://phys.org/news/2026-04-accuracy-protein-language-ai-black.html
+https://phys.org/news/2026-04-ai-reveals-england-productivity-complex.html
+https://phys.org/news/2026-04-ai-uptake-italian-firms-patchy.html
 https://phys.org/news/2026-04-explores-commerce-platforms-restrict-party.html
 https://phys.org/news/2026-04-free-software-laptops-simulate-aging.html
 https://phys.org/news/2026-04-moon-rocket-weather-nasa-side.html
+https://phys.org/news/2026-04-nasa-artemis-crew-crewed-lunar.html
 https://phys.org/news/2026-04-ultrafast-quantum-pulses.html
 https://phys.org/news/2026-04-world-largest-quantum-circuit-simulation.html
 https://roboticsandautomationnews.com/2026/03/13/abb-robotics-survey-shows-ev-confidence-as-production-shifts-from-disruption-to-delivery/99662/
@@ -806,6 +809,9 @@ https://www.bloomberg.com/news/articles/2026-04-01/perplexity-ai-machine-accused
 https://www.bloomberg.com/news/articles/2026-04-01/singapore-gets-robotaxis-as-grab-weride-launch-driverless-cars
 https://www.bloomberg.com/news/articles/2026-04-01/spacex-is-said-to-file-confidentially-for-ipo-ahead-of-ai-rivals
 https://www.bloomberg.com/news/articles/2026-04-01/tiktok-abandons-plans-to-add-second-data-center-in-ireland
+https://www.bloomberg.com/news/articles/2026-04-02/alibaba-unveils-third-closed-source-ai-model-in-focus-on-profit
+https://www.bloomberg.com/news/articles/2026-04-02/fund-beating-96-of-peers-says-buy-korean-chip-stocks-hit-by-war
+https://www.bloomberg.com/news/articles/2026-04-02/meet-the-new-ai-coworker-who-won-t-stop-snitching-to-your-boss
 https://www.bloomberg.com/news/audio/2026-03-28/odd-lots-ai-and-the-future-of-autonomous-weapons-podcast
 https://www.bloomberg.com/news/audio/2026-03-30/odd-lots-goldman-sachs-cio-marco-argenti-on-the-improvements-in-ai
 https://www.bloomberg.com/news/features/2026-03-19/new-york-city-office-leases-rebound-as-ai-companies-move-in
