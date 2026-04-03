@@ -120,6 +120,7 @@ https://futurism.com/future-society/terrified-nasa-potato
 https://futurism.com/health-medicine/mental-health-workers-ai-strike
 https://futurism.com/health-medicine/neuralink-patient-brain-chip-world-of-warcraft
 https://futurism.com/health-medicine/startup-pitching-cloned-human-bodies
+https://futurism.com/robots-and-machines/ai-tractor-startup-founders
 https://futurism.com/robots-and-machines/coco-delivery-robot-smash-bus-shelter
 https://futurism.com/robots-and-machines/delivery-robot-philadelphia
 https://futurism.com/robots-and-machines/delivery-robot-smashes-bus-station
@@ -133,6 +134,7 @@ https://futurism.com/robots-and-machines/robot-worker-factory-digit
 https://futurism.com/robots-and-machines/staff-brain-data-center-spine-fluid
 https://futurism.com/robots-and-machines/strange-modular-robots-writhing
 https://futurism.com/robots-and-machines/video-humanoid-robot-playing-tennis
+https://futurism.com/science-energy/60-million-startup-invented-new-particle-dim-sun
 https://futurism.com/science-energy/data-centers-construction-supply
 https://futurism.com/science-energy/data-centers-protests-electricity
 https://futurism.com/science-energy/engineer-twin-towers-lasers
@@ -251,6 +253,8 @@ https://phys.org/news/2026-04-nasa-artemis-crew-crewed-lunar.html
 https://phys.org/news/2026-04-platform-precise-cellular-genetic-dna.html
 https://phys.org/news/2026-04-quantum-coherence-large-scales-realistic.html
 https://phys.org/news/2026-04-quantum-entanglement-electrons-ions-captured.html
+https://phys.org/news/2026-04-seed-banks-complicate-gene-aimed.html
+https://phys.org/news/2026-04-small-quantum-outperforms-large-classical.html
 https://phys.org/news/2026-04-software-package-gene-easier-tweak.html
 https://phys.org/news/2026-04-ultrafast-quantum-pulses.html
 https://phys.org/news/2026-04-world-largest-quantum-circuit-simulation.html
@@ -572,6 +576,7 @@ https://techcrunch.com/2026/04/02/artemis-ii-is-nasas-last-moon-mission-without-
 https://techcrunch.com/2026/04/02/elevenlabs-releases-a-new-ai-powered-music-generation-app/
 https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/
 https://techcrunch.com/2026/04/02/nasa-artemis-microsoft-outlook-astronauts/
+https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/
 https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/
 https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/
 https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/
@@ -932,6 +937,7 @@ https://www.bloomberg.com/news/videos/2026-04-02/this-is-how-to-tell-if-writing-
 https://www.bloomberg.com/news/videos/2026-04-02/us-tech-job-cut-announcements-rise-as-ai-adoption-grows-video
 https://www.bloomberg.com/news/videos/2026-04-03/why-is-elon-musk-taking-spacex-public
 https://www.cnet.com/culture/entertainment/ai-set-to-create-val-kilmers-likeness-for-film-one-year-after-his-death/
+https://www.cnet.com/home/kitchen-and-household/5-common-robot-vacuum-mistakes-sabotaging-home-helper/
 https://www.cnet.com/home/kitchen-and-household/dyson-launched-first-ever-robot-mop-vacuum-i-saw-it/
 https://www.cnet.com/home/smart-home/alexa-plus-ai-gains-the-ability-to-order-you-food-from-uber-eats-and-grubhub/
 https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission-launch/
