@@ -249,6 +249,7 @@ https://phys.org/news/2026-04-free-software-laptops-simulate-aging.html
 https://phys.org/news/2026-04-moon-rocket-weather-nasa-side.html
 https://phys.org/news/2026-04-nasa-artemis-crew-crewed-lunar.html
 https://phys.org/news/2026-04-platform-precise-cellular-genetic-dna.html
+https://phys.org/news/2026-04-quantum-coherence-large-scales-realistic.html
 https://phys.org/news/2026-04-quantum-entanglement-electrons-ions-captured.html
 https://phys.org/news/2026-04-software-package-gene-easier-tweak.html
 https://phys.org/news/2026-04-ultrafast-quantum-pulses.html
@@ -929,6 +930,7 @@ https://www.bloomberg.com/news/videos/2026-04-02/how-can-you-tell-if-a-piece-of-
 https://www.bloomberg.com/news/videos/2026-04-02/meet-the-new-ai-coworker-who-won-t-stop-snitching-video
 https://www.bloomberg.com/news/videos/2026-04-02/this-is-how-to-tell-if-writing-was-made-by-ai-video
 https://www.bloomberg.com/news/videos/2026-04-02/us-tech-job-cut-announcements-rise-as-ai-adoption-grows-video
+https://www.bloomberg.com/news/videos/2026-04-03/why-is-elon-musk-taking-spacex-public
 https://www.cnet.com/culture/entertainment/ai-set-to-create-val-kilmers-likeness-for-film-one-year-after-his-death/
 https://www.cnet.com/home/kitchen-and-household/dyson-launched-first-ever-robot-mop-vacuum-i-saw-it/
 https://www.cnet.com/home/smart-home/alexa-plus-ai-gains-the-ability-to-order-you-food-from-uber-eats-and-grubhub/
@@ -946,6 +948,7 @@ https://www.cnet.com/science/space/nasa-artemis-ii-moon-mission-launch-itinerary
 https://www.cnet.com/science/space/nasas-ignition-program-skips-lunar-orbiter-goes-straight-for-moon-base/
 https://www.cnet.com/tech/computing/elon-musk-25-billion-terafab-chip-building-project/
 https://www.cnet.com/tech/computing/four-different-futures-for-quantum-computing-converge-at-nvidia-gtc/
+https://www.cnet.com/tech/computing/think-robots-are-impressive-now-just-wait-until-they-have-6g/
 https://www.cnet.com/tech/computing/which-m5-chip-do-you-need-macbook-pro-buying-guide/
 https://www.cnet.com/tech/computing/why-most-quantum-computers-need-to-be-colder-than-space/
 https://www.cnet.com/tech/computing/work-smarter-with-acers-new-ai-powered-swift-laptops/
@@ -1131,6 +1134,7 @@ https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-cust
 https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit
 https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china
 https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down
+https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs
 https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses
 https://www.theverge.com/entertainment/895435/oeuf-review
 https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing
