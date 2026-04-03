@@ -366,6 +366,7 @@ https://roboticsandautomationnews.com/2026/04/01/agile-robots-closes-acquisition
 https://roboticsandautomationnews.com/2026/04/01/epson-and-clayton-controls-form-alliance-to-deliver-robotics-solutions-in-the-southwest-us/100344/
 https://roboticsandautomationnews.com/2026/04/01/tekpak-automation-to-showcase-pick-and-place-robotic-cell-at-interpack-2026/100341/
 https://roboticsandautomationnews.com/2026/04/01/what-skills-will-truck-techs-need-in-the-ai-era/100333/
+https://roboticsandautomationnews.com/2026/04/03/what-nlp-in-test-automation-actually-means-and-why-it-matters-now/100354/
 https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/
 https://singularityhub.com/2026/03/09/hackers-are-automating-cyberattacks-with-ai-defenders-are-using-it-to-fight-back/
 https://singularityhub.com/2026/03/19/tech-companies-are-blaming-massive-layoffs-on-ai-whats-really-going-on/
@@ -1054,6 +1055,7 @@ https://www.marktechpost.com/2026/04/01/how-to-build-a-production-ready-gemma-3-
 https://www.marktechpost.com/2026/04/01/z-ai-launches-glm-5v-turbo-a-native-multimodal-vision-coding-model-optimized-for-openclaw-and-high-capacity-agentic-engineering-workflows-everywhere/
 https://www.marktechpost.com/2026/04/02/arcee-ai-releases-trinity-large-thinking-an-apache-2-0-open-reasoning-model-for-long-horizon-agents-and-tool-use/
 https://www.marktechpost.com/2026/04/02/defeating-the-token-tax-how-google-gemma-4-nvidia-and-openclaw-are-revolutionizing-local-agentic-ai-from-rtx-desktops-to-dgx-spark/
+https://www.marktechpost.com/2026/04/03/step-by-step-guide-to-build-an-end-to-end-model-optimization-pipeline-with-nvidia-model-optimizer-using-fastnas-pruning-and-fine-tuning/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
 https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html
