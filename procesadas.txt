@@ -11,6 +11,7 @@ https://arstechnica.com/ai/2026/03/staff-complain-that-xai-is-flailing-because-o
 https://arstechnica.com/ai/2026/03/the-debut-of-gemini-3-1-flash-live-could-make-it-harder-to-know-if-youre-talking-to-a-robot/
 https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/
 https://arstechnica.com/ai/2026/04/google-announces-gemma-4-open-ai-models-switches-to-apache-2-0-license/
+https://arstechnica.com/ai/2026/04/google-vids-gets-ai-upgrade-with-veo-and-lyria-models-directable-ai-avatars/
 https://arstechnica.com/gadgets/2026/03/amazon-is-reportedly-developing-an-ai-centric-smartphone/
 https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/
 https://arstechnica.com/gadgets/2026/03/apples-airpods-max-2-release-with-h2-chip-boosted-anc-in-april-for-549/
@@ -27,6 +28,7 @@ https://arstechnica.com/science/2026/03/getting-formal-about-quantum-mechanics-l
 https://arstechnica.com/science/2026/03/study-sycophantic-ai-can-undermine-human-judgment/
 https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/
 https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/
+https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/
 https://arstechnica.com/space/2026/03/a-mission-nasa-might-kill-is-still-returning-fascinating-science-from-jupiter/
 https://arstechnica.com/space/2026/03/a-unique-nasa-satellite-is-falling-out-of-orbit-this-team-is-trying-to-rescue-it/
 https://arstechnica.com/space/2026/03/after-16-years-and-8-billion-the-militarys-new-gps-software-still-doesnt-work/
@@ -51,6 +53,7 @@ https://arstechnica.com/tech-policy/2026/03/senators-want-us-energy-information-
 https://arstechnica.com/tech-policy/2026/03/starlink-satellite-breaks-apart-into-tens-of-objects-spacex-confirms-anomaly/
 https://arstechnica.com/tech-policy/2026/03/trump-made-opposing-government-spying-cool-again-effs-departing-chief-says/
 https://arstechnica.com/tech-policy/2026/04/amazon-is-trying-to-buy-globalstar-to-compete-with-spacexs-starlink/
+https://arstechnica.com/tech-policy/2026/04/spacex-claims-amazon-leo-launches-could-crash-into-starlink-satellites/
 https://arstechnica.com/tech-policy/2026/04/trump-defunding-of-npr-and-pbs-blocked-by-judge-but-damage-is-already-done/
 https://content.knowledgehub.wiley.com/engineering-challenges-and-component-strategies-in-humanoid-robotics-from-prototype-to-production/
 https://content.knowledgehub.wiley.com/heat-beneath-the-surface-thermal-metrology-for-advanced-semiconductor-materials-and-architectures/
@@ -109,6 +112,7 @@ https://futurism.com/artificial-intelligence/trump-economy-recession-ai
 https://futurism.com/artificial-intelligence/washington-post-price-ai
 https://futurism.com/artificial-intelligence/wikipedia-editors-ban-ai-content
 https://futurism.com/artificial-intelligence/zuckerberg-training-an-ai-agent-ceo
+https://futurism.com/future-society/ai-insurance-claims-denial
 https://futurism.com/future-society/detroit-blockchain-realt-collapse
 https://futurism.com/future-society/meta-firing-percentage-staff-zuckerberg
 https://futurism.com/future-society/nvidia-ai-yassification-feature-giga-nostril
@@ -134,6 +138,7 @@ https://futurism.com/science-energy/data-centers-protests-electricity
 https://futurism.com/science-energy/engineer-twin-towers-lasers
 https://futurism.com/space/astronaut-mike-fincke-medical-evacuation-details
 https://futurism.com/space/elon-musks-orbital-data-centers-huge
+https://futurism.com/space/moon-astronaut-space-toilet-jams
 https://futurism.com/space/nasa-announces-moon-launches-base
 https://futurism.com/space/nasa-launch-moon-mission-april-fools-day
 https://futurism.com/space/nasa-sending-nuclear-reactor-rocket-mars
@@ -243,6 +248,7 @@ https://phys.org/news/2026-04-explores-commerce-platforms-restrict-party.html
 https://phys.org/news/2026-04-free-software-laptops-simulate-aging.html
 https://phys.org/news/2026-04-moon-rocket-weather-nasa-side.html
 https://phys.org/news/2026-04-nasa-artemis-crew-crewed-lunar.html
+https://phys.org/news/2026-04-platform-precise-cellular-genetic-dna.html
 https://phys.org/news/2026-04-quantum-entanglement-electrons-ions-captured.html
 https://phys.org/news/2026-04-software-package-gene-easier-tweak.html
 https://phys.org/news/2026-04-ultrafast-quantum-pulses.html
@@ -365,6 +371,7 @@ https://singularityhub.com/2026/03/09/hackers-are-automating-cyberattacks-with-a
 https://singularityhub.com/2026/03/19/tech-companies-are-blaming-massive-layoffs-on-ai-whats-really-going-on/
 https://singularityhub.com/2026/03/27/nasa-unveils-its-20-billion-moon-base-plan-and-a-nuclear-spacecraft-for-mars/
 https://singularityhub.com/2026/03/31/chatbots-optimized-to-please-make-us-less-likely-to-admit-when-were-wrong/
+https://singularityhub.com/2026/04/02/the-mad-scramble-to-power-ai-is-rewiring-the-us-grid/
 https://spectrum.ieee.org/5gw-data-center
 https://spectrum.ieee.org/abhishek-appaji-ai-diagnostic-tool
 https://spectrum.ieee.org/ai-community-engagement
@@ -604,6 +611,7 @@ https://venturebeat.com/security/nvidia-gtc-2026-agentic-ai-security-five-vendor
 https://venturebeat.com/security/the-authorization-problem-that-could-break-enterprise-ai
 https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no
 https://venturebeat.com/technology/anthropics-claude-can-now-control-your-mac-escalating-the-fight-to-build-ai
+https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made
 https://venturebeat.com/technology/calling-all-gen-ai-disruptors-of-the-enterprise-apply-now-to-present-at-transform-2026
 https://venturebeat.com/technology/cursors-composer-2-was-secretly-built-on-a-chinese-ai-model-and-it-exposes-a
 https://venturebeat.com/technology/cursors-new-coding-model-composer-2-is-here-it-beats-claude-opus-4-6-but
@@ -858,6 +866,7 @@ https://www.bloomberg.com/news/newsletters/2026-03-27/nvidia-arm-return-the-cpu-
 https://www.bloomberg.com/news/newsletters/2026-03-29/apple-doubles-down-on-hardware-services-with-revamped-ai-strategy-rare-bonuses-mnbpiwon
 https://www.bloomberg.com/news/newsletters/2026-03-30/trump-s-tech-group-ignores-leaders-of-top-ai-companies
 https://www.bloomberg.com/news/newsletters/2026-04-02/openclaw-is-helping-chinese-ai-firms-find-users-overseas
+https://www.bloomberg.com/news/newsletters/2026-04-02/spacex-s-record-listing-could-lead-to-a-year-of-big-ai-ipos
 https://www.bloomberg.com/news/videos/2026-03-14/rattner-cooling-jobs-market-tariffs-and-ai-video
 https://www.bloomberg.com/news/videos/2026-03-16/bloomberg-tech-3-16-2026-video
 https://www.bloomberg.com/news/videos/2026-03-16/china-s-ai-boom-risks-job-losses-regulatory-concerns-video
@@ -912,6 +921,7 @@ https://www.bloomberg.com/news/videos/2026-04-01/nasa-s-artemis-ii-lifts-off-in-
 https://www.bloomberg.com/news/videos/2026-04-01/spacex-said-to-file-confidentially-for-biggest-ever-ipo-video
 https://www.bloomberg.com/news/videos/2026-04-01/you-have-to-start-early-in-ai-axiom-founder-video
 https://www.bloomberg.com/news/videos/2026-04-02/ai-needs-to-be-controlled-properly-kyndryl-ceo-video
+https://www.bloomberg.com/news/videos/2026-04-02/bloomberg-tech-4-2-2026-video
 https://www.bloomberg.com/news/videos/2026-04-02/how-can-you-tell-if-a-piece-of-writing-was-ai-generated-video
 https://www.bloomberg.com/news/videos/2026-04-02/meet-the-new-ai-coworker-who-won-t-stop-snitching-video
 https://www.bloomberg.com/news/videos/2026-04-02/this-is-how-to-tell-if-writing-was-made-by-ai-video
@@ -1040,6 +1050,8 @@ https://www.marktechpost.com/2026/03/31/google-ai-releases-veo-3-1-lite-giving-d
 https://www.marktechpost.com/2026/03/31/liquid-ai-released-lfm2-5-350m-a-compact-350m-parameter-model-trained-on-28t-tokens-with-scaled-reinforcement-learning/
 https://www.marktechpost.com/2026/04/01/how-to-build-a-production-ready-gemma-3-1b-instruct-generation-ai-pipeline-with-hugging-face-transformers-chat-templates-and-colab-inference/
 https://www.marktechpost.com/2026/04/01/z-ai-launches-glm-5v-turbo-a-native-multimodal-vision-coding-model-optimized-for-openclaw-and-high-capacity-agentic-engineering-workflows-everywhere/
+https://www.marktechpost.com/2026/04/02/arcee-ai-releases-trinity-large-thinking-an-apache-2-0-open-reasoning-model-for-long-horizon-agents-and-tool-use/
+https://www.marktechpost.com/2026/04/02/defeating-the-token-tax-how-google-gemma-4-nvidia-and-openclaw-are-revolutionizing-local-agentic-ai-from-rtx-desktops-to-dgx-spark/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
 https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html
