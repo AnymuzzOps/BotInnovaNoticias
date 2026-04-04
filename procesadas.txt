@@ -89,6 +89,7 @@ https://futurism.com/artificial-intelligence/doctor-reels-son-becomes-plumber-ai
 https://futurism.com/artificial-intelligence/educational-youtube-ai-slop-play-in-traffic
 https://futurism.com/artificial-intelligence/elon-musk-terafab-finances
 https://futurism.com/artificial-intelligence/helium-ai-iran-war
+https://futurism.com/artificial-intelligence/hospital-ceo-ai-radiology
 https://futurism.com/artificial-intelligence/man-pleads-guilty-music-ai-bot-streams
 https://futurism.com/artificial-intelligence/meta-court-defeat-ai-industry
 https://futurism.com/artificial-intelligence/meta-layoffs-zuckerberg-ai
@@ -1111,6 +1112,7 @@ https://www.nytimes.com/2026/03/31/technology/openai-12-billion-latest-funding-r
 https://www.nytimes.com/2026/04/01/technology/spacex-ipo-elon-musk.html
 https://www.nytimes.com/2026/04/03/business/spacex-ipo-grok-elon-musk.html
 https://www.nytimes.com/2026/04/03/technology/iphones-artemis-nasa.html
+https://www.nytimes.com/2026/04/04/technology/ai-chatbots-teen-roleplay.html
 https://www.sciencedaily.com/releases/2026/01/260129080418.htm
 https://www.sciencedaily.com/releases/2026/01/260131084555.htm
 https://www.sciencedaily.com/releases/2026/02/260201223737.htm
@@ -1179,6 +1181,7 @@ https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses
 https://www.theverge.com/entertainment/895435/oeuf-review
 https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing
 https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview
+https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright
 https://www.theverge.com/gadgets/900518/razers-new-blade-16-gaming-laptop-has-an-intel-panther-lake-chip-and-very-fast-ram
 https://www.theverge.com/gadgets/901792/best-robot-vacuum-mops-amazon-big-spring-sale-2026-deals
 https://www.theverge.com/gadgets/902829/birdbuddy-netvue-smart-bird-feeders-amazon-big-spring-sale-2026-deals
