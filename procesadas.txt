@@ -109,6 +109,7 @@ https://futurism.com/artificial-intelligence/protestors-anthropic-ai
 https://futurism.com/artificial-intelligence/reaction-buzzfeed-new-ai-apps
 https://futurism.com/artificial-intelligence/rogue-ai-agent-triggers-emergency-at-meta
 https://futurism.com/artificial-intelligence/seminole-nation-data-centers
+https://futurism.com/artificial-intelligence/startup-replace-developers-with-openclaw
 https://futurism.com/artificial-intelligence/study-chats-delusional-users-ai
 https://futurism.com/artificial-intelligence/surreal-footage-melania-trump-white-house-robot
 https://futurism.com/artificial-intelligence/teens-ai-slander-videos-teachers
@@ -590,6 +591,7 @@ https://techcrunch.com/2026/04/02/nasa-artemis-microsoft-outlook-astronauts/
 https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/
 https://techcrunch.com/2026/04/03/ai-energy-microsoft-meta-google-natural-gas-mining-fomo/
 https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/
+https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/
 https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/
 https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/
 https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/
@@ -632,6 +634,7 @@ https://venturebeat.com/orchestration/y-combinator-backed-random-labs-launches-s
 https://venturebeat.com/security/meta-rogue-ai-agent-confused-deputy-iam-identity-governance-matrix
 https://venturebeat.com/security/nvidia-gtc-2026-agentic-ai-security-five-vendor-governance-framework
 https://venturebeat.com/security/the-authorization-problem-that-could-break-enterprise-ai
+https://venturebeat.com/technology/anthropic-cuts-off-the-ability-to-use-claude-subscriptions-with-openclaw-and
 https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no
 https://venturebeat.com/technology/anthropics-claude-can-now-control-your-mac-escalating-the-fight-to-build-ai
 https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made
@@ -1082,6 +1085,7 @@ https://www.marktechpost.com/2026/04/01/z-ai-launches-glm-5v-turbo-a-native-mult
 https://www.marktechpost.com/2026/04/02/arcee-ai-releases-trinity-large-thinking-an-apache-2-0-open-reasoning-model-for-long-horizon-agents-and-tool-use/
 https://www.marktechpost.com/2026/04/02/defeating-the-token-tax-how-google-gemma-4-nvidia-and-openclaw-are-revolutionizing-local-agentic-ai-from-rtx-desktops-to-dgx-spark/
 https://www.marktechpost.com/2026/04/03/google-deepminds-research-lets-an-llm-rewrite-its-own-game-theory-algorithms-and-it-outperformed-the-experts/
+https://www.marktechpost.com/2026/04/03/how-to-build-production-ready-agentic-systems-with-z-ai-glm-5-using-thinking-mode-tool-calling-streaming-and-multi-turn-workflows/
 https://www.marktechpost.com/2026/04/03/step-by-step-guide-to-build-an-end-to-end-model-optimization-pipeline-with-nvidia-model-optimizer-using-fastnas-pruning-and-fine-tuning/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
