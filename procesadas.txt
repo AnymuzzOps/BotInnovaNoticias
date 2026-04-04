@@ -73,6 +73,7 @@ https://futurism.com/artificial-intelligence/ai-coding-error-debt
 https://futurism.com/artificial-intelligence/ai-data-center-security-guards-robot-dogs
 https://futurism.com/artificial-intelligence/ai-economy-gdp-2025
 https://futurism.com/artificial-intelligence/ai-grandmother-jail-mistake
+https://futurism.com/artificial-intelligence/ai-killing-microsoft
 https://futurism.com/artificial-intelligence/ai-lawsuits-chaos-courts-lawyers
 https://futurism.com/artificial-intelligence/ai-military-civil-liberty
 https://futurism.com/artificial-intelligence/analysis-new-york-times-ai-articles
@@ -233,6 +234,7 @@ https://phys.org/news/2026-03-nasa-moon-rocket-pad-eyeing.html
 https://phys.org/news/2026-03-nasa-narrows-artemis-sites-key.html
 https://phys.org/news/2026-03-nasa-probe-complex-sun-magnetic.html
 https://phys.org/news/2026-03-nasa-ray-mission-fresh-year.html
+https://phys.org/news/2026-03-nasa-tool-scout-moon-south.html
 https://phys.org/news/2026-03-noise-limits-today-quantum-circuits.html
 https://phys.org/news/2026-03-panicking-scientists-canceled-federal-funding.html
 https://phys.org/news/2026-03-physicists-electronic-agents-flat-band.html
@@ -1087,6 +1089,7 @@ https://www.marktechpost.com/2026/04/02/defeating-the-token-tax-how-google-gemma
 https://www.marktechpost.com/2026/04/03/google-deepminds-research-lets-an-llm-rewrite-its-own-game-theory-algorithms-and-it-outperformed-the-experts/
 https://www.marktechpost.com/2026/04/03/how-to-build-production-ready-agentic-systems-with-z-ai-glm-5-using-thinking-mode-tool-calling-streaming-and-multi-turn-workflows/
 https://www.marktechpost.com/2026/04/03/step-by-step-guide-to-build-an-end-to-end-model-optimization-pipeline-with-nvidia-model-optimizer-using-fastnas-pruning-and-fine-tuning/
+https://www.marktechpost.com/2026/04/04/netflix-ai-team-just-open-sourced-void-an-ai-model-that-erases-objects-from-videos-physics-and-all/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
 https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html
