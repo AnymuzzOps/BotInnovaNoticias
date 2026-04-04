@@ -76,6 +76,7 @@ https://futurism.com/artificial-intelligence/ai-grandmother-jail-mistake
 https://futurism.com/artificial-intelligence/ai-killing-microsoft
 https://futurism.com/artificial-intelligence/ai-lawsuits-chaos-courts-lawyers
 https://futurism.com/artificial-intelligence/ai-military-civil-liberty
+https://futurism.com/artificial-intelligence/ai-professor-typewriters
 https://futurism.com/artificial-intelligence/analysis-new-york-times-ai-articles
 https://futurism.com/artificial-intelligence/atlassian-ai-layoffs
 https://futurism.com/artificial-intelligence/blinking-warning-sign-space-data-centers
@@ -108,6 +109,7 @@ https://futurism.com/artificial-intelligence/openai-killing-sora-video-ai-slop
 https://futurism.com/artificial-intelligence/paper-ai-chatbots-chatgpt-claude-sycophantic
 https://futurism.com/artificial-intelligence/protestors-anthropic-ai
 https://futurism.com/artificial-intelligence/reaction-buzzfeed-new-ai-apps
+https://futurism.com/artificial-intelligence/real-reason-openai-shut-sora-down
 https://futurism.com/artificial-intelligence/rogue-ai-agent-triggers-emergency-at-meta
 https://futurism.com/artificial-intelligence/seminole-nation-data-centers
 https://futurism.com/artificial-intelligence/startup-replace-developers-with-openclaw
@@ -118,6 +120,7 @@ https://futurism.com/artificial-intelligence/trump-ai-slop-model
 https://futurism.com/artificial-intelligence/trump-economy-recession-ai
 https://futurism.com/artificial-intelligence/washington-post-price-ai
 https://futurism.com/artificial-intelligence/wikipedia-editors-ban-ai-content
+https://futurism.com/artificial-intelligence/william-shatner-ai-spreading-rumors
 https://futurism.com/artificial-intelligence/zuckerberg-training-an-ai-agent-ceo
 https://futurism.com/future-society/ai-insurance-claims-denial
 https://futurism.com/future-society/detroit-blockchain-realt-collapse
@@ -223,6 +226,7 @@ https://phys.org/news/2026-03-invisible-choreography-quantum-noise.html
 https://phys.org/news/2026-03-legged-robot-resource-prospecting-moon.html
 https://phys.org/news/2026-03-magnetic-microbots-quantum-sensors-cells.html
 https://phys.org/news/2026-03-masterpiece-laser-scans-ai-layers.html
+https://phys.org/news/2026-03-microscopic-mechanism-quantum-collapse-real.html
 https://phys.org/news/2026-03-microwave-quantum-network-resilience-disturbances.html
 https://phys.org/news/2026-03-million-spacex-satellites-destroy-night.html
 https://phys.org/news/2026-03-musk-twitter-takeover-highlights-danger.html
@@ -958,6 +962,7 @@ https://www.bloomberg.com/news/videos/2026-04-02/this-is-how-to-tell-if-writing-
 https://www.bloomberg.com/news/videos/2026-04-02/us-tech-job-cut-announcements-rise-as-ai-adoption-grows-video
 https://www.bloomberg.com/news/videos/2026-04-03/nasa-s-artemis-ii-lifts-off-bloomberg-special-video
 https://www.bloomberg.com/news/videos/2026-04-03/why-is-elon-musk-taking-spacex-public
+https://www.bloomberg.com/news/videos/2026-04-04/napster-is-evolving-in-the-ai-era-video
 https://www.cnet.com/culture/entertainment/ai-set-to-create-val-kilmers-likeness-for-film-one-year-after-his-death/
 https://www.cnet.com/home/kitchen-and-household/5-common-robot-vacuum-mistakes-sabotaging-home-helper/
 https://www.cnet.com/home/kitchen-and-household/dyson-launched-first-ever-robot-mop-vacuum-i-saw-it/
@@ -1009,6 +1014,7 @@ https://www.cnet.com/tech/services-and-software/i-tried-to-find-job-ads-directly
 https://www.cnet.com/tech/services-and-software/meeting-every-robot-at-nvidia-gtc-what-the-future-may-bring/
 https://www.cnet.com/tech/services-and-software/meta-ray-ban-smart-glasses-ai-privacy-policy/
 https://www.cnet.com/tech/services-and-software/microsoft-ai-transcribe-image-2-voice-news/
+https://www.cnet.com/tech/services-and-software/ministry-of-awe-philadelphia-immersive-art-experience/
 https://www.cnet.com/tech/services-and-software/nvidia-gtc-2026-3-things-you-should-know-about/
 https://www.cnet.com/tech/services-and-software/nvidia-is-building-a-computer-for-data-centers-in-space/
 https://www.cnet.com/tech/services-and-software/nvidia-wants-to-make-it-easier-to-create-an-openclaw-ai-agent/
@@ -1217,6 +1223,7 @@ https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion
 https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27
 https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs
 https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update
+https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content
 https://www.theverge.com/transportation/897105/uber-rivian-robotaxi-investment-deal
 https://www.theverge.com/transportation/900559/robotaxi-two-seater-tesla-lucid-drag-cost
 https://www.theverge.com/transportation/900656/uber-pony-ai-verne-robotaxi-europe
