@@ -73,6 +73,7 @@ https://futurism.com/artificial-intelligence/ai-coding-error-debt
 https://futurism.com/artificial-intelligence/ai-data-center-security-guards-robot-dogs
 https://futurism.com/artificial-intelligence/ai-economy-gdp-2025
 https://futurism.com/artificial-intelligence/ai-grandmother-jail-mistake
+https://futurism.com/artificial-intelligence/ai-jobs-automation-expert
 https://futurism.com/artificial-intelligence/ai-killing-microsoft
 https://futurism.com/artificial-intelligence/ai-lawsuits-chaos-courts-lawyers
 https://futurism.com/artificial-intelligence/ai-military-civil-liberty
@@ -108,6 +109,7 @@ https://futurism.com/artificial-intelligence/openai-cancels-spicy-chatbot
 https://futurism.com/artificial-intelligence/openai-cofounder-analysis-jobs-ai
 https://futurism.com/artificial-intelligence/openai-data-centers-trouble
 https://futurism.com/artificial-intelligence/openai-killing-sora-video-ai-slop
+https://futurism.com/artificial-intelligence/openai-nonprofit-child-safety
 https://futurism.com/artificial-intelligence/paper-ai-chatbots-chatgpt-claude-sycophantic
 https://futurism.com/artificial-intelligence/protestors-anthropic-ai
 https://futurism.com/artificial-intelligence/reaction-buzzfeed-new-ai-apps
@@ -126,6 +128,7 @@ https://futurism.com/artificial-intelligence/wikipedia-editors-ban-ai-content
 https://futurism.com/artificial-intelligence/william-shatner-ai-spreading-rumors
 https://futurism.com/artificial-intelligence/zuckerberg-training-an-ai-agent-ceo
 https://futurism.com/future-society/ai-insurance-claims-denial
+https://futurism.com/future-society/ai-pacs-trump-lobbying
 https://futurism.com/future-society/detroit-blockchain-realt-collapse
 https://futurism.com/future-society/meta-firing-percentage-staff-zuckerberg
 https://futurism.com/future-society/nvidia-ai-yassification-feature-giga-nostril
@@ -262,6 +265,7 @@ https://phys.org/news/2026-03-whisker-movement-underwater-trails-approach.html
 https://phys.org/news/2026-04-accuracy-protein-language-ai-black.html
 https://phys.org/news/2026-04-ai-reveals-england-productivity-complex.html
 https://phys.org/news/2026-04-ai-seasonal-droughts.html
+https://phys.org/news/2026-04-ai-university-students-plagiarizing.html
 https://phys.org/news/2026-04-ai-uptake-italian-firms-patchy.html
 https://phys.org/news/2026-04-europe-nasa-lunar-missions-esa.html
 https://phys.org/news/2026-04-explores-commerce-platforms-restrict-party.html
@@ -605,6 +609,7 @@ https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-th
 https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/
 https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/
 https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/
+https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/
 https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/
 https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/
 https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/
@@ -891,6 +896,7 @@ https://www.bloomberg.com/news/articles/2026-04-02/us-lawmakers-propose-crackdow
 https://www.bloomberg.com/news/articles/2026-04-03/chinese-robot-pioneer-ubtech-offers-18-million-for-ai-scientist
 https://www.bloomberg.com/news/articles/2026-04-03/microsoft-drafts-10-billion-investment-plan-in-ai-hungry-japan
 https://www.bloomberg.com/news/articles/2026-04-05/nvidia-partner-hon-hai-s-sales-meet-estimates-on-solid-ai-demand
+https://www.bloomberg.com/news/articles/2026-04-05/on-nasa-s-moon-mission-the-biggest-headache-has-been-the-toilet
 https://www.bloomberg.com/news/audio/2026-03-28/odd-lots-ai-and-the-future-of-autonomous-weapons-podcast
 https://www.bloomberg.com/news/audio/2026-03-30/odd-lots-goldman-sachs-cio-marco-argenti-on-the-improvements-in-ai
 https://www.bloomberg.com/news/features/2026-03-19/new-york-city-office-leases-rebound-as-ai-companies-move-in
