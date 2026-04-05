@@ -1099,6 +1099,8 @@ https://www.marktechpost.com/2026/04/03/google-deepminds-research-lets-an-llm-re
 https://www.marktechpost.com/2026/04/03/how-to-build-production-ready-agentic-systems-with-z-ai-glm-5-using-thinking-mode-tool-calling-streaming-and-multi-turn-workflows/
 https://www.marktechpost.com/2026/04/03/step-by-step-guide-to-build-an-end-to-end-model-optimization-pipeline-with-nvidia-model-optimizer-using-fastnas-pruning-and-fine-tuning/
 https://www.marktechpost.com/2026/04/04/netflix-ai-team-just-open-sourced-void-an-ai-model-that-erases-objects-from-videos-physics-and-all/
+https://www.marktechpost.com/2026/04/05/inside-the-creative-artificial-intelligence-ai-stack-where-human-vision-and-artificial-intelligence-meet-to-design-future-fashion/
+https://www.marktechpost.com/2026/04/05/meet-autoagent-the-open-source-library-that-lets-an-ai-engineer-and-optimize-its-own-agent-harness-overnight/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
 https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html
@@ -1232,6 +1234,7 @@ https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content
 https://www.theverge.com/transportation/897105/uber-rivian-robotaxi-investment-deal
 https://www.theverge.com/transportation/900559/robotaxi-two-seater-tesla-lucid-drag-cost
 https://www.theverge.com/transportation/900656/uber-pony-ai-verne-robotaxi-europe
+https://www.wired.com/gallery/best-robot-lawn-mowers/
 https://www.wired.com/gallery/best-video-doorbells/
 https://www.wired.com/review/aiper-scuba-v3-pool-robot/
 https://www.wired.com/story/a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/
