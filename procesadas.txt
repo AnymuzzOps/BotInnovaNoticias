@@ -83,6 +83,7 @@ https://futurism.com/artificial-intelligence/blinking-warning-sign-space-data-ce
 https://futurism.com/artificial-intelligence/bluesky-users-disgust-new-ai
 https://futurism.com/artificial-intelligence/ceo-ai-gen-z-unemployment
 https://futurism.com/artificial-intelligence/ceo-hire-anyone-vibe-code
+https://futurism.com/artificial-intelligence/china-usa-ai-regulations
 https://futurism.com/artificial-intelligence/cooking-actual-ai-generated-recipes
 https://futurism.com/artificial-intelligence/data-centers-temperature-spikes
 https://futurism.com/artificial-intelligence/doctor-reels-son-becomes-plumber-ai
@@ -116,6 +117,7 @@ https://futurism.com/artificial-intelligence/seminole-nation-data-centers
 https://futurism.com/artificial-intelligence/startup-replace-developers-with-openclaw
 https://futurism.com/artificial-intelligence/study-chats-delusional-users-ai
 https://futurism.com/artificial-intelligence/surreal-footage-melania-trump-white-house-robot
+https://futurism.com/artificial-intelligence/target-ai-agent-tos
 https://futurism.com/artificial-intelligence/teens-ai-slander-videos-teachers
 https://futurism.com/artificial-intelligence/trump-ai-slop-model
 https://futurism.com/artificial-intelligence/trump-economy-recession-ai
@@ -602,6 +604,8 @@ https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-ma
 https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/
 https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/
 https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/
+https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/
+https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/
 https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/
 https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/
 https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/
@@ -966,6 +970,7 @@ https://www.bloomberg.com/news/videos/2026-04-02/us-tech-job-cut-announcements-r
 https://www.bloomberg.com/news/videos/2026-04-03/nasa-s-artemis-ii-lifts-off-bloomberg-special-video
 https://www.bloomberg.com/news/videos/2026-04-03/why-is-elon-musk-taking-spacex-public
 https://www.bloomberg.com/news/videos/2026-04-04/napster-is-evolving-in-the-ai-era-video
+https://www.bloomberg.com/news/videos/2026-04-05/ibm-masters-use-ai-to-bring-the-fairway-to-every-fan-video
 https://www.cnet.com/culture/entertainment/ai-set-to-create-val-kilmers-likeness-for-film-one-year-after-his-death/
 https://www.cnet.com/home/kitchen-and-household/5-common-robot-vacuum-mistakes-sabotaging-home-helper/
 https://www.cnet.com/home/kitchen-and-household/dyson-launched-first-ever-robot-mop-vacuum-i-saw-it/
@@ -1014,6 +1019,7 @@ https://www.cnet.com/tech/services-and-software/grok-ai-deepfake-porn-teen-girls
 https://www.cnet.com/tech/services-and-software/i-asked-ai-to-help-me-choose-a-hobby-ranking-its-suggestions-from-beekeeping-to-astronomy/
 https://www.cnet.com/tech/services-and-software/i-tried-internxt-an-encrypted-secure-cloud-storage-built-for-the-post-quantum-era/
 https://www.cnet.com/tech/services-and-software/i-tried-to-find-job-ads-directly-in-a-chatbot-heres-what-happened/
+https://www.cnet.com/tech/services-and-software/i-used-ai-to-help-me-stay-ahead-of-home-maintenance-heres-how/
 https://www.cnet.com/tech/services-and-software/meeting-every-robot-at-nvidia-gtc-what-the-future-may-bring/
 https://www.cnet.com/tech/services-and-software/meta-ray-ban-smart-glasses-ai-privacy-policy/
 https://www.cnet.com/tech/services-and-software/microsoft-ai-transcribe-image-2-voice-news/
