@@ -899,6 +899,7 @@ https://www.bloomberg.com/news/articles/2026-04-03/chinese-robot-pioneer-ubtech-
 https://www.bloomberg.com/news/articles/2026-04-03/microsoft-drafts-10-billion-investment-plan-in-ai-hungry-japan
 https://www.bloomberg.com/news/articles/2026-04-05/nvidia-partner-hon-hai-s-sales-meet-estimates-on-solid-ai-demand
 https://www.bloomberg.com/news/articles/2026-04-05/on-nasa-s-moon-mission-the-biggest-headache-has-been-the-toilet
+https://www.bloomberg.com/news/articles/2026-04-06/russia-s-key-black-sea-oil-terminal-on-fire-nasa-data-show
 https://www.bloomberg.com/news/audio/2026-03-28/odd-lots-ai-and-the-future-of-autonomous-weapons-podcast
 https://www.bloomberg.com/news/audio/2026-03-30/odd-lots-goldman-sachs-cio-marco-argenti-on-the-improvements-in-ai
 https://www.bloomberg.com/news/features/2026-03-19/new-york-city-office-leases-rebound-as-ai-companies-move-in
@@ -1116,6 +1117,7 @@ https://www.marktechpost.com/2026/04/04/netflix-ai-team-just-open-sourced-void-a
 https://www.marktechpost.com/2026/04/05/inside-the-creative-artificial-intelligence-ai-stack-where-human-vision-and-artificial-intelligence-meet-to-design-future-fashion/
 https://www.marktechpost.com/2026/04/05/meet-autoagent-the-open-source-library-that-lets-an-ai-engineer-and-optimize-its-own-agent-harness-overnight/
 https://www.marktechpost.com/2026/04/05/meet-maxtoki-the-ai-that-predicts-how-your-cells-age-and-what-to-do-about-it/
+https://www.marktechpost.com/2026/04/06/rightnow-ai-releases-autokernel-an-open-source-framework-that-applies-an-autonomous-agent-loop-to-gpu-kernel-optimization-for-arbitrary-pytorch-models/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
 https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html
