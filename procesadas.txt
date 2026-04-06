@@ -194,6 +194,7 @@ https://news.crunchbase.com/venture/construction-tech-automation-trayd-ai-series
 https://news.crunchbase.com/venture/data-largest-seed-rounds-ai-startups/
 https://news.crunchbase.com/venture/foundational-ai-startup-funding-doubled-openai-anthropic-xai-q1-2026/
 https://news.crunchbase.com/venture/founder-first-investing-ai-khosla-choi/
+https://news.crunchbase.com/venture/funding-surges-all-stages-ai-north-america-q1-2026/
 https://news.crunchbase.com/venture/hype-outcomes-vcs-recalibrate-agentic-ai-kapre-snowflake/
 https://news.crunchbase.com/venture/interesting-startup-deals-robots-ai-agent-inboxes-defense-space-tech/
 https://news.crunchbase.com/venture/kleiner-perkins-raises-ai-focused-funds/
@@ -263,6 +264,7 @@ https://phys.org/news/2026-03-team-ethical-methodological-generative-artificial.
 https://phys.org/news/2026-03-universal-scheme-quantum-state.html
 https://phys.org/news/2026-03-whisker-movement-underwater-trails-approach.html
 https://phys.org/news/2026-04-accuracy-protein-language-ai-black.html
+https://phys.org/news/2026-04-aerobot-isru-capabilities-explore-venus.html
 https://phys.org/news/2026-04-ai-reveals-england-productivity-complex.html
 https://phys.org/news/2026-04-ai-seasonal-droughts.html
 https://phys.org/news/2026-04-ai-university-students-plagiarizing.html
@@ -899,6 +901,8 @@ https://www.bloomberg.com/news/articles/2026-04-03/chinese-robot-pioneer-ubtech-
 https://www.bloomberg.com/news/articles/2026-04-03/microsoft-drafts-10-billion-investment-plan-in-ai-hungry-japan
 https://www.bloomberg.com/news/articles/2026-04-05/nvidia-partner-hon-hai-s-sales-meet-estimates-on-solid-ai-demand
 https://www.bloomberg.com/news/articles/2026-04-05/on-nasa-s-moon-mission-the-biggest-headache-has-been-the-toilet
+https://www.bloomberg.com/news/articles/2026-04-06/nasa-artemis-ii-astronauts-set-to-fly-by-far-side-of-the-moon
+https://www.bloomberg.com/news/articles/2026-04-06/openai-advocates-electric-grid-safety-net-spending-for-new-ai-era
 https://www.bloomberg.com/news/articles/2026-04-06/russia-s-key-black-sea-oil-terminal-on-fire-nasa-data-show
 https://www.bloomberg.com/news/audio/2026-03-28/odd-lots-ai-and-the-future-of-autonomous-weapons-podcast
 https://www.bloomberg.com/news/audio/2026-03-30/odd-lots-goldman-sachs-cio-marco-argenti-on-the-improvements-in-ai
@@ -1176,6 +1180,7 @@ https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-e
 https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/
 https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/
 https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/
+https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/
 https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data
 https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk
 https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence
@@ -1240,6 +1245,7 @@ https://www.theverge.com/tech/896775/matic-robot-vacuum-apple-home-matter
 https://www.theverge.com/tech/898162/vidabay-classic-plus-nfc-e-ink-fridge-magnet
 https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on
 https://www.theverge.com/tech/899799/apple-ios-26-4-ai-playlist-purchase-sharing-update
+https://www.theverge.com/tech/900302/ai-seo-industry-google-search-chatgpt-gemini-marketing
 https://www.theverge.com/tech/900428/seiko-rotocall-digital-watch-retro-nasa-astronauts
 https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees
 https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban
@@ -1282,6 +1288,7 @@ https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/
 https://www.wired.com/story/new-bernie-sanders-ai-safety-bill-would-halt-data-center-construction/
 https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/
 https://www.wired.com/story/project-maven-katrina-manson-book-excerpt/
+https://www.wired.com/story/robot-mowers-are-good-now-rave/
 https://www.wired.com/story/robotaxi-outage-in-china-leaves-passengers-stuck-in-cars-on-highways/
 https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/
 https://www.wired.com/story/senators-demand-to-know-how-much-energy-data-centers-use/
@@ -1305,6 +1312,7 @@ https://www.zdnet.com/article/caio-chief-ai-officer-alternative-director-of-ai-p
 https://www.zdnet.com/article/chatgpt-voice-mode-tricks/
 https://www.zdnet.com/article/cisco-defenseclaw-to-govern-agentic-ai/
 https://www.zdnet.com/article/claude-ai-control-computer-hands-on-results/
+https://www.zdnet.com/article/claude-code-iterm2-guide-to-my-ai-coding-environment/
 https://www.zdnet.com/article/duckai-popularity-government-surveillance-privacy-anthropic-openai/
 https://www.zdnet.com/article/fitbit-medical-google-ai/
 https://www.zdnet.com/article/former-tesla-president-explains-where-ai-will-accelerate-job-growth/
