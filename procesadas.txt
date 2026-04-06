@@ -273,6 +273,7 @@ https://phys.org/news/2026-04-free-software-laptops-simulate-aging.html
 https://phys.org/news/2026-04-high-throughput-platform-fast-covalent.html
 https://phys.org/news/2026-04-moon-rocket-weather-nasa-side.html
 https://phys.org/news/2026-04-nasa-artemis-crew-crewed-lunar.html
+https://phys.org/news/2026-04-opportunity-ai.html
 https://phys.org/news/2026-04-platform-precise-cellular-genetic-dna.html
 https://phys.org/news/2026-04-quantum-coherence-large-scales-realistic.html
 https://phys.org/news/2026-04-quantum-entanglement-electrons-ions-captured.html
@@ -699,6 +700,7 @@ https://www.bbc.com/news/articles/cvg1gr5v333o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cvge91r9j80o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cx28v08jpe7o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cx2g8888q53o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/cy41n17e23go?at_medium=RSS&at_campaign=rss
 https://www.bloomberg.com/en/news/thp/2026-03-24/urgent-new-mexico-jury-finds-meta-violated-consumer-protection-law-at-trial-about-child-safety
 https://www.bloomberg.com/news/articles/2026-03-12/dishwashing-home-robot-maker-sunday-hits-1-15-billion-valuation
 https://www.bloomberg.com/news/articles/2026-03-13/elon-musk-s-ketamine-use-can-t-be-probed-in-openai-fraud-trial
@@ -1113,6 +1115,7 @@ https://www.marktechpost.com/2026/04/03/step-by-step-guide-to-build-an-end-to-en
 https://www.marktechpost.com/2026/04/04/netflix-ai-team-just-open-sourced-void-an-ai-model-that-erases-objects-from-videos-physics-and-all/
 https://www.marktechpost.com/2026/04/05/inside-the-creative-artificial-intelligence-ai-stack-where-human-vision-and-artificial-intelligence-meet-to-design-future-fashion/
 https://www.marktechpost.com/2026/04/05/meet-autoagent-the-open-source-library-that-lets-an-ai-engineer-and-optimize-its-own-agent-harness-overnight/
+https://www.marktechpost.com/2026/04/05/meet-maxtoki-the-ai-that-predicts-how-your-cells-age-and-what-to-do-about-it/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
 https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html
