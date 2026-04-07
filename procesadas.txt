@@ -19,6 +19,7 @@ https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams
 https://arstechnica.com/gadgets/2026/03/apples-airpods-max-2-release-with-h2-chip-boosted-anc-in-april-for-549/
 https://arstechnica.com/gadgets/2026/03/despite-hardware-limits-parallels-supports-running-windows-on-macbook-neo/
 https://arstechnica.com/gadgets/2026/03/major-steamos-update-adds-support-for-steam-machine-even-more-third-party-hardware/
+https://arstechnica.com/gadgets/2026/04/intel-is-going-all-in-on-advanced-chip-packaging/
 https://arstechnica.com/gaming/2026/03/gamers-react-with-overwhelming-disgust-to-dlss-5s-generative-ai-glow-ups/
 https://arstechnica.com/gaming/2026/03/nvidia-ceo-tries-to-explain-why-dlss-5-isnt-just-ai-slop/
 https://arstechnica.com/gaming/2026/03/slay-the-spire-2-is-a-bit-too-familiar-for-its-own-good/
@@ -201,6 +202,7 @@ https://news.crunchbase.com/venture/foundational-ai-startup-funding-doubled-open
 https://news.crunchbase.com/venture/founder-first-investing-ai-khosla-choi/
 https://news.crunchbase.com/venture/funding-surges-all-stages-ai-north-america-q1-2026/
 https://news.crunchbase.com/venture/hype-outcomes-vcs-recalibrate-agentic-ai-kapre-snowflake/
+https://news.crunchbase.com/venture/interesting-startup-deals-mineral-rights-flying-ferry-ai-clean-tech/
 https://news.crunchbase.com/venture/interesting-startup-deals-robots-ai-agent-inboxes-defense-space-tech/
 https://news.crunchbase.com/venture/kleiner-perkins-raises-ai-focused-funds/
 https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/
@@ -282,6 +284,7 @@ https://phys.org/news/2026-04-free-software-laptops-simulate-aging.html
 https://phys.org/news/2026-04-high-throughput-platform-fast-covalent.html
 https://phys.org/news/2026-04-mechanical-boost-diamond-quantum-sensor.html
 https://phys.org/news/2026-04-moon-rocket-weather-nasa-side.html
+https://phys.org/news/2026-04-morale-boost-nasa-moon-mission.html
 https://phys.org/news/2026-04-nasa-artemis-crew-crewed-lunar.html
 https://phys.org/news/2026-04-opportunity-ai.html
 https://phys.org/news/2026-04-platform-precise-cellular-genetic-dna.html
@@ -409,6 +412,9 @@ https://roboticsandautomationnews.com/2026/04/01/tekpak-automation-to-showcase-p
 https://roboticsandautomationnews.com/2026/04/01/what-skills-will-truck-techs-need-in-the-ai-era/100333/
 https://roboticsandautomationnews.com/2026/04/03/what-nlp-in-test-automation-actually-means-and-why-it-matters-now/100354/
 https://roboticsandautomationnews.com/2026/04/07/big-d-expands-construction-operations-with-fieldai-as-robotics-adoption-accelerates/100362/
+https://roboticsandautomationnews.com/2026/04/07/jurassic-bag-from-dinosaur-dna-to-designer-goods-how-biofabrication-and-automation-could-reshape-materials/100367/
+https://roboticsandautomationnews.com/2026/04/07/openai-raises-122-billion-as-ai-infrastructure-race-accelerates/100377/
+https://roboticsandautomationnews.com/2026/04/07/pasco-marks-50-years-in-industrial-automation/100373/
 https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/
 https://singularityhub.com/2026/03/09/hackers-are-automating-cyberattacks-with-ai-defenders-are-using-it-to-fight-back/
 https://singularityhub.com/2026/03/19/tech-companies-are-blaming-massive-layoffs-on-ai-whats-really-going-on/
@@ -635,6 +641,7 @@ https://techcrunch.com/2026/04/06/north-koreas-hijack-of-one-of-the-webs-most-us
 https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/
 https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/
 https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/
+https://techcrunch.com/2026/04/07/hermeus-raises-350m-to-build-autonomous-hypersonic-fighters/
 https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/
 https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/
 https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/
@@ -707,6 +714,7 @@ https://venturebeat.com/technology/when-product-managers-ship-code-ai-just-broke
 https://venturebeat.com/technology/xiaomi-stuns-with-new-mimo-v2-pro-llm-nearing-gpt-5-2-opus-4-6-performance
 https://venturebeat.com/technology/z-ai-debuts-faster-cheaper-glm-5-turbo-model-for-agents-and-claws-but-its
 https://www.bbc.com/news/articles/c070e283k8vo?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c145enxln0go?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c3ewe7v7gpgo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c4g7k7zdd0zo?at_medium=RSS&at_campaign=rss
@@ -717,6 +725,7 @@ https://www.bbc.com/news/articles/c5y9d44jj24o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c70n2rjgxeyo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c74721xyd1wo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c7474004g01o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c8x71ejrp92o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cdxg15eyv5ko?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cj0d6el50ppo?at_medium=RSS&at_campaign=rss
@@ -932,6 +941,10 @@ https://www.bloomberg.com/news/articles/2026-04-06/oracle-taps-schneider-electri
 https://www.bloomberg.com/news/articles/2026-04-06/russia-s-key-black-sea-oil-terminal-on-fire-nasa-data-show
 https://www.bloomberg.com/news/articles/2026-04-06/samsung-profit-up-eight-fold-after-ai-chip-sales-defy-war-fears
 https://www.bloomberg.com/news/articles/2026-04-06/san-francisco-house-prices-hit-record-2-15-million-on-ai-boom
+https://www.bloomberg.com/news/articles/2026-04-07/bryson-dechambeau-leads-investor-group-to-acquire-sportsbox-ai
+https://www.bloomberg.com/news/articles/2026-04-07/cerebras-backer-eclipse-raises-1-3-billion-for-robotics-ai-infrastructure
+https://www.bloomberg.com/news/articles/2026-04-07/google-adds-mental-health-tools-to-gemini-chatbot-after-lawsuit
+https://www.bloomberg.com/news/articles/2026-04-07/what-is-arr-behind-the-least-trusted-metric-of-the-ai-era
 https://www.bloomberg.com/news/audio/2026-03-28/odd-lots-ai-and-the-future-of-autonomous-weapons-podcast
 https://www.bloomberg.com/news/audio/2026-03-30/odd-lots-goldman-sachs-cio-marco-argenti-on-the-improvements-in-ai
 https://www.bloomberg.com/news/features/2026-03-19/new-york-city-office-leases-rebound-as-ai-companies-move-in
@@ -949,6 +962,7 @@ https://www.bloomberg.com/news/newsletters/2026-03-29/apple-doubles-down-on-hard
 https://www.bloomberg.com/news/newsletters/2026-03-30/trump-s-tech-group-ignores-leaders-of-top-ai-companies
 https://www.bloomberg.com/news/newsletters/2026-04-02/openclaw-is-helping-chinese-ai-firms-find-users-overseas
 https://www.bloomberg.com/news/newsletters/2026-04-02/spacex-s-record-listing-could-lead-to-a-year-of-big-ai-ipos
+https://www.bloomberg.com/news/newsletters/2026-04-07/microsoft-playing-catch-up-in-build-out-of-data-centers
 https://www.bloomberg.com/news/videos/2026-03-14/rattner-cooling-jobs-market-tariffs-and-ai-video
 https://www.bloomberg.com/news/videos/2026-03-16/bloomberg-tech-3-16-2026-video
 https://www.bloomberg.com/news/videos/2026-03-16/china-s-ai-boom-risks-job-losses-regulatory-concerns-video
@@ -1219,6 +1233,7 @@ https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem
 https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/
 https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/
 https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/
+https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/
 https://www.theverge.com/2019/7/19/20700565/nasa-artemis-moon-return-landing-trump-administration-jim-bridenstine
 https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data
 https://www.theverge.com/ai-artificial-intelligence/895639/xai-grok-teens-lawsuit-grok-ai-elon-musk
