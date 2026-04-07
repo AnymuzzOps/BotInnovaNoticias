@@ -10,6 +10,7 @@ https://arstechnica.com/ai/2026/03/openai-is-acquiring-open-source-python-tool-m
 https://arstechnica.com/ai/2026/03/staff-complain-that-xai-is-flailing-because-of-constant-upheaval/
 https://arstechnica.com/ai/2026/03/the-debut-of-gemini-3-1-flash-live-could-make-it-harder-to-know-if-youre-talking-to-a-robot/
 https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/
+https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/
 https://arstechnica.com/ai/2026/04/google-announces-gemma-4-open-ai-models-switches-to-apache-2-0-license/
 https://arstechnica.com/ai/2026/04/google-vids-gets-ai-upgrade-with-veo-and-lyria-models-directable-ai-avatars/
 https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/
@@ -119,6 +120,7 @@ https://futurism.com/artificial-intelligence/real-reason-openai-shut-sora-down
 https://futurism.com/artificial-intelligence/rogue-ai-agent-triggers-emergency-at-meta
 https://futurism.com/artificial-intelligence/seminole-nation-data-centers
 https://futurism.com/artificial-intelligence/startup-replace-developers-with-openclaw
+https://futurism.com/artificial-intelligence/state-maine-ban-new-data-centers
 https://futurism.com/artificial-intelligence/study-chats-delusional-users-ai
 https://futurism.com/artificial-intelligence/surreal-footage-melania-trump-white-house-robot
 https://futurism.com/artificial-intelligence/target-ai-agent-tos
@@ -709,6 +711,7 @@ https://www.bbc.com/news/articles/c4gjyg0g78vo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5y7374x9n4o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5y8d721q18o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c5y9d44jj24o?at_medium=RSS&at_campaign=rss
+https://www.bbc.com/news/articles/c70n2rjgxeyo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c74721xyd1wo?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/c7474004g01o?at_medium=RSS&at_campaign=rss
 https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&at_campaign=rss
@@ -924,6 +927,7 @@ https://www.bloomberg.com/news/articles/2026-04-06/nvidia-backed-data-center-bui
 https://www.bloomberg.com/news/articles/2026-04-06/openai-advocates-electric-grid-safety-net-spending-for-new-ai-era
 https://www.bloomberg.com/news/articles/2026-04-06/oracle-taps-schneider-electric-executive-as-new-cfo
 https://www.bloomberg.com/news/articles/2026-04-06/russia-s-key-black-sea-oil-terminal-on-fire-nasa-data-show
+https://www.bloomberg.com/news/articles/2026-04-06/samsung-profit-up-eight-fold-after-ai-chip-sales-defy-war-fears
 https://www.bloomberg.com/news/articles/2026-04-06/san-francisco-house-prices-hit-record-2-15-million-on-ai-boom
 https://www.bloomberg.com/news/audio/2026-03-28/odd-lots-ai-and-the-future-of-autonomous-weapons-podcast
 https://www.bloomberg.com/news/audio/2026-03-30/odd-lots-goldman-sachs-cio-marco-argenti-on-the-improvements-in-ai
@@ -1005,6 +1009,7 @@ https://www.bloomberg.com/news/videos/2026-04-03/nasa-s-artemis-ii-lifts-off-blo
 https://www.bloomberg.com/news/videos/2026-04-03/why-is-elon-musk-taking-spacex-public
 https://www.bloomberg.com/news/videos/2026-04-04/napster-is-evolving-in-the-ai-era-video
 https://www.bloomberg.com/news/videos/2026-04-05/ibm-masters-use-ai-to-bring-the-fairway-to-every-fan-video
+https://www.bloomberg.com/news/videos/2026-04-06/bloomberg-tech-4-6-2026-video
 https://www.bloomberg.com/news/videos/2026-04-06/former-commerce-secretary-on-where-ai-will-create-jobs-video
 https://www.cnet.com/culture/entertainment/ai-set-to-create-val-kilmers-likeness-for-film-one-year-after-his-death/
 https://www.cnet.com/home/kitchen-and-household/5-common-robot-vacuum-mistakes-sabotaging-home-helper/
@@ -1014,6 +1019,7 @@ https://www.cnet.com/news-live/nasa-artemis-ii-live-launch-historic-moon-mission
 https://www.cnet.com/news-live/nvidia-gtc-2026-live-blog-updates/
 https://www.cnet.com/news-live/sxsw-2026-updates-news-tech-culture/
 https://www.cnet.com/news/ai-cooking-robots-have-flopped-will-the-nosh-one-be-any-different-heres-my-take/
+https://www.cnet.com/news/are-electric-bag-resealers-the-key-to-chip-freshness-i-tested-2-to-find-out/
 https://www.cnet.com/news/social-media/dancing-robot-california-hot-pot-restaurant/
 https://www.cnet.com/news/spacex-files-draft-for-potentially-stratospheric-ipo/
 https://www.cnet.com/roadshow/news/waymo-robotaxis-everything-to-know/
@@ -1145,6 +1151,7 @@ https://www.marktechpost.com/2026/04/04/netflix-ai-team-just-open-sourced-void-a
 https://www.marktechpost.com/2026/04/05/inside-the-creative-artificial-intelligence-ai-stack-where-human-vision-and-artificial-intelligence-meet-to-design-future-fashion/
 https://www.marktechpost.com/2026/04/05/meet-autoagent-the-open-source-library-that-lets-an-ai-engineer-and-optimize-its-own-agent-harness-overnight/
 https://www.marktechpost.com/2026/04/05/meet-maxtoki-the-ai-that-predicts-how-your-cells-age-and-what-to-do-about-it/
+https://www.marktechpost.com/2026/04/06/an-implementation-guide-to-running-nvidia-transformer-engine-with-mixed-precision-fp8-checks-benchmarking-and-fallback-execution/
 https://www.marktechpost.com/2026/04/06/rightnow-ai-releases-autokernel-an-open-source-framework-that-applies-an-autonomous-agent-loop-to-gpu-kernel-optimization-for-arbitrary-pytorch-models/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
@@ -1172,6 +1179,7 @@ https://www.sciencedaily.com/releases/2026/03/260313002650.htm
 https://www.sciencedaily.com/releases/2026/03/260315004355.htm
 https://www.sciencedaily.com/releases/2026/03/260317064512.htm
 https://www.sciencedaily.com/releases/2026/03/260331001104.htm
+https://www.sciencedaily.com/releases/2026/04/260405003952.htm
 https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/
 https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/
 https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/
