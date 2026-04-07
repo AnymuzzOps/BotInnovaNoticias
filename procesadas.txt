@@ -408,6 +408,7 @@ https://roboticsandautomationnews.com/2026/04/01/epson-and-clayton-controls-form
 https://roboticsandautomationnews.com/2026/04/01/tekpak-automation-to-showcase-pick-and-place-robotic-cell-at-interpack-2026/100341/
 https://roboticsandautomationnews.com/2026/04/01/what-skills-will-truck-techs-need-in-the-ai-era/100333/
 https://roboticsandautomationnews.com/2026/04/03/what-nlp-in-test-automation-actually-means-and-why-it-matters-now/100354/
+https://roboticsandautomationnews.com/2026/04/07/big-d-expands-construction-operations-with-fieldai-as-robotics-adoption-accelerates/100362/
 https://singularityhub.com/2026/03/06/autonomous-ai-agents-have-an-ethics-problem/
 https://singularityhub.com/2026/03/09/hackers-are-automating-cyberattacks-with-ai-defenders-are-using-it-to-fight-back/
 https://singularityhub.com/2026/03/19/tech-companies-are-blaming-massive-layoffs-on-ai-whats-really-going-on/
@@ -1154,6 +1155,7 @@ https://www.marktechpost.com/2026/04/05/inside-the-creative-artificial-intellige
 https://www.marktechpost.com/2026/04/05/meet-autoagent-the-open-source-library-that-lets-an-ai-engineer-and-optimize-its-own-agent-harness-overnight/
 https://www.marktechpost.com/2026/04/05/meet-maxtoki-the-ai-that-predicts-how-your-cells-age-and-what-to-do-about-it/
 https://www.marktechpost.com/2026/04/06/an-implementation-guide-to-running-nvidia-transformer-engine-with-mixed-precision-fp8-checks-benchmarking-and-fallback-execution/
+https://www.marktechpost.com/2026/04/06/meta-ai-releases-eupe-a-compact-vision-encoder-family-under-100m-parameters-that-rivals-specialist-models-across-image-understanding-dense-prediction-and-vlm-tasks/
 https://www.marktechpost.com/2026/04/06/rightnow-ai-releases-autokernel-an-open-source-framework-that-applies-an-autonomous-agent-loop-to-gpu-kernel-optimization-for-arbitrary-pytorch-models/
 https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html
 https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html
@@ -1182,6 +1184,7 @@ https://www.sciencedaily.com/releases/2026/03/260315004355.htm
 https://www.sciencedaily.com/releases/2026/03/260317064512.htm
 https://www.sciencedaily.com/releases/2026/03/260331001104.htm
 https://www.sciencedaily.com/releases/2026/04/260405003952.htm
+https://www.sciencedaily.com/releases/2026/04/260406192904.htm
 https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/
 https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/
 https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/
